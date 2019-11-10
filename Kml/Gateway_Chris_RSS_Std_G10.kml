@@ -3433,7 +3433,7 @@
 </Placemark>
 <Placemark>
 	<name>Cell 156</name>
-	<styleUrl>#Color8</styleUrl>
+	<styleUrl>#Color6</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -4765,7 +4765,7 @@
 </Placemark>
 <Placemark>
 	<name>Cell 230</name>
-	<styleUrl>#Color1</styleUrl>
+	<styleUrl>#Color3</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -7008,6 +7008,24 @@
 		5.6979561244,45.1835812139,1.0000000000
 		5.6980833595,45.1835812198,1.0000000000
 		5.6980833678,45.1834912394,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 355</name>
+	<styleUrl>#Color1</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6978291134,45.1812417181,1.0000000000
+		5.6978291048,45.1813316985,1.0000000000
+		5.6979563349,45.1813317045,1.0000000000
+		5.6979563433,45.1812417242,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
