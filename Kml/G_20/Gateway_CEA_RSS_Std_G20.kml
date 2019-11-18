@@ -1833,14 +1833,14 @@
 	<name>Cell 45</name>
 	<description>Créée le 08-Nov-2019 17:53:59
  par Chris
- #Valeurs =44
- mean=-117.82dBm
+ #Valeurs =52
+ mean=-117.23dBm
  min=-121dBm
- max=-114dBm
- std=2.25dBm 
+ max=-108dBm
+ std=3.10dBm 
 
  	</description>
-	<styleUrl>#Color3</styleUrl>
+	<styleUrl>#Color4</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -5397,11 +5397,11 @@
 	<name>Cell 177</name>
 	<description>Créée le 09-Nov-2019 10:54:35
  par Chris
- #Valeurs =1034
- mean=-117.85dBm
+ #Valeurs =1039
+ mean=-117.84dBm
  min=-125dBm
  max=-98dBm
- std=3.18dBm 
+ std=3.17dBm 
 
  	</description>
 	<styleUrl>#Color5</styleUrl>
@@ -60603,6 +60603,87 @@
 		5.7352954100,45.1900627836,1.0000000000
 		5.7355499091,45.1900627238,1.0000000000
 		5.7355498241,45.1898827633,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2222</name>
+	<description>Créée le 18-Nov-2019 16:33:27
+ par Benoit
+ #Valeurs =1
+ mean=-119.00dBm
+ min=-119dBm
+ max=-119dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7358044082,45.1900626634,1.0000000000
+		5.7358044940,45.1902426238,1.0000000000
+		5.7360589939,45.1902425629,1.0000000000
+		5.7360589073,45.1900626024,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2223</name>
+	<description>Créée le 18-Nov-2019 16:33:36
+ par Benoit
+ #Valeurs =1
+ mean=-117.00dBm
+ min=-117dBm
+ max=-117dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7360589939,45.1902425629,1.0000000000
+		5.7360590805,45.1904225234,1.0000000000
+		5.7363135812,45.1904224618,1.0000000000
+		5.7363134938,45.1902425014,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2224</name>
+	<description>Créée le 18-Nov-2019 16:34:12
+ par Benoit
+ #Valeurs =2
+ mean=-116.00dBm
+ min=-117dBm
+ max=-115dBm
+ std=1.41dBm 
+
+ 	</description>
+	<styleUrl>#Color2</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7365680819,45.1904223997,1.0000000000
+		5.7365681702,45.1906023602,1.0000000000
+		5.7368226717,45.1906022975,1.0000000000
+		5.7368225826,45.1904223371,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
