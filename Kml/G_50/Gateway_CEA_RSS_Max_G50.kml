@@ -5424,11 +5424,11 @@
 	<name>Cell 178</name>
 	<description>Créée le 09-Nov-2019 14:01:49
  par Chris
- #Valeurs =10
- mean=-112.30dBm
+ #Valeurs =11
+ mean=-112.55dBm
  min=-119dBm
  max=-105dBm
- std=3.83dBm 
+ std=3.72dBm 
 
  	</description>
 	<styleUrl>#Color13</styleUrl>
@@ -35655,6 +35655,33 @@
 		5.7022114633,45.1816075824,1.0000000000
 		5.7028476169,45.1816076161,1.0000000000
 		5.7028476620,45.1811577141,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 1298</name>
+	<description>Créée le 18-Nov-2019 19:11:03
+ par Chris
+ #Valeurs =1
+ mean=-104.00dBm
+ min=-104dBm
+ max=-104dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color13</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7015754199,45.1807077413,1.0000000000
+		5.7015753647,45.1811576433,1.0000000000
+		5.7022115134,45.1811576805,1.0000000000
+		5.7022115635,45.1807077785,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
