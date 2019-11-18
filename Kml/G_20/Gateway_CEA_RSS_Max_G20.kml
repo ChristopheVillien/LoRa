@@ -5397,11 +5397,11 @@
 	<name>Cell 177</name>
 	<description>Créée le 09-Nov-2019 10:54:35
  par Chris
- #Valeurs =1118
- mean=-117.73dBm
+ #Valeurs =1130
+ mean=-117.70dBm
  min=-125dBm
  max=-98dBm
- std=3.21dBm 
+ std=3.23dBm 
 
  	</description>
 	<styleUrl>#Color17</styleUrl>
@@ -60684,6 +60684,33 @@
 		5.7365681702,45.1906023602,1.0000000000
 		5.7368226717,45.1906022975,1.0000000000
 		5.7368225826,45.1904223371,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2225</name>
+	<description>Créée le 18-Nov-2019 16:45:32
+ par Benoit
+ #Valeurs =1
+ mean=-119.00dBm
+ min=-119dBm
+ max=-119dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color4</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7373321279,45.1915019728,1.0000000000
+		5.7373322185,45.1916819332,1.0000000000
+		5.7375867248,45.1916818689,1.0000000000
+		5.7375866334,45.1915019084,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
