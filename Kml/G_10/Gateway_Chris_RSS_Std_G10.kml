@@ -2346,14 +2346,14 @@
 	<name>Cell 64</name>
 	<description>Créée le 08-Nov-2019 18:35:58
  par Chris
- #Valeurs =1
- mean=-62.00dBm
+ #Valeurs =2
+ mean=-57.50dBm
  min=-62dBm
- max=-62dBm
- std=0.00dBm 
+ max=-53dBm
+ std=6.36dBm 
 
  	</description>
-	<styleUrl>#Color1</styleUrl>
+	<styleUrl>#Color9</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -3669,14 +3669,14 @@
 	<name>Cell 113</name>
 	<description>Créée le 09-Nov-2019 11:08:16
  par Chris
- #Valeurs =12
- mean=-78.92dBm
+ #Valeurs =13
+ mean=-78.85dBm
  min=-103dBm
  max=-53dBm
- std=16.60dBm 
+ std=15.90dBm 
 
  	</description>
-	<styleUrl>#Color22</styleUrl>
+	<styleUrl>#Color21</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -12228,14 +12228,14 @@
 	<name>Cell 430</name>
 	<description>Créée le 12-Nov-2019 23:48:55
  par Chris
- #Valeurs =1
- mean=-109.00dBm
+ #Valeurs =2
+ mean=-102.00dBm
  min=-109dBm
- max=-109dBm
- std=0.00dBm 
+ max=-95dBm
+ std=9.90dBm 
 
  	</description>
-	<styleUrl>#Color1</styleUrl>
+	<styleUrl>#Color13</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -32037,6 +32037,33 @@
 		5.6969950945,45.1811572708,1.0000000000
 		5.6971223242,45.1811572836,1.0000000000
 		5.6971223422,45.1810673032,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 1164</name>
+	<description>Créée le 18-Nov-2019 19:12:49
+ par Chris
+ #Valeurs =1
+ mean=-88.00dBm
+ min=-88dBm
+ max=-88dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6971219273,45.1831368519,1.0000000000
+		5.6971219092,45.1832268322,1.0000000000
+		5.6972491436,45.1832268449,1.0000000000
+		5.6972491614,45.1831368646,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
