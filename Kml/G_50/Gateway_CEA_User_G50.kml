@@ -82,11 +82,11 @@
 	<name>Cell 2</name>
 	<description>Créée le 08-Nov-2019 08:10:47
  par Chris
- #Valeurs =1001
- mean=-118.00dBm
+ #Valeurs =1005
+ mean=-117.98dBm
  min=-125dBm
  max=-102dBm
- std=3.01dBm 
+ std=3.03dBm 
 
  	</description>
 	<styleUrl>#Color1</styleUrl>
@@ -919,11 +919,11 @@
 	<name>Cell 33</name>
 	<description>Créée le 08-Nov-2019 16:58:42
  par Chris
- #Valeurs =8
- mean=-115.00dBm
+ #Valeurs =9
+ mean=-115.56dBm
  min=-121dBm
  max=-105dBm
- std=6.41dBm 
+ std=6.23dBm 
 
  	</description>
 	<styleUrl>#Color1</styleUrl>
@@ -973,11 +973,11 @@
 	<name>Cell 35</name>
 	<description>Créée le 08-Nov-2019 16:59:30
  par Chris
- #Valeurs =102
+ #Valeurs =108
  mean=-116.59dBm
  min=-123dBm
  max=-98dBm
- std=4.11dBm 
+ std=4.04dBm 
 
  	</description>
 	<styleUrl>#Color1</styleUrl>
@@ -2674,11 +2674,11 @@
 	<name>Cell 98</name>
 	<description>Créée le 09-Nov-2019 10:08:05
  par Chris
- #Valeurs =2
- mean=-120.50dBm
+ #Valeurs =3
+ mean=-120.00dBm
  min=-121dBm
- max=-120dBm
- std=0.71dBm 
+ max=-119dBm
+ std=1.00dBm 
 
  	</description>
 	<styleUrl>#Color1</styleUrl>
@@ -34174,6 +34174,60 @@
 		5.7270234908,45.1879048929,1.0000000000
 		5.7276597146,45.1879047883,1.0000000000
 		5.7276595642,45.1874548869,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 1265</name>
+	<description>Créée le 18-Nov-2019 16:30:47
+ par Benoit
+ #Valeurs =1
+ mean=-118.00dBm
+ min=-118dBm
+ max=-118dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color4</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7314774180,45.1888038894,1.0000000000
+		5.7314775984,45.1892537907,1.0000000000
+		5.7321138372,45.1892536613,1.0000000000
+		5.7321136518,45.1888037600,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 1266</name>
+	<description>Créée le 18-Nov-2019 16:30:59
+ par Benoit
+ #Valeurs =1
+ mean=-111.00dBm
+ min=-111dBm
+ max=-111dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color4</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7314775984,45.1892537907,1.0000000000
+		5.7314777789,45.1897036920,1.0000000000
+		5.7321140227,45.1897035626,1.0000000000
+		5.7321138372,45.1892536613,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
