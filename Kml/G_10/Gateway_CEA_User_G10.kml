@@ -2539,11 +2539,11 @@
 	<name>Cell 93</name>
 	<description>Créée le 08-Nov-2019 18:36:09
  par Chris
- #Valeurs =2
- mean=-120.00dBm
+ #Valeurs =4
+ mean=-118.00dBm
  min=-121dBm
- max=-119dBm
- std=1.41dBm 
+ max=-116dBm
+ std=2.45dBm 
 
  	</description>
 	<styleUrl>#Color1</styleUrl>
@@ -5293,11 +5293,11 @@
 	<name>Cell 195</name>
 	<description>Créée le 09-Nov-2019 10:54:35
  par Chris
- #Valeurs =474
- mean=-118.03dBm
+ #Valeurs =478
+ mean=-117.99dBm
  min=-125dBm
  max=-102dBm
- std=2.94dBm 
+ std=2.97dBm 
 
  	</description>
 	<styleUrl>#Color1</styleUrl>
@@ -5860,8 +5860,8 @@
 	<name>Cell 216</name>
 	<description>Créée le 09-Nov-2019 11:07:15
  par Chris
- #Valeurs =460
- mean=-117.97dBm
+ #Valeurs =462
+ mean=-117.96dBm
  min=-125dBm
  max=-102dBm
  std=3.15dBm 
@@ -80317,6 +80317,87 @@
 		5.7307140421,45.1890739807,1.0000000000
 		5.7308412895,45.1890739560,1.0000000000
 		5.7308412544,45.1889839757,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2974</name>
+	<description>Créée le 18-Nov-2019 16:31:02
+ par Chris
+ #Valeurs =2
+ mean=-114.00dBm
+ min=-114dBm
+ max=-114dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6976306052,45.1844866070,1.0000000000
+		5.6976305880,45.1845765874,1.0000000000
+		5.6977578253,45.1845765995,1.0000000000
+		5.6977578424,45.1844866192,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2975</name>
+	<description>Créée le 18-Nov-2019 16:30:47
+ par Benoit
+ #Valeurs =1
+ mean=-118.00dBm
+ min=-118dBm
+ max=-118dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color4</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7316048099,45.1891637848,1.0000000000
+		5.7316048462,45.1892537651,1.0000000000
+		5.7317320940,45.1892537394,1.0000000000
+		5.7317320575,45.1891637591,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2976</name>
+	<description>Créée le 18-Nov-2019 16:30:59
+ par Benoit
+ #Valeurs =1
+ mean=-111.00dBm
+ min=-111dBm
+ max=-111dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color4</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7316048462,45.1892537651,1.0000000000
+		5.7316048825,45.1893437454,1.0000000000
+		5.7317321304,45.1893437196,1.0000000000
+		5.7317320940,45.1892537394,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
