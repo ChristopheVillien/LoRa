@@ -1833,14 +1833,14 @@
 	<name>Cell 45</name>
 	<description>Créée le 08-Nov-2019 17:53:59
  par Chris
- #Valeurs =76
- mean=-116.87dBm
+ #Valeurs =84
+ mean=-115.88dBm
  min=-121dBm
- max=-108dBm
- std=3.07dBm 
+ max=-87dBm
+ std=5.88dBm 
 
  	</description>
-	<styleUrl>#Color4</styleUrl>
+	<styleUrl>#Color8</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -5397,8 +5397,8 @@
 	<name>Cell 177</name>
 	<description>Créée le 09-Nov-2019 10:54:35
  par Chris
- #Valeurs =1149
- mean=-117.68dBm
+ #Valeurs =1161
+ mean=-117.67dBm
  min=-125dBm
  max=-98dBm
  std=3.23dBm 
@@ -60765,6 +60765,60 @@
 		5.7368229388,45.1911421789,1.0000000000
 		5.7370774427,45.1911421157,1.0000000000
 		5.7370773528,45.1909621552,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2228</name>
+	<description>Créée le 18-Nov-2019 16:48:14
+ par Benoit
+ #Valeurs =1
+ mean=-119.00dBm
+ min=-119dBm
+ max=-119dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7365679937,45.1902424393,1.0000000000
+		5.7365680819,45.1904223997,1.0000000000
+		5.7368225826,45.1904223371,1.0000000000
+		5.7368224936,45.1902423766,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2229</name>
+	<description>Créée le 18-Nov-2019 16:48:37
+ par Benoit
+ #Valeurs =1
+ mean=-117.00dBm
+ min=-117dBm
+ max=-117dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7363134938,45.1902425014,1.0000000000
+		5.7363135812,45.1904224618,1.0000000000
+		5.7365680819,45.1904223997,1.0000000000
+		5.7365679937,45.1902424393,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
