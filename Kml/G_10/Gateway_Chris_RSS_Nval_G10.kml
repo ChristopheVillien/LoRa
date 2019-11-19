@@ -22353,14 +22353,14 @@
 	<name>Cell 805</name>
 	<description>Créée le 18-Nov-2019 07:47:15
  par Chris
- #Valeurs =1
- mean=-115.00dBm
+ #Valeurs =2
+ mean=-114.50dBm
  min=-115dBm
- max=-115dBm
- std=0.00dBm 
+ max=-114dBm
+ std=0.71dBm 
 
  	</description>
-	<styleUrl>#Color13</styleUrl>
+	<styleUrl>#Color26</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -30912,14 +30912,14 @@
 	<name>Cell 1122</name>
 	<description>Créée le 18-Nov-2019 16:18:57
  par Benoit
- #Valeurs =2
- mean=-117.50dBm
- min=-118dBm
+ #Valeurs =3
+ mean=-118.00dBm
+ min=-119dBm
  max=-117dBm
- std=0.71dBm 
+ std=1.00dBm 
 
  	</description>
-	<styleUrl>#Color26</styleUrl>
+	<styleUrl>#Color39</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -32712,6 +32712,114 @@
 		5.7120089228,45.1931251859,1.0000000000
 		5.7121361791,45.1931251820,1.0000000000
 		5.7121361735,45.1930352018,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 1189</name>
+	<description>Créée le 19-Nov-2019 07:43:17
+ par Benoit
+ #Valeurs =2
+ mean=-115.00dBm
+ min=-116dBm
+ max=-114dBm
+ std=1.41dBm 
+
+ 	</description>
+	<styleUrl>#Color26</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7112454728,45.1950147904,1.0000000000
+		5.7112454770,45.1951047706,1.0000000000
+		5.7113727378,45.1951047675,1.0000000000
+		5.7113727334,45.1950147873,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 1190</name>
+	<description>Créée le 19-Nov-2019 07:43:41
+ par Benoit
+ #Valeurs =1
+ mean=-114.00dBm
+ min=-114dBm
+ max=-114dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color13</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7108636982,45.1951947590,1.0000000000
+		5.7108637018,45.1952847392,1.0000000000
+		5.7109909630,45.1952847366,1.0000000000
+		5.7109909592,45.1951947564,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 1191</name>
+	<description>Créée le 19-Nov-2019 07:43:52
+ par Benoit
+ #Valeurs =1
+ mean=-115.00dBm
+ min=-115dBm
+ max=-115dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color13</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7104819152,45.1951947661,1.0000000000
+		5.7104819182,45.1952847462,1.0000000000
+		5.7106091794,45.1952847440,1.0000000000
+		5.7106091762,45.1951947639,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 1192</name>
+	<description>Créée le 19-Nov-2019 07:44:04
+ par Benoit
+ #Valeurs =1
+ mean=-120.00dBm
+ min=-120dBm
+ max=-120dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color13</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7104819182,45.1952847462,1.0000000000
+		5.7104819212,45.1953747264,1.0000000000
+		5.7106091826,45.1953747242,1.0000000000
+		5.7106091794,45.1952847440,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
