@@ -30885,14 +30885,14 @@
 	<name>Cell 1121</name>
 	<description>Créée le 13-Nov-2019 13:22:21
  par Nico
- #Valeurs =1
- mean=-89.00dBm
- min=-89dBm
+ #Valeurs =3
+ mean=-92.67dBm
+ min=-100dBm
  max=-89dBm
- std=0.00dBm 
+ std=6.35dBm 
 
  	</description>
-	<styleUrl>#Color31</styleUrl>
+	<styleUrl>#Color28</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -77595,11 +77595,11 @@
 	<name>Cell 2851</name>
 	<description>Créée le 18-Nov-2019 07:43:42
  par Chris
- #Valeurs =2
- mean=-98.00dBm
+ #Valeurs =3
+ mean=-97.00dBm
  min=-98dBm
- max=-98dBm
- std=0.00dBm 
+ max=-95dBm
+ std=1.73dBm 
 
  	</description>
 	<styleUrl>#Color24</styleUrl>
@@ -84957,6 +84957,87 @@
 		5.7111179675,45.1895259998,1.0000000000
 		5.7112452159,45.1895259969,1.0000000000
 		5.7112452117,45.1894360167,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 3124</name>
+	<description>Créée le 19-Nov-2019 07:51:11
+ par Chris
+ #Valeurs =1
+ mean=-103.00dBm
+ min=-103dBm
+ max=-103dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color19</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7114997311,45.1898859117,1.0000000000
+		5.7114997357,45.1899758920,1.0000000000
+		5.7116269851,45.1899758887,1.0000000000
+		5.7116269803,45.1898859084,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 3125</name>
+	<description>Créée le 19-Nov-2019 07:51:23
+ par Chris
+ #Valeurs =1
+ mean=-96.00dBm
+ min=-96dBm
+ max=-96dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color25</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7113724996,45.1902458359,1.0000000000
+		5.7113725040,45.1903358162,1.0000000000
+		5.7114997542,45.1903358130,1.0000000000
+		5.7114997496,45.1902458327,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 3126</name>
+	<description>Créée le 19-Nov-2019 07:51:48
+ par Chris
+ #Valeurs =1
+ mean=-105.00dBm
+ min=-105dBm
+ max=-105dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color18</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7116270381,45.1909656714,1.0000000000
+		5.7116270429,45.1910556516,1.0000000000
+		5.7117542947,45.1910556482,1.0000000000
+		5.7117542896,45.1909656679,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
