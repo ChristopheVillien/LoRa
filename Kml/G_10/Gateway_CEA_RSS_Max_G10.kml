@@ -44304,11 +44304,11 @@
 	<name>Cell 1618</name>
 	<description>Créée le 17-Nov-2019 15:49:48
  par Chris
- #Valeurs =27
- mean=-118.26dBm
+ #Valeurs =28
+ mean=-118.32dBm
  min=-121dBm
  max=-104dBm
- std=3.54dBm 
+ std=3.49dBm 
 
  	</description>
 	<styleUrl>#Color13</styleUrl>
@@ -99996,6 +99996,33 @@
 		5.6825968141,45.2280344931,1.0000000000
 		5.6827241483,45.2280345220,1.0000000000
 		5.6827241891,45.2279445424,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 3681</name>
+	<description>Créée le 20-Nov-2019 13:05:59
+ par Chris
+ #Valeurs =1
+ mean=-120.00dBm
+ min=-120dBm
+ max=-120dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color4</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6825965274,45.2286643504,1.0000000000
+		5.6825964864,45.2287543300,1.0000000000
+		5.6827238223,45.2287543589,1.0000000000
+		5.6827238630,45.2286643792,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>

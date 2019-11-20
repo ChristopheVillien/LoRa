@@ -38931,11 +38931,11 @@
 	<name>Cell 1419</name>
 	<description>Créée le 20-Nov-2019 12:55:01
  par Chris
- #Valeurs =25
- mean=-117.60dBm
+ #Valeurs =26
+ mean=-117.65dBm
  min=-120dBm
  max=-109dBm
- std=3.38dBm 
+ std=3.32dBm 
 
  	</description>
 	<styleUrl>#Color7</styleUrl>
@@ -38976,6 +38976,33 @@
 		5.6824694799,45.2280344641,1.0000000000
 		5.6825968141,45.2280344931,1.0000000000
 		5.6825968551,45.2279445135,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 1421</name>
+	<description>Créée le 20-Nov-2019 13:06:14
+ par Chris
+ #Valeurs =1
+ mean=-117.00dBm
+ min=-117dBm
+ max=-117dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color7</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6827237000,45.2290242977,1.0000000000
+		5.6827236592,45.2291142772,1.0000000000
+		5.6828509959,45.2291143060,1.0000000000
+		5.6828510364,45.2290243264,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
