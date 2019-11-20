@@ -17790,11 +17790,11 @@
 	<name>Cell 636</name>
 	<description>Créée le 19-Nov-2019 19:42:56
  par Chris
- #Valeurs =5
- mean=-116.20dBm
+ #Valeurs =6
+ mean=-116.33dBm
  min=-117dBm
  max=-115dBm
- std=1.10dBm 
+ std=1.03dBm 
 
  	</description>
 	<styleUrl>#Color12</styleUrl>
@@ -25908,6 +25908,33 @@
 		5.6986492842,45.1799876813,1.0000000000
 		5.6989037384,45.1799877031,1.0000000000
 		5.6989037689,45.1798077423,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 937</name>
+	<description>Créée le 20-Nov-2019 12:46:49
+ par Chris
+ #Valeurs =4
+ mean=-117.25dBm
+ min=-119dBm
+ max=-115dBm
+ std=2.06dBm 
+
+ 	</description>
+	<styleUrl>#Color9</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7032294607,45.1799879874,1.0000000000
+		5.7032294438,45.1801679482,1.0000000000
+		5.7034838989,45.1801679599,1.0000000000
+		5.7034839149,45.1799879990,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
