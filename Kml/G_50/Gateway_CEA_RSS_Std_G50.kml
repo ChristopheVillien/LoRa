@@ -32370,14 +32370,14 @@
 	<name>Cell 1176</name>
 	<description>Créée le 16-Nov-2019 09:35:10
  par Chris
- #Valeurs =4
- mean=-114.00dBm
+ #Valeurs =5
+ mean=-113.40dBm
  min=-119dBm
  max=-109dBm
- std=5.77dBm 
+ std=5.18dBm 
 
  	</description>
-	<styleUrl>#Color8</styleUrl>
+	<styleUrl>#Color7</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -35016,14 +35016,14 @@
 	<name>Cell 1274</name>
 	<description>Créée le 16-Nov-2019 12:06:53
  par Chris
- #Valeurs =14
- mean=-116.00dBm
+ #Valeurs =16
+ mean=-115.38dBm
  min=-123dBm
- max=-105dBm
- std=6.93dBm 
+ max=-101dBm
+ std=7.61dBm 
 
  	</description>
-	<styleUrl>#Color9</styleUrl>
+	<styleUrl>#Color10</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -35043,14 +35043,14 @@
 	<name>Cell 1275</name>
 	<description>Créée le 16-Nov-2019 12:08:12
  par Chris
- #Valeurs =2
- mean=-119.00dBm
+ #Valeurs =3
+ mean=-116.67dBm
  min=-119dBm
- max=-119dBm
- std=0.00dBm 
+ max=-112dBm
+ std=4.04dBm 
 
  	</description>
-	<styleUrl>#Color1</styleUrl>
+	<styleUrl>#Color6</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -43161,6 +43161,33 @@
 		5.6844029698,45.1726071568,1.0000000000
 		5.6850390231,45.1726072896,1.0000000000
 		5.6850392085,45.1721573871,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 1576</name>
+	<description>Créée le 20-Nov-2019 17:05:11
+ par Chris
+ #Valeurs =2
+ mean=-124.00dBm
+ min=-125dBm
+ max=-123dBm
+ std=1.41dBm 
+
+ 	</description>
+	<styleUrl>#Color2</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6844027794,45.1730570593,1.0000000000
+		5.6844025890,45.1735069618,1.0000000000
+		5.6850386524,45.1735070947,1.0000000000
+		5.6850388378,45.1730571922,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
