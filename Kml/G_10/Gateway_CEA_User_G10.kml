@@ -7669,11 +7669,11 @@
 	<name>Cell 283</name>
 	<description>Créée le 09-Nov-2019 13:05:35
  par Chris
- #Valeurs =1
- mean=-120.00dBm
+ #Valeurs =2
+ mean=-116.00dBm
  min=-120dBm
- max=-120dBm
- std=0.00dBm 
+ max=-112dBm
+ std=5.66dBm 
 
  	</description>
 	<styleUrl>#Color1</styleUrl>
@@ -104464,11 +104464,11 @@
 	<name>Cell 3868</name>
 	<description>Créée le 21-Nov-2019 07:32:06
  par Chris
- #Valeurs =1
- mean=-113.00dBm
+ #Valeurs =2
+ mean=-112.00dBm
  min=-113dBm
- max=-113dBm
- std=0.00dBm 
+ max=-111dBm
+ std=1.41dBm 
 
  	</description>
 	<styleUrl>#Color1</styleUrl>
@@ -104482,6 +104482,87 @@
 		5.6952140888,45.1802572724,1.0000000000
 		5.6953413165,45.1802572872,1.0000000000
 		5.6953413373,45.1801673068,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 3869</name>
+	<description>Créée le 21-Nov-2019 07:33:08
+ par Chris
+ #Valeurs =1
+ mean=-119.00dBm
+ min=-119dBm
+ max=-119dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6978858709,45.1802575536,1.0000000000
+		5.6978858541,45.1803475340,1.0000000000
+		5.6980130820,45.1803475459,1.0000000000
+		5.6980130987,45.1802575655,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 3870</name>
+	<description>Créée le 21-Nov-2019 07:32:29
+ par Chris
+ #Valeurs =1
+ mean=-115.00dBm
+ min=-115dBm
+ max=-115dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6963591383,45.1802574006,1.0000000000
+		5.6963591190,45.1803473810,1.0000000000
+		5.6964863469,45.1803473945,1.0000000000
+		5.6964863660,45.1802574141,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 3871</name>
+	<description>Créée le 21-Nov-2019 07:32:41
+ par Chris
+ #Valeurs =1
+ mean=-117.00dBm
+ min=-117dBm
+ max=-117dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6964863660,45.1802574141,1.0000000000
+		5.6964863469,45.1803473945,1.0000000000
+		5.6966135749,45.1803474079,1.0000000000
+		5.6966135937,45.1802574275,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
