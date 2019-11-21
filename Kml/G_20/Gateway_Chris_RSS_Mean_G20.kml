@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
+<ScreenOverlay>
+	<name>
+	 Legend: Wetlands
+	  </name>
+	<Icon>
+		  <href>https://github.com/ChristopheVillien/LoRa/blob/master/Kml/G_20/legend.emf</href>
+		  </Icon>
+		 <overlayXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+		  <screenXY x="25" y="95" xunits="pixels" yunits="pixels"/>
+		 <rotationXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		 <size x="0" y="0" xunits="pixels" yunits="pixels"/>
+	 </ScreenOverlay>
 <Style id="Color1">
 	<BalloonStyle>
 	</BalloonStyle>
