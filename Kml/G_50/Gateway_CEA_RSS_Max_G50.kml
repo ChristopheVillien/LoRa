@@ -14658,11 +14658,11 @@
 	<name>Cell 520</name>
 	<description>Créée le 13-Nov-2019 12:14:08
  par Chris
- #Valeurs =92
- mean=-71.87dBm
+ #Valeurs =94
+ mean=-72.01dBm
  min=-108dBm
  max=-50dBm
- std=13.18dBm 
+ std=13.09dBm 
 
  	</description>
 	<styleUrl>#Color46</styleUrl>
@@ -43728,6 +43728,33 @@
 		5.7079367260,45.1924053941,1.0000000000
 		5.7085730000,45.1924053959,1.0000000000
 		5.7085730000,45.1919554948,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 1597</name>
+	<description>Créée le 21-Nov-2019 07:48:21
+ par Benoit
+ #Valeurs =2
+ mean=-58.50dBm
+ min=-60dBm
+ max=-57dBm
+ std=2.12dBm 
+
+ 	</description>
+	<styleUrl>#Color42</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7079367060,45.1942049982,1.0000000000
+		5.7079367010,45.1946548992,1.0000000000
+		5.7085730000,45.1946549009,1.0000000000
+		5.7085730000,45.1942050000,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
