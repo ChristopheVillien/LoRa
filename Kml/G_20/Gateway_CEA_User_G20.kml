@@ -27676,11 +27676,11 @@
 	<name>Cell 1024</name>
 	<description>Créée le 14-Nov-2019 07:34:15
  par Chris
- #Valeurs =2
- mean=-118.50dBm
+ #Valeurs =4
+ mean=-116.25dBm
  min=-119dBm
- max=-118dBm
- std=0.71dBm 
+ max=-110dBm
+ std=4.19dBm 
 
  	</description>
 	<styleUrl>#Color1</styleUrl>
@@ -55972,11 +55972,11 @@
 	<name>Cell 2072</name>
 	<description>Créée le 15-Nov-2019 18:09:34
  par Chris
- #Valeurs =2
- mean=-111.00dBm
- min=-111dBm
+ #Valeurs =3
+ mean=-113.00dBm
+ min=-117dBm
  max=-111dBm
- std=0.00dBm 
+ std=3.46dBm 
 
  	</description>
 	<styleUrl>#Color1</styleUrl>
@@ -56026,11 +56026,11 @@
 	<name>Cell 2074</name>
 	<description>Créée le 15-Nov-2019 18:10:11
  par Chris
- #Valeurs =4
- mean=-112.00dBm
+ #Valeurs =5
+ mean=-112.20dBm
  min=-117dBm
  max=-107dBm
- std=5.77dBm 
+ std=5.02dBm 
 
  	</description>
 	<styleUrl>#Color1</styleUrl>
@@ -77860,6 +77860,60 @@
 		5.7057736857,45.1864666641,1.0000000000
 		5.7060281688,45.1864666700,1.0000000000
 		5.7060281768,45.1862867094,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2883</name>
+	<description>Créée le 21-Nov-2019 07:41:34
+ par Chris
+ #Valeurs =1
+ mean=-121.00dBm
+ min=-121dBm
+ max=-121dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7052645526,45.1893460197,1.0000000000
+		5.7052645422,45.1895259803,1.0000000000
+		5.7055190389,45.1895259873,1.0000000000
+		5.7055190486,45.1893460268,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2884</name>
+	<description>Créée le 21-Nov-2019 07:41:53
+ par Chris
+ #Valeurs =1
+ mean=-113.00dBm
+ min=-113dBm
+ max=-113dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7050100454,45.1895259726,1.0000000000
+		5.7050100342,45.1897059331,1.0000000000
+		5.7052645318,45.1897059408,1.0000000000
+		5.7052645422,45.1895259803,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
