@@ -3,16 +3,16 @@
 <Document>
 <ScreenOverlay>
 	<name>
-	 Legend
+	Chris - Users
 	  </name>
 	<Icon>
 		  <href>https://raw.githubusercontent.com/ChristopheVillien/LoRa/master/Kml/G_50/Gateway_Chris_User_G50.png</href>
-		  </Icon>
+	  </Icon>
 		 <overlayXY x="0" y="0" xunits="fraction" yunits="fraction"/>
-		  <screenXY x="25" y="95" xunits="pixels" yunits="pixels"/>
+		  <screenXY x="25" y="600" xunits="pixels" yunits="pixels"/>
 		 <rotationXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
-		 <size x="0" y="0" xunits="pixels" yunits="pixels"/>
-	 </ScreenOverlay>
+		 <size x="200" y="250" xunits="pixels" yunits="pixels"/>
+ </ScreenOverlay>
 <Style id="Color1">
 	<BalloonStyle>
 	</BalloonStyle>
@@ -30,7 +30,7 @@
 		<color>00000000</color>
 	</LineStyle>
 	<PolyStyle>
-		<color>cc0000ff</color>
+		<color>cc2994ff</color>
 	</PolyStyle>
 </Style>
 <Style id="Color3">
@@ -40,7 +40,7 @@
 		<color>00000000</color>
 	</LineStyle>
 	<PolyStyle>
-		<color>cc00ff00</color>
+		<color>ccff0080</color>
 	</PolyStyle>
 </Style>
 <Style id="Color4">
@@ -50,7 +50,7 @@
 		<color>00000000</color>
 	</LineStyle>
 	<PolyStyle>
-		<color>cc2994ff</color>
+		<color>cc00ff00</color>
 	</PolyStyle>
 </Style>
 <Style id="Color5">
@@ -60,7 +60,7 @@
 		<color>00000000</color>
 	</LineStyle>
 	<PolyStyle>
-		<color>ccff0080</color>
+		<color>cc0000ff</color>
 	</PolyStyle>
 </Style>
 <Style id="Color1-highlight">
@@ -80,7 +80,7 @@
 		<color>ffffffff</color>
 	</LineStyle>
 	<PolyStyle>
-		<color>cc0000ff</color>
+		<color>cc2994ff</color>
 	</PolyStyle>
 </Style>
 <Style id="Color3-highlight">
@@ -90,7 +90,7 @@
 		<color>ffffffff</color>
 	</LineStyle>
 	<PolyStyle>
-		<color>cc00ff00</color>
+		<color>ccff0080</color>
 	</PolyStyle>
 </Style>
 <Style id="Color4-highlight">
@@ -100,7 +100,7 @@
 		<color>ffffffff</color>
 	</LineStyle>
 	<PolyStyle>
-		<color>cc2994ff</color>
+		<color>cc00ff00</color>
 	</PolyStyle>
 </Style>
 <Style id="Color5-highlight">
@@ -110,7 +110,7 @@
 		<color>ffffffff</color>
 	</LineStyle>
 	<PolyStyle>
-		<color>ccff0080</color>
+		<color>cc0000ff</color>
 	</PolyStyle>
 </Style>
 <Placemark>
