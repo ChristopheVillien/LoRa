@@ -11,7 +11,7 @@
 		 <overlayXY x="0" y="0" xunits="fraction" yunits="fraction"/>
 		  <screenXY x="25" y="95" xunits="pixels" yunits="pixels"/>
 		 <rotationXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
-		 <size x="200" y="175" xunits="pixels" yunits="pixels"/>
+		 <size x="150" y="250" xunits="pixels" yunits="pixels"/>
  </ScreenOverlay>
 <Style id="Color1">
 	<BalloonStyle>
@@ -86797,6 +86797,33 @@
 		5.7584639423,45.2004927130,1.0000000000
 		5.7587184878,45.2004926015,1.0000000000
 		5.7587183298,45.2003126414,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 3168</name>
+	<description>Créée le 22-Nov-2019 11:45:07
+ par Simon
+ #Valeurs =2
+ mean=-119.00dBm
+ min=-119dBm
+ max=-119dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color6-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.8275360357,45.2438118810,1.0000000000
+		5.8275364110,45.2439918393,1.0000000000
+		5.8277911499,45.2439915737,1.0000000000
+		5.8277907738,45.2438116154,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
