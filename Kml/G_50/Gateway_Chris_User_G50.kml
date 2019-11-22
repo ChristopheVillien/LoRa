@@ -4113,11 +4113,11 @@
 	<name>Cell 149</name>
 	<description>Créée le 12-Nov-2019 07:54:26
  par Chris
- #Valeurs =18
- mean=-116.56dBm
+ #Valeurs =20
+ mean=-116.65dBm
  min=-120dBm
  max=-113dBm
- std=2.23dBm 
+ std=2.28dBm 
 
  	</description>
 	<styleUrl>#Color1</styleUrl>
@@ -5787,11 +5787,11 @@
 	<name>Cell 211</name>
 	<description>Créée le 13-Nov-2019 12:25:34
  par Chris
- #Valeurs =18
- mean=-117.06dBm
+ #Valeurs =20
+ mean=-117.20dBm
  min=-119dBm
  max=-113dBm
- std=1.70dBm 
+ std=1.67dBm 
 
  	</description>
 	<styleUrl>#Color1</styleUrl>
@@ -5895,11 +5895,11 @@
 	<name>Cell 215</name>
 	<description>Créée le 13-Nov-2019 12:29:58
  par Chris
- #Valeurs =1
- mean=-112.00dBm
- min=-112dBm
+ #Valeurs =2
+ mean=-115.50dBm
+ min=-119dBm
  max=-112dBm
- std=0.00dBm 
+ std=4.95dBm 
 
  	</description>
 	<styleUrl>#Color1</styleUrl>
@@ -6057,11 +6057,11 @@
 	<name>Cell 221</name>
 	<description>Créée le 13-Nov-2019 13:20:32
  par Nico
- #Valeurs =4
- mean=-118.25dBm
+ #Valeurs =5
+ mean=-118.20dBm
  min=-120dBm
  max=-115dBm
- std=2.22dBm 
+ std=1.92dBm 
 
  	</description>
 	<styleUrl>#Color3</styleUrl>
@@ -6192,11 +6192,11 @@
 	<name>Cell 226</name>
 	<description>Créée le 13-Nov-2019 16:46:43
  par Chris
- #Valeurs =12
- mean=-115.33dBm
+ #Valeurs =13
+ mean=-115.23dBm
  min=-120dBm
  max=-109dBm
- std=4.25dBm 
+ std=4.09dBm 
 
  	</description>
 	<styleUrl>#Color1</styleUrl>
@@ -6219,11 +6219,11 @@
 	<name>Cell 227</name>
 	<description>Créée le 13-Nov-2019 16:47:57
  par Chris
- #Valeurs =9
- mean=-116.33dBm
+ #Valeurs =10
+ mean=-115.60dBm
  min=-119dBm
- max=-113dBm
- std=2.24dBm 
+ max=-109dBm
+ std=3.13dBm 
 
  	</description>
 	<styleUrl>#Color1</styleUrl>
@@ -6570,11 +6570,11 @@
 	<name>Cell 240</name>
 	<description>Créée le 14-Nov-2019 07:47:48
  par Chris
- #Valeurs =8
- mean=-116.75dBm
+ #Valeurs =9
+ mean=-117.00dBm
  min=-120dBm
  max=-113dBm
- std=2.60dBm 
+ std=2.55dBm 
 
  	</description>
 	<styleUrl>#Color1</styleUrl>
@@ -7353,11 +7353,11 @@
 	<name>Cell 269</name>
 	<description>Créée le 15-Nov-2019 12:23:22
  par Chris
- #Valeurs =2
- mean=-112.50dBm
- min=-117dBm
+ #Valeurs =3
+ mean=-114.67dBm
+ min=-119dBm
  max=-108dBm
- std=6.36dBm 
+ std=5.86dBm 
 
  	</description>
 	<styleUrl>#Color1</styleUrl>
@@ -8730,7 +8730,7 @@
 	<name>Cell 320</name>
 	<description>Créée le 19-Nov-2019 07:53:49
  par Chris
- #Valeurs =1
+ #Valeurs =2
  mean=-118.00dBm
  min=-118dBm
  max=-118dBm
@@ -9682,7 +9682,7 @@
  std=2.83dBm 
 
  	</description>
-	<styleUrl>#Color1-highlight</styleUrl>
+	<styleUrl>#Color1</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -12868,7 +12868,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color4-highlight</styleUrl>
+	<styleUrl>#Color4</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -13642,6 +13642,87 @@
 </Placemark>
 <Placemark>
 	<name>Cell 502</name>
+	<description>Créée le 22-Nov-2019 07:42:50
+ par Benoit
+ #Valeurs =1
+ mean=-117.00dBm
+ min=-117dBm
+ max=-117dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color4-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7104817918,45.1915055777,1.0000000000
+		5.7104818069,45.1919554788,1.0000000000
+		5.7111180758,45.1919554664,1.0000000000
+		5.7111180558,45.1915055653,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 503</name>
+	<description>Créée le 22-Nov-2019 07:43:14
+ par Benoit
+ #Valeurs =1
+ mean=-119.00dBm
+ min=-119dBm
+ max=-119dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color4-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7104818069,45.1919554788,1.0000000000
+		5.7104818219,45.1924053800,1.0000000000
+		5.7111180959,45.1924053675,1.0000000000
+		5.7111180758,45.1919554664,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 504</name>
+	<description>Créée le 22-Nov-2019 07:43:52
+ par Benoit
+ #Valeurs =1
+ mean=-115.00dBm
+ min=-115dBm
+ max=-115dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color4-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7104818520,45.1933051821,1.0000000000
+		5.7104818670,45.1937550831,1.0000000000
+		5.7111181560,45.1937550707,1.0000000000
+		5.7111181360,45.1933051697,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 505</name>
 	<description>Créée le 19-Nov-2019 17:12:41
  par Simon
  #Valeurs =1
@@ -13668,7 +13749,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 503</name>
+	<name>Cell 506</name>
 	<description>Créée le 19-Nov-2019 17:31:54
  par Simon
  #Valeurs =1
@@ -13695,7 +13776,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 504</name>
+	<name>Cell 507</name>
 	<description>Créée le 20-Nov-2019 08:05:02
  par Simon
  #Valeurs =1
@@ -13722,7 +13803,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 505</name>
+	<name>Cell 508</name>
 	<description>Créée le 20-Nov-2019 08:05:14
  par Simon
  #Valeurs =2
@@ -13749,7 +13830,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 506</name>
+	<name>Cell 509</name>
 	<description>Créée le 20-Nov-2019 08:05:39
  par Simon
  #Valeurs =1
@@ -13776,7 +13857,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 507</name>
+	<name>Cell 510</name>
 	<description>Créée le 20-Nov-2019 08:06:15
  par Simon
  #Valeurs =2
@@ -13803,7 +13884,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 508</name>
+	<name>Cell 511</name>
 	<description>Créée le 20-Nov-2019 08:06:52
  par Simon
  #Valeurs =2
@@ -13830,7 +13911,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 509</name>
+	<name>Cell 512</name>
 	<description>Créée le 20-Nov-2019 12:47:45
  par Chris
  #Valeurs =1
@@ -13857,7 +13938,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 510</name>
+	<name>Cell 513</name>
 	<description>Créée le 20-Nov-2019 12:48:08
  par Chris
  #Valeurs =1
@@ -13884,7 +13965,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 511</name>
+	<name>Cell 514</name>
 	<description>Créée le 20-Nov-2019 12:48:53
  par Chris
  #Valeurs =1
@@ -13911,7 +13992,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 512</name>
+	<name>Cell 515</name>
 	<description>Créée le 20-Nov-2019 12:49:04
  par Chris
  #Valeurs =1
@@ -13938,7 +14019,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 513</name>
+	<name>Cell 516</name>
 	<description>Créée le 20-Nov-2019 12:49:16
  par Chris
  #Valeurs =1
@@ -13965,7 +14046,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 514</name>
+	<name>Cell 517</name>
 	<description>Créée le 20-Nov-2019 12:49:28
  par Chris
  #Valeurs =2
@@ -13992,7 +14073,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 515</name>
+	<name>Cell 518</name>
 	<description>Créée le 20-Nov-2019 12:49:50
  par Chris
  #Valeurs =1
@@ -14019,7 +14100,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 516</name>
+	<name>Cell 519</name>
 	<description>Créée le 20-Nov-2019 12:50:02
  par Chris
  #Valeurs =2
@@ -14046,7 +14127,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 517</name>
+	<name>Cell 520</name>
 	<description>Créée le 20-Nov-2019 12:50:37
  par Chris
  #Valeurs =1
@@ -14073,7 +14154,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 518</name>
+	<name>Cell 521</name>
 	<description>Créée le 20-Nov-2019 12:50:49
  par Chris
  #Valeurs =1
@@ -14100,7 +14181,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 519</name>
+	<name>Cell 522</name>
 	<description>Créée le 20-Nov-2019 12:51:00
  par Chris
  #Valeurs =1
@@ -14127,7 +14208,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 520</name>
+	<name>Cell 523</name>
 	<description>Créée le 20-Nov-2019 12:51:12
  par Chris
  #Valeurs =1
@@ -14154,7 +14235,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 521</name>
+	<name>Cell 524</name>
 	<description>Créée le 20-Nov-2019 12:51:36
  par Chris
  #Valeurs =1
@@ -14181,7 +14262,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 522</name>
+	<name>Cell 525</name>
 	<description>Créée le 20-Nov-2019 12:51:48
  par Chris
  #Valeurs =1
@@ -14208,7 +14289,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 523</name>
+	<name>Cell 526</name>
 	<description>Créée le 20-Nov-2019 12:52:00
  par Chris
  #Valeurs =1
@@ -14235,7 +14316,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 524</name>
+	<name>Cell 527</name>
 	<description>Créée le 20-Nov-2019 12:52:12
  par Chris
  #Valeurs =1
@@ -14262,7 +14343,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 525</name>
+	<name>Cell 528</name>
 	<description>Créée le 20-Nov-2019 12:52:36
  par Chris
  #Valeurs =1
@@ -14289,7 +14370,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 526</name>
+	<name>Cell 529</name>
 	<description>Créée le 20-Nov-2019 12:52:48
  par Chris
  #Valeurs =1
@@ -14316,7 +14397,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 527</name>
+	<name>Cell 530</name>
 	<description>Créée le 20-Nov-2019 12:53:00
  par Chris
  #Valeurs =1
@@ -14343,7 +14424,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 528</name>
+	<name>Cell 531</name>
 	<description>Créée le 20-Nov-2019 12:54:49
  par Chris
  #Valeurs =1
@@ -14370,7 +14451,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 529</name>
+	<name>Cell 532</name>
 	<description>Créée le 20-Nov-2019 13:06:50
  par Chris
  #Valeurs =1
@@ -14397,7 +14478,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 530</name>
+	<name>Cell 533</name>
 	<description>Créée le 20-Nov-2019 13:07:02
  par Chris
  #Valeurs =2
@@ -14424,7 +14505,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 531</name>
+	<name>Cell 534</name>
 	<description>Créée le 20-Nov-2019 13:07:27
  par Chris
  #Valeurs =1
@@ -14451,7 +14532,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 532</name>
+	<name>Cell 535</name>
 	<description>Créée le 20-Nov-2019 13:10:25
  par Chris
  #Valeurs =1
@@ -14478,7 +14559,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 533</name>
+	<name>Cell 536</name>
 	<description>Créée le 20-Nov-2019 13:17:01
  par Chris
  #Valeurs =1
@@ -14505,7 +14586,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 534</name>
+	<name>Cell 537</name>
 	<description>Créée le 20-Nov-2019 13:17:37
  par Chris
  #Valeurs =1
@@ -14532,7 +14613,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 535</name>
+	<name>Cell 538</name>
 	<description>Créée le 20-Nov-2019 13:19:09
  par Chris
  #Valeurs =1
@@ -14559,7 +14640,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 536</name>
+	<name>Cell 539</name>
 	<description>Créée le 20-Nov-2019 13:19:21
  par Chris
  #Valeurs =1
@@ -14586,7 +14667,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 537</name>
+	<name>Cell 540</name>
 	<description>Créée le 20-Nov-2019 13:20:20
  par Chris
  #Valeurs =1
@@ -14613,7 +14694,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 538</name>
+	<name>Cell 541</name>
 	<description>Créée le 20-Nov-2019 13:20:33
  par Chris
  #Valeurs =1
@@ -14640,7 +14721,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 539</name>
+	<name>Cell 542</name>
 	<description>Créée le 20-Nov-2019 13:21:31
  par Chris
  #Valeurs =1
@@ -14667,7 +14748,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 540</name>
+	<name>Cell 543</name>
 	<description>Créée le 20-Nov-2019 17:01:16
  par Chris
  #Valeurs =1
@@ -14694,7 +14775,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 541</name>
+	<name>Cell 544</name>
 	<description>Créée le 20-Nov-2019 17:04:47
  par Chris
  #Valeurs =1
@@ -14721,7 +14802,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 542</name>
+	<name>Cell 545</name>
 	<description>Créée le 21-Nov-2019 07:29:22
  par Chris
  #Valeurs =1
@@ -14748,7 +14829,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 543</name>
+	<name>Cell 546</name>
 	<description>Créée le 21-Nov-2019 07:31:06
  par Chris
  #Valeurs =2
@@ -14775,7 +14856,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 544</name>
+	<name>Cell 547</name>
 	<description>Créée le 21-Nov-2019 07:31:30
  par Chris
  #Valeurs =1
@@ -14802,7 +14883,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 545</name>
+	<name>Cell 548</name>
 	<description>Créée le 21-Nov-2019 07:31:54
  par Chris
  #Valeurs =1
@@ -14829,7 +14910,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 546</name>
+	<name>Cell 549</name>
 	<description>Créée le 21-Nov-2019 07:37:31
  par Chris
  #Valeurs =2
@@ -14856,7 +14937,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 547</name>
+	<name>Cell 550</name>
 	<description>Créée le 21-Nov-2019 07:38:08
  par Chris
  #Valeurs =1
@@ -14883,7 +14964,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 548</name>
+	<name>Cell 551</name>
 	<description>Créée le 21-Nov-2019 07:38:19
  par Chris
  #Valeurs =1
@@ -14910,7 +14991,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 549</name>
+	<name>Cell 552</name>
 	<description>Créée le 21-Nov-2019 07:39:55
  par Chris
  #Valeurs =1
@@ -14937,7 +15018,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 550</name>
+	<name>Cell 553</name>
 	<description>Créée le 21-Nov-2019 07:40:07
  par Chris
  #Valeurs =1
@@ -14964,7 +15045,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 551</name>
+	<name>Cell 554</name>
 	<description>Créée le 21-Nov-2019 07:40:20
  par Chris
  #Valeurs =2
@@ -14991,7 +15072,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 552</name>
+	<name>Cell 555</name>
 	<description>Créée le 21-Nov-2019 17:40:08
  par Chris
  #Valeurs =1
@@ -15018,7 +15099,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 553</name>
+	<name>Cell 556</name>
 	<description>Créée le 21-Nov-2019 18:55:49
  par Chris
  #Valeurs =1
@@ -15045,7 +15126,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 554</name>
+	<name>Cell 557</name>
 	<description>Créée le 21-Nov-2019 18:56:36
  par Chris
  #Valeurs =1
@@ -15072,7 +15153,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 555</name>
+	<name>Cell 558</name>
 	<description>Créée le 21-Nov-2019 18:56:48
  par Chris
  #Valeurs =1
@@ -15099,7 +15180,7 @@
 	</Polygon>
 </Placemark>
 <Placemark>
-	<name>Cell 556</name>
+	<name>Cell 559</name>
 	<description>Créée le 21-Nov-2019 23:16:02
  par Chris
  #Valeurs =1
