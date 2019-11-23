@@ -97054,7 +97054,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color5-highlight</styleUrl>
+	<styleUrl>#Color5</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -97081,7 +97081,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color5-highlight</styleUrl>
+	<styleUrl>#Color5</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -97108,7 +97108,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color5-highlight</styleUrl>
+	<styleUrl>#Color5</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -97135,7 +97135,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color5-highlight</styleUrl>
+	<styleUrl>#Color5</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -97162,7 +97162,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color5-highlight</styleUrl>
+	<styleUrl>#Color5</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -97189,7 +97189,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color5-highlight</styleUrl>
+	<styleUrl>#Color5</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -97216,7 +97216,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color5-highlight</styleUrl>
+	<styleUrl>#Color5</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -127584,11 +127584,11 @@
 	<name>Cell 4722</name>
 	<description>Créée le 23-Nov-2019 10:21:13
  par Chris
- #Valeurs =21
- mean=-119.18dBm
+ #Valeurs =25
+ mean=-119.29dBm
  min=-123dBm
  max=-113dBm
- std=2.06dBm 
+ std=2.03dBm 
 
  	</description>
 	<styleUrl>#Color1-highlight</styleUrl>
@@ -127818,6 +127818,33 @@
 		5.7616479357,45.2028307596,1.0000000000
 		5.7617752137,45.2028307004,1.0000000000
 		5.7617751298,45.2027407204,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 4731</name>
+	<description>Créée le 23-Nov-2019 12:30:36
+ par Chris
+ #Valeurs =1
+ mean=-123.00dBm
+ min=-123dBm
+ max=-123dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7594856549,45.2044513846,1.0000000000
+		5.7594857351,45.2045413646,1.0000000000
+		5.7596130169,45.2045413078,1.0000000000
+		5.7596129364,45.2044513278,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
