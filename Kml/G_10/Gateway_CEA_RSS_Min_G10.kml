@@ -134245,11 +134245,11 @@
 	<name>Cell 4925</name>
 	<description>Créée le 24-Nov-2019 18:31:21
  par Chris
- #Valeurs =1
- mean=-120.00dBm
+ #Valeurs =3
+ mean=-118.48dBm
  min=-120dBm
- max=-120dBm
- std=0.00dBm 
+ max=-117dBm
+ std=1.53dBm 
 
  	</description>
 	<styleUrl>#Color8-highlight</styleUrl>
@@ -134344,6 +134344,33 @@
 		5.7333895213,45.1966317685,1.0000000000
 		5.7335167855,45.1966317408,1.0000000000
 		5.7335167462,45.1965417606,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 4929</name>
+	<description>Créée le 24-Nov-2019 18:31:49
+ par Chris
+ #Valeurs =1
+ mean=-115.00dBm
+ min=-115dBm
+ max=-115dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color15-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7335167855,45.1966317408,1.0000000000
+		5.7335168248,45.1967217209,1.0000000000
+		5.7336440892,45.1967216931,1.0000000000
+		5.7336440497,45.1966317129,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
