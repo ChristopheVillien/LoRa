@@ -96210,11 +96210,11 @@
 	<name>Cell 3560</name>
 	<description>Créée le 21-Nov-2019 17:32:01
  par Simon
- #Valeurs =2
- mean=-114.00dBm
+ #Valeurs =4
+ mean=-112.25dBm
  min=-114dBm
- max=-114dBm
- std=0.00dBm 
+ max=-111dBm
+ std=1.73dBm 
 
  	</description>
 	<styleUrl>#Color5</styleUrl>
@@ -96642,11 +96642,11 @@
 	<name>Cell 3576</name>
 	<description>Créée le 21-Nov-2019 19:44:33
  par Simon
- #Valeurs =4
- mean=-119.89dBm
+ #Valeurs =8
+ mean=-119.12dBm
  min=-121dBm
- max=-119dBm
- std=1.15dBm 
+ max=-118dBm
+ std=1.16dBm 
 
  	</description>
 	<styleUrl>#Color5</styleUrl>
@@ -130950,6 +130950,87 @@
 		5.7593586134,45.2047213813,1.0000000000
 		5.7594858956,45.2047213246,1.0000000000
 		5.7594858154,45.2046313446,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 4847</name>
+	<description>Créée le 24-Nov-2019 08:24:12
+ par Simon
+ #Valeurs =4
+ mean=-111.37dBm
+ min=-117dBm
+ max=-109dBm
+ std=4.62dBm 
+
+ 	</description>
+	<styleUrl>#Color5-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7103542443,45.1820576476,1.0000000000
+		5.7103542471,45.1821476280,1.0000000000
+		5.7104814791,45.1821476259,1.0000000000
+		5.7104814761,45.1820576455,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 4848</name>
+	<description>Créée le 24-Nov-2019 08:25:12
+ par Simon
+ #Valeurs =2
+ mean=-107.00dBm
+ min=-107dBm
+ max=-107dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color5-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7102270022,45.1816977280,1.0000000000
+		5.7102270048,45.1817877084,1.0000000000
+		5.7103542359,45.1817877065,1.0000000000
+		5.7103542331,45.1816977261,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 4849</name>
+	<description>Créée le 24-Nov-2019 08:25:24
+ par Simon
+ #Valeurs =2
+ mean=-115.00dBm
+ min=-115dBm
+ max=-115dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color5-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7102269996,45.1816077476,1.0000000000
+		5.7102270022,45.1816977280,1.0000000000
+		5.7103542331,45.1816977261,1.0000000000
+		5.7103542303,45.1816077457,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
