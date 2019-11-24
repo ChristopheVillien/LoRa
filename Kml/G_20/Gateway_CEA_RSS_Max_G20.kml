@@ -97012,11 +97012,11 @@
 	<name>Cell 3546</name>
 	<description>Créée le 24-Nov-2019 09:07:58
  par Simon
- #Valeurs =511
- mean=-119.17dBm
+ #Valeurs =515
+ mean=-119.18dBm
  min=-123dBm
  max=-111dBm
- std=1.52dBm 
+ std=1.53dBm 
 
  	</description>
 	<styleUrl>#Color9-highlight</styleUrl>
@@ -97030,6 +97030,33 @@
 		5.8991825571,45.1870274850,1.0000000000
 		5.8994370406,45.1870270600,1.0000000000
 		5.8994364392,45.1868471004,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 3547</name>
+	<description>Créée le 24-Nov-2019 10:11:06
+ par Simon
+ #Valeurs =10
+ mean=-113.72dBm
+ min=-119dBm
+ max=-108dBm
+ std=4.55dBm 
+
+ 	</description>
+	<styleUrl>#Color11-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.8989268739,45.1866679902,1.0000000000
+		5.8989274737,45.1868479498,1.0000000000
+		5.8991819565,45.1868475254,1.0000000000
+		5.8991813558,45.1866675657,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
