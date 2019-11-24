@@ -133462,11 +133462,11 @@
 	<name>Cell 4896</name>
 	<description>Créée le 24-Nov-2019 09:07:58
  par Simon
- #Valeurs =5
- mean=-120.21dBm
+ #Valeurs =9
+ mean=-119.57dBm
  min=-121dBm
  max=-118dBm
- std=1.34dBm 
+ std=1.39dBm 
 
  	</description>
 	<styleUrl>#Color5-highlight</styleUrl>
@@ -133480,6 +133480,33 @@
 		5.8993094983,45.1869372927,1.0000000000
 		5.8994367399,45.1869370802,1.0000000000
 		5.8994364392,45.1868471004,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 4897</name>
+	<description>Créée le 24-Nov-2019 09:08:43
+ par Simon
+ #Valeurs =16
+ mean=-119.14dBm
+ min=-121dBm
+ max=-118dBm
+ std=1.00dBm 
+
+ 	</description>
+	<styleUrl>#Color5-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.8991819565,45.1868475254,1.0000000000
+		5.8991822568,45.1869375052,1.0000000000
+		5.8993094983,45.1869372927,1.0000000000
+		5.8993091978,45.1868473129,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
