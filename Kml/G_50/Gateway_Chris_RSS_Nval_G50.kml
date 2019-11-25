@@ -4564,14 +4564,14 @@
 	<name>Cell 122</name>
 	<description>Créée le 10-Nov-2019 17:59:47
  par Chris
- #Valeurs =14
- mean=-111.26dBm
+ #Valeurs =16
+ mean=-110.50dBm
  min=-120dBm
  max=-105dBm
- std=5.00dBm 
+ std=5.14dBm 
 
  	</description>
-	<styleUrl>#Color45</styleUrl>
+	<styleUrl>#Color52</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -4591,14 +4591,14 @@
 	<name>Cell 123</name>
 	<description>Créée le 10-Nov-2019 17:59:59
  par Chris
- #Valeurs =3
- mean=-111.70dBm
+ #Valeurs =4
+ mean=-112.32dBm
  min=-119dBm
  max=-108dBm
- std=5.57dBm 
+ std=4.57dBm 
 
  	</description>
-	<styleUrl>#Color10</styleUrl>
+	<styleUrl>#Color13</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -5401,14 +5401,14 @@
 	<name>Cell 153</name>
 	<description>Créée le 12-Nov-2019 18:55:46
  par Chris
- #Valeurs =12
- mean=-109.49dBm
+ #Valeurs =13
+ mean=-109.68dBm
  min=-117dBm
  max=-103dBm
- std=5.05dBm 
+ std=4.84dBm 
 
  	</description>
-	<styleUrl>#Color39</styleUrl>
+	<styleUrl>#Color42</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -18838,6 +18838,33 @@
 		5.7060278039,45.1946548726,1.0000000000
 		5.7066641029,45.1946548850,1.0000000000
 		5.7066641179,45.1942049840,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 651</name>
+	<description>Créée le 25-Nov-2019 17:21:19
+ par Simon
+ #Valeurs =2
+ mean=-119.00dBm
+ min=-119dBm
+ max=-119dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color7-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7104815061,45.1829574493,1.0000000000
+		5.7104815212,45.1834073511,1.0000000000
+		5.7111176949,45.1834073387,1.0000000000
+		5.7111176748,45.1829574369,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
