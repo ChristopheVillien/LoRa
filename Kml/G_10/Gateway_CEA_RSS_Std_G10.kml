@@ -18982,14 +18982,14 @@
 	<name>Cell 656</name>
 	<description>Créée le 12-Nov-2019 08:30:56
  par Chris
- #Valeurs =2
- mean=-117.25dBm
+ #Valeurs =4
+ mean=-115.33dBm
  min=-119dBm
- max=-116dBm
- std=2.12dBm 
+ max=-114dBm
+ std=2.36dBm 
 
  	</description>
-	<styleUrl>#Color3</styleUrl>
+	<styleUrl>#Color4</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -20953,14 +20953,14 @@
 	<name>Cell 729</name>
 	<description>Créée le 12-Nov-2019 08:50:31
  par Chris
- #Valeurs =2
- mean=-82.22dBm
+ #Valeurs =3
+ mean=-79.08dBm
  min=-87dBm
- max=-80dBm
- std=4.95dBm 
+ max=-76dBm
+ std=5.57dBm 
 
  	</description>
-	<styleUrl>#Color7</styleUrl>
+	<styleUrl>#Color8</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -36964,14 +36964,14 @@
 	<name>Cell 1322</name>
 	<description>Créée le 14-Nov-2019 20:02:27
  par Chris
- #Valeurs =5
- mean=-81.42dBm
+ #Valeurs =6
+ mean=-80.30dBm
  min=-107dBm
  max=-75dBm
- std=11.69dBm 
+ std=11.76dBm 
 
  	</description>
-	<styleUrl>#Color15</styleUrl>
+	<styleUrl>#Color16</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -46387,14 +46387,14 @@
 	<name>Cell 1671</name>
 	<description>Créée le 17-Nov-2019 21:41:36
  par Chris
- #Valeurs =5
- mean=-83.01dBm
+ #Valeurs =7
+ mean=-79.17dBm
  min=-89dBm
- max=-81dBm
- std=3.27dBm 
+ max=-74dBm
+ std=4.93dBm 
 
  	</description>
-	<styleUrl>#Color5</styleUrl>
+	<styleUrl>#Color7</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -122257,14 +122257,14 @@
 	<name>Cell 4481</name>
 	<description>Créée le 22-Nov-2019 19:56:59
  par Chris
- #Valeurs =1
- mean=-82.00dBm
+ #Valeurs =2
+ mean=-78.04dBm
  min=-82dBm
- max=-82dBm
- std=0.00dBm 
+ max=-76dBm
+ std=4.24dBm 
 
  	</description>
-	<styleUrl>#Color1</styleUrl>
+	<styleUrl>#Color6</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -142615,11 +142615,11 @@
 	<name>Cell 5235</name>
 	<description>Créée le 25-Nov-2019 17:25:50
  par Chris
- #Valeurs =9
- mean=-109.41dBm
- min=-113dBm
+ #Valeurs =10
+ mean=-109.74dBm
+ min=-115dBm
  max=-106dBm
- std=2.40dBm 
+ std=2.76dBm 
 
  	</description>
 	<styleUrl>#Color4-highlight</styleUrl>
@@ -142633,6 +142633,87 @@
 		5.6959762246,45.1858361415,1.0000000000
 		5.6961034648,45.1858361555,1.0000000000
 		5.6961034844,45.1857461752,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 5236</name>
+	<description>Créée le 25-Nov-2019 17:28:52
+ par Chris
+ #Valeurs =1
+ mean=-114.00dBm
+ min=-114dBm
+ max=-114dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6961034844,45.1857461752,1.0000000000
+		5.6961034648,45.1858361555,1.0000000000
+		5.6962307050,45.1858361693,1.0000000000
+		5.6962307244,45.1857461890,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 5237</name>
+	<description>Créée le 25-Nov-2019 17:27:51
+ par Nico
+ #Valeurs =2
+ mean=-71.25dBm
+ min=-73dBm
+ max=-70dBm
+ std=2.12dBm 
+
+ 	</description>
+	<styleUrl>#Color3-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7078094616,45.1931252351,1.0000000000
+		5.7078094604,45.1932152153,1.0000000000
+		5.7079367170,45.1932152160,1.0000000000
+		5.7079367180,45.1931252358,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 5238</name>
+	<description>Créée le 25-Nov-2019 17:28:52
+ par Nico
+ #Valeurs =1
+ mean=-78.00dBm
+ min=-78dBm
+ max=-78dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7085730000,45.1930352574,1.0000000000
+		5.7085730000,45.1931252376,1.0000000000
+		5.7087002564,45.1931252375,1.0000000000
+		5.7087002562,45.1930352573,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
