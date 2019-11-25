@@ -2377,8 +2377,8 @@
 	<name>Cell 41</name>
 	<description>Créée le 08-Nov-2019 18:53:59
  par Chris
- #Valeurs =111
- mean=-56.16dBm
+ #Valeurs =112
+ mean=-56.10dBm
  min=-97dBm
  max=-45dBm
  std=10.03dBm 
@@ -7075,14 +7075,14 @@
 	<name>Cell 215</name>
 	<description>Créée le 09-Nov-2019 16:13:06
  par Chris
- #Valeurs =2
- mean=-101.60dBm
+ #Valeurs =3
+ mean=-82.73dBm
  min=-109dBm
- max=-99dBm
- std=7.07dBm 
+ max=-78dBm
+ std=15.82dBm 
 
  	</description>
-	<styleUrl>#Color10</styleUrl>
+	<styleUrl>#Color21</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -7831,7 +7831,7 @@
 	<name>Cell 243</name>
 	<description>Créée le 09-Nov-2019 18:46:39
  par Chris
- #Valeurs =1
+ #Valeurs =2
  mean=-115.00dBm
  min=-115dBm
  max=-115dBm
@@ -36883,14 +36883,14 @@
 	<name>Cell 1319</name>
 	<description>Créée le 20-Nov-2019 00:30:23
  par Chris
- #Valeurs =4
- mean=-112.69dBm
+ #Valeurs =6
+ mean=-113.71dBm
  min=-119dBm
  max=-108dBm
- std=5.19dBm 
+ std=4.12dBm 
 
  	</description>
-	<styleUrl>#Color7</styleUrl>
+	<styleUrl>#Color6</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -55504,6 +55504,60 @@
 		5.6891058395,45.1841255508,1.0000000000
 		5.6892330758,45.1841255724,1.0000000000
 		5.6892331063,45.1840355920,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2009</name>
+	<description>Créée le 25-Nov-2019 20:16:49
+ par Chris
+ #Valeurs =1
+ mean=-117.00dBm
+ min=-117dBm
+ max=-117dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6927956187,45.1843960611,1.0000000000
+		5.6927955938,45.1844860415,1.0000000000
+		5.6929228309,45.1844860590,1.0000000000
+		5.6929228556,45.1843960786,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2010</name>
+	<description>Créée le 25-Nov-2019 20:17:09
+ par Chris
+ #Valeurs =1
+ mean=-95.00dBm
+ min=-95dBm
+ max=-95dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6949585823,45.1846662805,1.0000000000
+		5.6949585609,45.1847562608,1.0000000000
+		5.6950857986,45.1847562759,1.0000000000
+		5.6950858199,45.1846662956,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
