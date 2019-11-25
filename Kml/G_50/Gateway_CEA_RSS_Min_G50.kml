@@ -56539,11 +56539,11 @@
 	<name>Cell 2047</name>
 	<description>Créée le 25-Nov-2019 18:48:46
  par Chris
- #Valeurs =11
- mean=-119.35dBm
+ #Valeurs =17
+ mean=-118.98dBm
  min=-123dBm
  max=-115dBm
- std=1.94dBm 
+ std=1.97dBm 
 
  	</description>
 	<styleUrl>#Color3-highlight</styleUrl>
@@ -56719,6 +56719,33 @@
 		5.7467470264,45.1887998064,1.0000000000
 		5.7473832599,45.1887995920,1.0000000000
 		5.7473829542,45.1883496907,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2054</name>
+	<description>Créée le 25-Nov-2019 18:51:55
+ par Chris
+ #Valeurs =1
+ mean=-119.00dBm
+ min=-119dBm
+ max=-119dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color9-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7480191827,45.1883494727,1.0000000000
+		5.7480194935,45.1887993740,1.0000000000
+		5.7486557271,45.1887991525,1.0000000000
+		5.7486554113,45.1883492512,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
