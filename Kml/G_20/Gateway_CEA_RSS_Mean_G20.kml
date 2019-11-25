@@ -48277,11 +48277,11 @@
 	<name>Cell 1741</name>
 	<description>Créée le 11-Nov-2019 16:51:34
  par Florian
- #Valeurs =157
- mean=-119.37dBm
+ #Valeurs =160
+ mean=-119.38dBm
  min=-123dBm
  max=-112dBm
- std=1.76dBm 
+ std=1.74dBm 
 
  	</description>
 	<styleUrl>#Color5</styleUrl>
@@ -52813,11 +52813,11 @@
 	<name>Cell 1909</name>
 	<description>Créée le 13-Nov-2019 20:19:19
  par Florian
- #Valeurs =44
- mean=-120.01dBm
+ #Valeurs =47
+ mean=-119.75dBm
  min=-123dBm
- max=-117dBm
- std=1.40dBm 
+ max=-115dBm
+ std=1.62dBm 
 
  	</description>
 	<styleUrl>#Color5</styleUrl>
@@ -104941,6 +104941,60 @@
 		5.7177282759,45.1483145606,1.0000000000
 		5.7179825891,45.1483145399,1.0000000000
 		5.7179825595,45.1481345782,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 3840</name>
+	<description>Créée le 25-Nov-2019 20:02:43
+ par Chris
+ #Valeurs =4
+ mean=-117.21dBm
+ min=-121dBm
+ max=-113dBm
+ std=3.86dBm 
+
+ 	</description>
+	<styleUrl>#Color7-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7179827669,45.1493943101,1.0000000000
+		5.7179827965,45.1495742718,1.0000000000
+		5.7182371153,45.1495742505,1.0000000000
+		5.7182370849,45.1493942889,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 3841</name>
+	<description>Créée le 25-Nov-2019 20:04:05
+ par Chris
+ #Valeurs =1
+ mean=-105.00dBm
+ min=-105dBm
+ max=-105dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color18-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7179828854,45.1501141568,1.0000000000
+		5.7179829151,45.1502941185,1.0000000000
+		5.7182372371,45.1502940972,1.0000000000
+		5.7182372067,45.1501141356,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
