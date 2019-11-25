@@ -26766,8 +26766,8 @@
 	<name>Cell 988</name>
 	<description>Créée le 11-Nov-2019 16:51:34
  par Florian
- #Valeurs =1122
- mean=-118.98dBm
+ #Valeurs =1127
+ mean=-118.99dBm
  min=-123dBm
  max=-100dBm
  std=1.83dBm 
@@ -55143,11 +55143,11 @@
 	<name>Cell 2039</name>
 	<description>Créée le 25-Nov-2019 18:46:04
  par Chris
- #Valeurs =1
- mean=-120.00dBm
- min=-120dBm
+ #Valeurs =2
+ mean=-120.47dBm
+ min=-121dBm
  max=-120dBm
- std=0.00dBm 
+ std=0.71dBm 
 
  	</description>
 	<styleUrl>#Color1-highlight</styleUrl>
@@ -55566,6 +55566,87 @@
 		5.7480194935,45.1887993740,1.0000000000
 		5.7486557271,45.1887991525,1.0000000000
 		5.7486554113,45.1883492512,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2055</name>
+	<description>Créée le 25-Nov-2019 20:01:30
+ par Chris
+ #Valeurs =1
+ mean=-119.00dBm
+ min=-119dBm
+ max=-119dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7168377242,45.1451652977,1.0000000000
+		5.7168377892,45.1456152022,1.0000000000
+		5.7174735422,45.1456151544,1.0000000000
+		5.7174734722,45.1451652499,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2056</name>
+	<description>Créée le 25-Nov-2019 20:01:44
+ par Chris
+ #Valeurs =1
+ mean=-119.00dBm
+ min=-119dBm
+ max=-119dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7168379193,45.1465150110,1.0000000000
+		5.7168379844,45.1469649154,1.0000000000
+		5.7174737524,45.1469648677,1.0000000000
+		5.7174736824,45.1465149633,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2057</name>
+	<description>Créée le 25-Nov-2019 20:02:07
+ par Chris
+ #Valeurs =1
+ mean=-120.00dBm
+ min=-120dBm
+ max=-120dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7174738926,45.1478646764,1.0000000000
+		5.7174739627,45.1483145807,1.0000000000
+		5.7181097457,45.1483145293,1.0000000000
+		5.7181096706,45.1478646250,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
