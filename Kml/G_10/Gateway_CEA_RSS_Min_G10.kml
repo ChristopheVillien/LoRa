@@ -68230,11 +68230,11 @@
 	<name>Cell 2480</name>
 	<description>Créée le 13-Nov-2019 19:28:03
  par Florian
- #Valeurs =56
- mean=-120.12dBm
+ #Valeurs =59
+ mean=-120.07dBm
  min=-123dBm
  max=-116dBm
- std=1.25dBm 
+ std=1.24dBm 
 
  	</description>
 	<styleUrl>#Color3</styleUrl>
@@ -68365,11 +68365,11 @@
 	<name>Cell 2485</name>
 	<description>Créée le 13-Nov-2019 19:54:31
  par Florian
- #Valeurs =29
- mean=-120.53dBm
+ #Valeurs =30
+ mean=-120.36dBm
  min=-123dBm
- max=-119dBm
- std=0.90dBm 
+ max=-117dBm
+ std=1.11dBm 
 
  	</description>
 	<styleUrl>#Color3</styleUrl>
@@ -145792,6 +145792,60 @@
 		5.7181102413,45.1512838970,1.0000000000
 		5.7182374045,45.1512838863,1.0000000000
 		5.7182373893,45.1511939055,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 5353</name>
+	<description>Créée le 25-Nov-2019 20:06:26
+ par Chris
+ #Valeurs =1
+ mean=-120.00dBm
+ min=-120dBm
+ max=-120dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color8-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6962363808,45.1595618591,1.0000000000
+		5.6962363614,45.1596518398,1.0000000000
+		5.6963635432,45.1596518535,1.0000000000
+		5.6963635625,45.1595618728,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 5354</name>
+	<description>Créée le 25-Nov-2019 20:06:37
+ par Chris
+ #Valeurs =1
+ mean=-119.00dBm
+ min=-119dBm
+ max=-119dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color9-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6952189067,45.1596517254,1.0000000000
+		5.6952188857,45.1597417061,1.0000000000
+		5.6953460677,45.1597417209,1.0000000000
+		5.6953460885,45.1596517402,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
