@@ -61966,14 +61966,14 @@
 	<name>Cell 2248</name>
 	<description>Créée le 08-Nov-2019 18:10:54
  par Florian
- #Valeurs =2
- mean=-118.00dBm
+ #Valeurs =3
+ mean=-109.36dBm
  min=-118dBm
- max=-118dBm
- std=0.00dBm 
+ max=-105dBm
+ std=7.51dBm 
 
  	</description>
-	<styleUrl>#Color5</styleUrl>
+	<styleUrl>#Color13</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -62695,11 +62695,11 @@
 	<name>Cell 2275</name>
 	<description>Créée le 12-Nov-2019 07:52:06
  par Florian
- #Valeurs =4
- mean=-111.68dBm
+ #Valeurs =5
+ mean=-112.34dBm
  min=-120dBm
  max=-109dBm
- std=6.35dBm 
+ std=5.61dBm 
 
  	</description>
 	<styleUrl>#Color10</styleUrl>
@@ -144658,6 +144658,141 @@
 		5.7192625710,45.1933046978,1.0000000000
 		5.7193898278,45.1933046858,1.0000000000
 		5.7193898108,45.1932147056,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 5311</name>
+	<description>Créée le 25-Nov-2019 18:42:45
+ par Chris
+ #Valeurs =2
+ mean=-119.04dBm
+ min=-123dBm
+ max=-117dBm
+ std=4.24dBm 
+
+ 	</description>
+	<styleUrl>#Color5-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7216804501,45.1933044459,1.0000000000
+		5.7216804708,45.1933944261,1.0000000000
+		5.7218077278,45.1933944114,1.0000000000
+		5.7218077069,45.1933044312,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 5312</name>
+	<description>Créée le 25-Nov-2019 18:43:09
+ par Chris
+ #Valeurs =1
+ mean=-101.00dBm
+ min=-101dBm
+ max=-101dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color15-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7229530407,45.1933942730,1.0000000000
+		5.7229530633,45.1934842532,1.0000000000
+		5.7230803205,45.1934842371,1.0000000000
+		5.7230802977,45.1933942569,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 5313</name>
+	<description>Créée le 25-Nov-2019 18:43:22
+ par Chris
+ #Valeurs =1
+ mean=-109.00dBm
+ min=-109dBm
+ max=-109dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color10-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7240983781,45.1934841032,1.0000000000
+		5.7240984025,45.1935740834,1.0000000000
+		5.7242256599,45.1935740660,1.0000000000
+		5.7242256353,45.1934840858,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 5314</name>
+	<description>Créée le 25-Nov-2019 18:43:35
+ par Chris
+ #Valeurs =1
+ mean=-108.00dBm
+ min=-108dBm
+ max=-108dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color11-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7258800878,45.1938437679,1.0000000000
+		5.7258801151,45.1939337481,1.0000000000
+		5.7260073733,45.1939337287,1.0000000000
+		5.7260073458,45.1938437486,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 5315</name>
+	<description>Créée le 25-Nov-2019 18:43:48
+ par Chris
+ #Valeurs =1
+ mean=-97.00dBm
+ min=-97dBm
+ max=-97dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color18-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7260073733,45.1939337287,1.0000000000
+		5.7260074008,45.1940237089,1.0000000000
+		5.7261346592,45.1940236894,1.0000000000
+		5.7261346315,45.1939337093,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
