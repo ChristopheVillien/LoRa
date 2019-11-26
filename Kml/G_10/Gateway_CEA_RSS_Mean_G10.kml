@@ -23707,11 +23707,11 @@
 	<name>Cell 831</name>
 	<description>Créée le 12-Nov-2019 21:07:35
  par Chris
- #Valeurs =17
- mean=-82.30dBm
+ #Valeurs =18
+ mean=-82.55dBm
  min=-121dBm
  max=-70dBm
- std=12.21dBm 
+ std=11.90dBm 
 
  	</description>
 	<styleUrl>#Color37</styleUrl>
@@ -23734,11 +23734,11 @@
 	<name>Cell 832</name>
 	<description>Créée le 12-Nov-2019 21:10:39
  par Chris
- #Valeurs =5
- mean=-120.13dBm
+ #Valeurs =7
+ mean=-119.51dBm
  min=-121dBm
- max=-119dBm
- std=0.84dBm 
+ max=-117dBm
+ std=1.38dBm 
 
  	</description>
 	<styleUrl>#Color5</styleUrl>
@@ -72847,8 +72847,8 @@
 	<name>Cell 2651</name>
 	<description>Créée le 11-Nov-2019 16:54:08
  par Florian
- #Valeurs =391
- mean=-116.13dBm
+ #Valeurs =392
+ mean=-116.14dBm
  min=-123dBm
  max=-98dBm
  std=2.73dBm 
@@ -78787,8 +78787,8 @@
 	<name>Cell 2871</name>
 	<description>Créée le 13-Nov-2019 20:04:50
  par Florian
- #Valeurs =181
- mean=-117.71dBm
+ #Valeurs =182
+ mean=-117.72dBm
  min=-123dBm
  max=-103dBm
  std=2.34dBm 
@@ -79030,11 +79030,11 @@
 	<name>Cell 2880</name>
 	<description>Créée le 13-Nov-2019 20:41:44
  par Florian
- #Valeurs =272
- mean=-103.99dBm
+ #Valeurs =276
+ mean=-104.05dBm
  min=-123dBm
  max=-80dBm
- std=3.83dBm 
+ std=3.81dBm 
 
  	</description>
 	<styleUrl>#Color18</styleUrl>
@@ -79786,8 +79786,8 @@
 	<name>Cell 2908</name>
 	<description>Créée le 14-Nov-2019 02:44:44
  par Florian
- #Valeurs =222
- mean=-115.03dBm
+ #Valeurs =223
+ mean=-115.04dBm
  min=-123dBm
  max=-95dBm
  std=2.93dBm 
@@ -159751,6 +159751,33 @@
 		5.7546391529,45.1923061255,1.0000000000
 		5.7547664074,45.1923060741,1.0000000000
 		5.7547663347,45.1922160939,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 5870</name>
+	<description>Créée le 26-Nov-2019 22:08:45
+ par Chris
+ #Valeurs =2
+ mean=-120.47dBm
+ min=-121dBm
+ max=-120dBm
+ std=0.71dBm 
+
+ 	</description>
+	<styleUrl>#Color4-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7300770260,45.1870045558,1.0000000000
+		5.7300770599,45.1870945361,1.0000000000
+		5.7302043028,45.1870945121,1.0000000000
+		5.7302042688,45.1870045318,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
