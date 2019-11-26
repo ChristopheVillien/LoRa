@@ -99064,14 +99064,14 @@
 	<name>Cell 3622</name>
 	<description>Créée le 25-Nov-2019 08:45:02
  par Benoit
- #Valeurs =1
- mean=-120.00dBm
+ #Valeurs =2
+ mean=-115.22dBm
  min=-120dBm
- max=-120dBm
- std=0.00dBm 
+ max=-113dBm
+ std=4.95dBm 
 
  	</description>
-	<styleUrl>#Color1</styleUrl>
+	<styleUrl>#Color7</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -102122,7 +102122,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color1-highlight</styleUrl>
+	<styleUrl>#Color1</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -108406,11 +108406,11 @@
 	<name>Cell 3968</name>
 	<description>Créée le 26-Nov-2019 13:19:08
  par Nico
- #Valeurs =1
- mean=-121.00dBm
+ #Valeurs =2
+ mean=-120.47dBm
  min=-121dBm
- max=-121dBm
- std=0.00dBm 
+ max=-120dBm
+ std=0.71dBm 
 
  	</description>
 	<styleUrl>#Color1-highlight</styleUrl>
@@ -108460,14 +108460,14 @@
 	<name>Cell 3970</name>
 	<description>Créée le 26-Nov-2019 13:19:32
  par Nico
- #Valeurs =1
- mean=-112.00dBm
- min=-112dBm
+ #Valeurs =2
+ mean=-113.25dBm
+ min=-115dBm
  max=-112dBm
- std=0.00dBm 
+ std=2.12dBm 
 
  	</description>
-	<styleUrl>#Color1-highlight</styleUrl>
+	<styleUrl>#Color3-highlight</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -109747,6 +109747,114 @@
 		5.7223162576,45.1913248063,1.0000000000
 		5.7225707624,45.1913247754,1.0000000000
 		5.7225707183,45.1911448149,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 4018</name>
+	<description>Créée le 26-Nov-2019 13:51:35
+ par Nico
+ #Valeurs =1
+ mean=-119.00dBm
+ min=-119dBm
+ max=-119dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7220617103,45.1911448762,1.0000000000
+		5.7220617529,45.1913248366,1.0000000000
+		5.7223162576,45.1913248063,1.0000000000
+		5.7223162143,45.1911448458,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 4019</name>
+	<description>Créée le 26-Nov-2019 13:51:47
+ par Nico
+ #Valeurs =1
+ mean=-117.00dBm
+ min=-117dBm
+ max=-117dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7218071647,45.1909649455,1.0000000000
+		5.7218072064,45.1911449060,1.0000000000
+		5.7220617103,45.1911448762,1.0000000000
+		5.7220616678,45.1909649157,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 4020</name>
+	<description>Créée le 26-Nov-2019 13:51:58
+ par Nico
+ #Valeurs =2
+ mean=-119.25dBm
+ min=-121dBm
+ max=-118dBm
+ std=2.12dBm 
+
+ 	</description>
+	<styleUrl>#Color3-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7212981985,45.1911449638,1.0000000000
+		5.7212982386,45.1913249243,1.0000000000
+		5.7215527433,45.1913248956,1.0000000000
+		5.7215527024,45.1911449352,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 4021</name>
+	<description>Créée le 26-Nov-2019 13:52:50
+ par Nico
+ #Valeurs =2
+ mean=-118.47dBm
+ min=-119dBm
+ max=-118dBm
+ std=0.71dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7202801457,45.1909651122,1.0000000000
+		5.7202801826,45.1911450727,1.0000000000
+		5.7205346866,45.1911450463,1.0000000000
+		5.7205346489,45.1909650858,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
