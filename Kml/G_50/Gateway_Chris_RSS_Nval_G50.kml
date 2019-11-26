@@ -20413,14 +20413,14 @@
 	<name>Cell 709</name>
 	<description>Créée le 26-Nov-2019 13:11:08
  par Nico
- #Valeurs =4
- mean=-113.49dBm
- min=-117dBm
+ #Valeurs =6
+ mean=-114.08dBm
+ min=-118dBm
  max=-111dBm
- std=2.45dBm 
+ std=2.50dBm 
 
  	</description>
-	<styleUrl>#Color13-highlight</styleUrl>
+	<styleUrl>#Color20-highlight</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -20485,6 +20485,33 @@
 		5.7142993304,45.1910555489,1.0000000000
 		5.7149355893,45.1910555152,1.0000000000
 		5.7149355392,45.1906056140,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 712</name>
+	<description>Créée le 26-Nov-2019 13:58:57
+ par Nico
+ #Valeurs =1
+ mean=-120.00dBm
+ min=-120dBm
+ max=-120dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color4-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7142992401,45.1901557464,1.0000000000
+		5.7142992852,45.1906056477,1.0000000000
+		5.7149355392,45.1906056140,1.0000000000
+		5.7149354890,45.1901557128,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
