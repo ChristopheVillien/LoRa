@@ -52813,11 +52813,11 @@
 	<name>Cell 1909</name>
 	<description>Créée le 25-Nov-2019 12:09:45
  par Nico
- #Valeurs =101
- mean=-115.09dBm
+ #Valeurs =108
+ mean=-114.93dBm
  min=-120dBm
  max=-108dBm
- std=2.66dBm 
+ std=2.73dBm 
 
  	</description>
 	<styleUrl>#Color8</styleUrl>
@@ -53333,7 +53333,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color9-highlight</styleUrl>
+	<styleUrl>#Color9</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -53360,7 +53360,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color10-highlight</styleUrl>
+	<styleUrl>#Color10</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -53387,7 +53387,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color22-highlight</styleUrl>
+	<styleUrl>#Color22</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -57556,6 +57556,33 @@
 		5.7078094351,45.1951047993,1.0000000000
 		5.7079366959,45.1951048001,1.0000000000
 		5.7079366970,45.1950148199,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2085</name>
+	<description>Créée le 26-Nov-2019 12:41:08
+ par Nico
+ #Valeurs =2
+ mean=-116.25dBm
+ min=-118dBm
+ max=-115dBm
+ std=2.12dBm 
+
+ 	</description>
+	<styleUrl>#Color10-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7074276581,45.1948348556,1.0000000000
+		5.7074276563,45.1949248357,1.0000000000
+		5.7075549167,45.1949248369,1.0000000000
+		5.7075549183,45.1948348568,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
