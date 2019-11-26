@@ -55378,11 +55378,11 @@
 	<name>Cell 2004</name>
 	<description>Créée le 11-Nov-2019 16:51:34
  par Florian
- #Valeurs =646
- mean=-107.49dBm
+ #Valeurs =648
+ mean=-107.51dBm
  min=-125dBm
  max=-80dBm
- std=3.13dBm 
+ std=3.12dBm 
 
  	</description>
 	<styleUrl>#Color15</styleUrl>
@@ -59752,11 +59752,11 @@
 	<name>Cell 2166</name>
 	<description>Créée le 13-Nov-2019 19:13:18
  par Florian
- #Valeurs =9
- mean=-118.14dBm
+ #Valeurs =10
+ mean=-118.22dBm
  min=-120dBm
  max=-114dBm
- std=2.06dBm 
+ std=1.95dBm 
 
  	</description>
 	<styleUrl>#Color6</styleUrl>
@@ -60049,14 +60049,14 @@
 	<name>Cell 2177</name>
 	<description>Créée le 13-Nov-2019 21:19:29
  par Florian
- #Valeurs =54
- mean=-116.83dBm
+ #Valeurs =58
+ mean=-116.73dBm
  min=-123dBm
  max=-109dBm
- std=3.07dBm 
+ std=3.08dBm 
 
  	</description>
-	<styleUrl>#Color7</styleUrl>
+	<styleUrl>#Color8</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -60913,11 +60913,11 @@
 	<name>Cell 2209</name>
 	<description>Créée le 14-Nov-2019 21:49:39
  par Florian
- #Valeurs =32
- mean=-118.65dBm
+ #Valeurs =33
+ mean=-118.68dBm
  min=-123dBm
  max=-114dBm
- std=2.18dBm 
+ std=2.15dBm 
 
  	</description>
 	<styleUrl>#Color6</styleUrl>
@@ -113671,14 +113671,14 @@
 	<name>Cell 4163</name>
 	<description>Créée le 26-Nov-2019 22:28:46
  par Chris
- #Valeurs =32
- mean=-117.83dBm
+ #Valeurs =38
+ mean=-115.86dBm
  min=-123dBm
- max=-108dBm
- std=2.57dBm 
+ max=-104dBm
+ std=3.44dBm 
 
  	</description>
-	<styleUrl>#Color7-highlight</styleUrl>
+	<styleUrl>#Color8-highlight</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -113716,6 +113716,33 @@
 		5.7548934430,45.1920360820,1.0000000000
 		5.7551479508,45.1920359785,1.0000000000
 		5.7551478040,45.1918560181,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 4165</name>
+	<description>Créée le 26-Nov-2019 22:39:21
+ par Florian
+ #Valeurs =1
+ mean=-120.00dBm
+ min=-120dBm
+ max=-120dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color5-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7551476572,45.1916760577,1.0000000000
+		5.7551478040,45.1918560181,1.0000000000
+		5.7554023110,45.1918559141,1.0000000000
+		5.7554021634,45.1916759537,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
