@@ -765,11 +765,11 @@
 	<name>Cell 25</name>
 	<description>Créée le 08-Nov-2019 09:25:49
  par Chris
- #Valeurs =11
- mean=-61.97dBm
+ #Valeurs =12
+ mean=-62.35dBm
  min=-96dBm
  max=-52dBm
- std=13.41dBm 
+ std=13.75dBm 
 
  	</description>
 	<styleUrl>#Color1</styleUrl>
@@ -792,11 +792,11 @@
 	<name>Cell 26</name>
 	<description>Créée le 08-Nov-2019 09:26:00
  par Chris
- #Valeurs =8
- mean=-63.38dBm
+ #Valeurs =10
+ mean=-63.73dBm
  min=-90dBm
  max=-57dBm
- std=13.04dBm 
+ std=11.99dBm 
 
  	</description>
 	<styleUrl>#Color1</styleUrl>
@@ -22824,11 +22824,11 @@
 	<name>Cell 842</name>
 	<description>Créée le 13-Nov-2019 13:14:08
  par Chris
- #Valeurs =20
- mean=-62.46dBm
+ #Valeurs =23
+ mean=-62.71dBm
  min=-107dBm
  max=-57dBm
- std=18.71dBm 
+ std=17.84dBm 
 
  	</description>
 	<styleUrl>#Color1</styleUrl>
@@ -99349,7 +99349,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color3-highlight</styleUrl>
+	<styleUrl>#Color3</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -99376,7 +99376,7 @@
  std=2.12dBm 
 
  	</description>
-	<styleUrl>#Color3-highlight</styleUrl>
+	<styleUrl>#Color3</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -99403,7 +99403,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color3-highlight</styleUrl>
+	<styleUrl>#Color3</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -99430,7 +99430,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color3-highlight</styleUrl>
+	<styleUrl>#Color3</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -99457,7 +99457,7 @@
  std=0.71dBm 
 
  	</description>
-	<styleUrl>#Color3-highlight</styleUrl>
+	<styleUrl>#Color3</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -99484,7 +99484,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color3-highlight</styleUrl>
+	<styleUrl>#Color3</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -106569,6 +106569,33 @@
 		5.7098456121,45.1952847551,1.0000000000
 		5.7101001345,45.1952847520,1.0000000000
 		5.7101001297,45.1951047916,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 3944</name>
+	<description>Créée le 26-Nov-2019 12:47:33
+ par Nico
+ #Valeurs =1
+ mean=-63.00dBm
+ min=-63dBm
+ max=-63dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color3-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7065368527,45.1943849422,1.0000000000
+		5.7065368463,45.1945649026,1.0000000000
+		5.7067913655,45.1945649069,1.0000000000
+		5.7067913711,45.1943849465,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
