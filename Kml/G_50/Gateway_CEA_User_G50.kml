@@ -54124,7 +54124,7 @@
  std=1.15dBm 
 
  	</description>
-	<styleUrl>#Color3-highlight</styleUrl>
+	<styleUrl>#Color3</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -57402,6 +57402,33 @@
 		5.7295695438,45.1910537625,1.0000000000
 		5.7302058026,45.1910536437,1.0000000000
 		5.7302056322,45.1906037425,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2123</name>
+	<description>Créée le 26-Nov-2019 13:31:08
+ par Nico
+ #Valeurs =2
+ mean=-119.47dBm
+ min=-120dBm
+ max=-119dBm
+ std=0.71dBm 
+
+ 	</description>
+	<styleUrl>#Color3-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7295695438,45.1910537625,1.0000000000
+		5.7295697092,45.1915036636,1.0000000000
+		5.7302059731,45.1915035449,1.0000000000
+		5.7302058026,45.1910536437,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
