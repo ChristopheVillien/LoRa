@@ -139193,7 +139193,7 @@
  std=5.66dBm 
 
  	</description>
-	<styleUrl>#Color18-highlight</styleUrl>
+	<styleUrl>#Color18</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -139220,7 +139220,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color7-highlight</styleUrl>
+	<styleUrl>#Color7</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -150868,6 +150868,33 @@
 		5.7079366959,45.1951048001,1.0000000000
 		5.7080639568,45.1951048007,1.0000000000
 		5.7080639576,45.1950148205,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 5541</name>
+	<description>Créée le 26-Nov-2019 12:42:53
+ par Nico
+ #Valeurs =9
+ mean=-69.69dBm
+ min=-75dBm
+ max=-67dBm
+ std=2.60dBm 
+
+ 	</description>
+	<styleUrl>#Color36-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7073003979,45.1948348542,1.0000000000
+		5.7073003959,45.1949248344,1.0000000000
+		5.7074276563,45.1949248357,1.0000000000
+		5.7074276581,45.1948348556,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
