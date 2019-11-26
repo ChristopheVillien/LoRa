@@ -20035,11 +20035,11 @@
 	<name>Cell 695</name>
 	<description>Créée le 12-Nov-2019 22:47:51
  par Chris
- #Valeurs =53
- mean=-118.35dBm
+ #Valeurs =59
+ mean=-110.04dBm
  min=-123dBm
- max=-111dBm
- std=2.17dBm 
+ max=-93dBm
+ std=3.99dBm 
 
  	</description>
 	<styleUrl>#Color64</styleUrl>
@@ -113905,6 +113905,33 @@
 		5.7582022009,45.1922146526,1.0000000000
 		5.7584567095,45.1922145417,1.0000000000
 		5.7584565522,45.1920345814,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 4172</name>
+	<description>Créée le 26-Nov-2019 23:04:20
+ par Florian
+ #Valeurs =1
+ mean=-121.00dBm
+ min=-121dBm
+ max=-121dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color4-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7576931837,45.1922148727,1.0000000000
+		5.7576933385,45.1923948330,1.0000000000
+		5.7579478479,45.1923947233,1.0000000000
+		5.7579476923,45.1922147629,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
