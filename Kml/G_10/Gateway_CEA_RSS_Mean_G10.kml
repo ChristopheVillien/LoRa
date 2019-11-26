@@ -72874,7 +72874,7 @@
 	<name>Cell 2652</name>
 	<description>Créée le 11-Nov-2019 16:59:00
  par Florian
- #Valeurs =172
+ #Valeurs =173
  mean=-117.05dBm
  min=-123dBm
  max=-100dBm
@@ -72901,8 +72901,8 @@
 	<name>Cell 2653</name>
 	<description>Créée le 11-Nov-2019 17:05:23
  par Florian
- #Valeurs =36
- mean=-119.53dBm
+ #Valeurs =37
+ mean=-119.48dBm
  min=-123dBm
  max=-117dBm
  std=1.48dBm 
@@ -78409,11 +78409,11 @@
 	<name>Cell 2857</name>
 	<description>Créée le 13-Nov-2019 19:09:38
  par Florian
- #Valeurs =358
- mean=-108.04dBm
+ #Valeurs =359
+ mean=-108.05dBm
  min=-123dBm
  max=-83dBm
- std=3.17dBm 
+ std=3.16dBm 
 
  	</description>
 	<styleUrl>#Color15</styleUrl>
@@ -78625,7 +78625,7 @@
 	<name>Cell 2865</name>
 	<description>Créée le 13-Nov-2019 19:52:55
  par Florian
- #Valeurs =112
+ #Valeurs =113
  mean=-117.76dBm
  min=-123dBm
  max=-104dBm
@@ -78949,8 +78949,8 @@
 	<name>Cell 2877</name>
 	<description>Créée le 13-Nov-2019 20:23:32
  par Florian
- #Valeurs =218
- mean=-115.14dBm
+ #Valeurs =219
+ mean=-115.15dBm
  min=-123dBm
  max=-94dBm
  std=2.42dBm 
@@ -79597,14 +79597,14 @@
 	<name>Cell 2901</name>
 	<description>Créée le 13-Nov-2019 23:58:53
  par Florian
- #Valeurs =2
- mean=-120.00dBm
+ #Valeurs =3
+ mean=-118.76dBm
  min=-120dBm
- max=-120dBm
- std=0.00dBm 
+ max=-117dBm
+ std=1.73dBm 
 
  	</description>
-	<styleUrl>#Color5</styleUrl>
+	<styleUrl>#Color6</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -160291,6 +160291,33 @@
 		5.7548943189,45.1931158443,1.0000000000
 		5.7550215752,45.1931157926,1.0000000000
 		5.7550215020,45.1930258124,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 5890</name>
+	<description>Créée le 26-Nov-2019 22:48:59
+ par Chris
+ #Valeurs =7
+ mean=-117.74dBm
+ min=-120dBm
+ max=-113dBm
+ std=2.51dBm 
+
+ 	</description>
+	<styleUrl>#Color7-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7618886266,45.1879839192,1.0000000000
+		5.7618887106,45.1880738995,1.0000000000
+		5.7620159556,45.1880738400,1.0000000000
+		5.7620158714,45.1879838598,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
