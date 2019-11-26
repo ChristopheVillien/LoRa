@@ -31861,14 +31861,14 @@
 	<name>Cell 1133</name>
 	<description>Créée le 13-Nov-2019 14:24:59
  par Nico
- #Valeurs =1
- mean=-82.00dBm
+ #Valeurs =2
+ mean=-81.47dBm
  min=-82dBm
- max=-82dBm
- std=0.00dBm 
+ max=-81dBm
+ std=0.71dBm 
 
  	</description>
-	<styleUrl>#Color37</styleUrl>
+	<styleUrl>#Color38</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -40339,14 +40339,14 @@
 	<name>Cell 1447</name>
 	<description>Créée le 15-Nov-2019 09:07:08
  par Chris
- #Valeurs =2
- mean=-71.88dBm
+ #Valeurs =3
+ mean=-73.02dBm
  min=-84dBm
  max=-69dBm
- std=10.61dBm 
+ std=7.51dBm 
 
  	</description>
-	<styleUrl>#Color46</styleUrl>
+	<styleUrl>#Color45</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -109702,14 +109702,14 @@
 	<name>Cell 4016</name>
 	<description>Créée le 19-Nov-2019 18:01:03
  par Simon
- #Valeurs =1
- mean=-77.00dBm
- min=-77dBm
+ #Valeurs =2
+ mean=-79.84dBm
+ min=-91dBm
  max=-77dBm
- std=0.00dBm 
+ std=9.90dBm 
 
  	</description>
-	<styleUrl>#Color41</styleUrl>
+	<styleUrl>#Color39</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -122257,14 +122257,14 @@
 	<name>Cell 4481</name>
 	<description>Créée le 22-Nov-2019 19:56:59
  par Chris
- #Valeurs =2
- mean=-78.04dBm
+ #Valeurs =3
+ mean=-73.58dBm
  min=-82dBm
- max=-76dBm
- std=4.24dBm 
+ max=-70dBm
+ std=6.00dBm 
 
  	</description>
-	<styleUrl>#Color41</styleUrl>
+	<styleUrl>#Color44</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -138322,14 +138322,14 @@
 	<name>Cell 5076</name>
 	<description>Créée le 25-Nov-2019 12:26:56
  par Nico
- #Valeurs =1
- mean=-77.00dBm
- min=-77dBm
+ #Valeurs =2
+ mean=-79.94dBm
+ min=-95dBm
  max=-77dBm
- std=0.00dBm 
+ std=12.73dBm 
 
  	</description>
-	<styleUrl>#Color41</styleUrl>
+	<styleUrl>#Color39</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -155134,6 +155134,87 @@
 		5.7097183274,45.1941150141,1.0000000000
 		5.7098455860,45.1941150127,1.0000000000
 		5.7098455840,45.1940250325,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 5699</name>
+	<description>Créée le 26-Nov-2019 14:05:51
+ par Nico
+ #Valeurs =1
+ mean=-71.00dBm
+ min=-71dBm
+ max=-71dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color47-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7094638088,45.1940250361,1.0000000000
+		5.7094638102,45.1941150163,1.0000000000
+		5.7095910688,45.1941150153,1.0000000000
+		5.7095910672,45.1940250351,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 5700</name>
+	<description>Créée le 26-Nov-2019 14:06:01
+ par Nico
+ #Valeurs =2
+ mean=-82.25dBm
+ min=-84dBm
+ max=-81dBm
+ std=2.12dBm 
+
+ 	</description>
+	<styleUrl>#Color37-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7093365456,45.1936651163,1.0000000000
+		5.7093365468,45.1937550965,1.0000000000
+		5.7094638046,45.1937550956,1.0000000000
+		5.7094638032,45.1936651154,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 5701</name>
+	<description>Créée le 26-Nov-2019 14:06:39
+ par Nico
+ #Valeurs =1
+ mean=-82.00dBm
+ min=-82dBm
+ max=-82dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color37-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7087002568,45.1933051980,1.0000000000
+		5.7087002570,45.1933951782,1.0000000000
+		5.7088275140,45.1933951779,1.0000000000
+		5.7088275136,45.1933051977,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
