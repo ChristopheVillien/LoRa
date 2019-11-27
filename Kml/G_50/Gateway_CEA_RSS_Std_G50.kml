@@ -59435,7 +59435,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color1-highlight</styleUrl>
+	<styleUrl>#Color1</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -59462,7 +59462,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color1-highlight</styleUrl>
+	<styleUrl>#Color1</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -59489,7 +59489,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color1-highlight</styleUrl>
+	<styleUrl>#Color1</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -59516,7 +59516,7 @@
  std=2.12dBm 
 
  	</description>
-	<styleUrl>#Color3-highlight</styleUrl>
+	<styleUrl>#Color3</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -64990,14 +64990,14 @@
 	<name>Cell 2360</name>
 	<description>Créée le 27-Nov-2019 19:58:26
  par Florian
- #Valeurs =1
- mean=-120.00dBm
+ #Valeurs =2
+ mean=-118.89dBm
  min=-120dBm
- max=-120dBm
- std=0.00dBm 
+ max=-118dBm
+ std=1.41dBm 
 
  	</description>
-	<styleUrl>#Color1-highlight</styleUrl>
+	<styleUrl>#Color2-highlight</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -65017,14 +65017,14 @@
 	<name>Cell 2361</name>
 	<description>Créée le 27-Nov-2019 19:58:38
  par Florian
- #Valeurs =1
- mean=-123.00dBm
+ #Valeurs =2
+ mean=-120.55dBm
  min=-123dBm
- max=-123dBm
- std=0.00dBm 
+ max=-119dBm
+ std=2.83dBm 
 
  	</description>
-	<styleUrl>#Color1-highlight</styleUrl>
+	<styleUrl>#Color4-highlight</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -65044,14 +65044,14 @@
 	<name>Cell 2362</name>
 	<description>Créée le 27-Nov-2019 19:59:03
  par Florian
- #Valeurs =1
- mean=-119.00dBm
- min=-119dBm
+ #Valeurs =2
+ mean=-119.89dBm
+ min=-121dBm
  max=-119dBm
- std=0.00dBm 
+ std=1.41dBm 
 
  	</description>
-	<styleUrl>#Color1-highlight</styleUrl>
+	<styleUrl>#Color2-highlight</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -65098,7 +65098,7 @@
 	<name>Cell 2364</name>
 	<description>Créée le 27-Nov-2019 20:00:16
  par Florian
- #Valeurs =1
+ #Valeurs =2
  mean=-121.00dBm
  min=-121dBm
  max=-121dBm
@@ -65305,6 +65305,168 @@
 		5.7581968834,45.1860959966,1.0000000000
 		5.7588330867,45.1860957184,1.0000000000
 		5.7588326908,45.1856458170,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2372</name>
+	<description>Créée le 27-Nov-2019 20:39:54
+ par Chris
+ #Valeurs =1
+ mean=-121.00dBm
+ min=-121dBm
+ max=-121dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6964887458,45.1690098532,1.0000000000
+		5.6964886506,45.1694597560,1.0000000000
+		5.6971246690,45.1694598215,1.0000000000
+		5.6971247591,45.1690099187,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2373</name>
+	<description>Créée le 27-Nov-2019 20:40:06
+ par Chris
+ #Valeurs =1
+ mean=-119.00dBm
+ min=-119dBm
+ max=-119dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6964889361,45.1681100474,1.0000000000
+		5.6964888410,45.1685599503,1.0000000000
+		5.6971248493,45.1685600158,1.0000000000
+		5.6971249395,45.1681101129,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2374</name>
+	<description>Créée le 27-Nov-2019 20:40:19
+ par Chris
+ #Valeurs =1
+ mean=-117.00dBm
+ min=-117dBm
+ max=-117dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6964891265,45.1672102415,1.0000000000
+		5.6964890313,45.1676601445,1.0000000000
+		5.6971250296,45.1676602100,1.0000000000
+		5.6971251198,45.1672103070,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2375</name>
+	<description>Créée le 27-Nov-2019 20:40:31
+ par Chris
+ #Valeurs =1
+ mean=-117.00dBm
+ min=-117dBm
+ max=-117dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6964892216,45.1667603385,1.0000000000
+		5.6964891265,45.1672102415,1.0000000000
+		5.6971251198,45.1672103070,1.0000000000
+		5.6971252100,45.1667604041,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2376</name>
+	<description>Créée le 27-Nov-2019 20:40:55
+ par Chris
+ #Valeurs =1
+ mean=-115.00dBm
+ min=-115dBm
+ max=-115dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6964895071,45.1654106294,1.0000000000
+		5.6964894120,45.1658605324,1.0000000000
+		5.6971253903,45.1658605980,1.0000000000
+		5.6971254804,45.1654106949,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2377</name>
+	<description>Créée le 27-Nov-2019 20:41:20
+ par Chris
+ #Valeurs =1
+ mean=-121.00dBm
+ min=-121dBm
+ max=-121dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6964899829,45.1631611134,1.0000000000
+		5.6964898878,45.1636110167,1.0000000000
+		5.6971258410,45.1636110822,1.0000000000
+		5.6971259312,45.1631611789,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
