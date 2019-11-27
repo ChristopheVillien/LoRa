@@ -31753,7 +31753,7 @@
 	<name>Cell 1129</name>
 	<description>Créée le 11-Nov-2019 16:51:34
  par Florian
- #Valeurs =5717
+ #Valeurs =5723
  mean=-112.47dBm
  min=-125dBm
  max=-80dBm
@@ -60488,7 +60488,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color1-highlight</styleUrl>
+	<styleUrl>#Color1</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -60515,7 +60515,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color1-highlight</styleUrl>
+	<styleUrl>#Color1</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -66115,6 +66115,87 @@
 		5.6933100013,45.1640605392,1.0000000000
 		5.6939459596,45.1640606224,1.0000000000
 		5.6939460748,45.1636107192,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2402</name>
+	<description>Créée le 28-Nov-2019 00:13:05
+ par Chris
+ #Valeurs =1
+ mean=-117.00dBm
+ min=-117dBm
+ max=-117dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6933098811,45.1645104424,1.0000000000
+		5.6933097609,45.1649603455,1.0000000000
+		5.6939457292,45.1649604288,1.0000000000
+		5.6939458444,45.1645105256,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2403</name>
+	<description>Créée le 28-Nov-2019 00:13:40
+ par Chris
+ #Valeurs =1
+ mean=-117.00dBm
+ min=-117dBm
+ max=-117dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6939453836,45.1663101380,1.0000000000
+		5.6939452684,45.1667600410,1.0000000000
+		5.6945812567,45.1667601207,1.0000000000
+		5.6945813669,45.1663102177,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2404</name>
+	<description>Créée le 28-Nov-2019 00:13:52
+ par Chris
+ #Valeurs =5
+ mean=-118.88dBm
+ min=-125dBm
+ max=-115dBm
+ std=4.34dBm 
+
+ 	</description>
+	<styleUrl>#Color6-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6939452684,45.1667600410,1.0000000000
+		5.6939451532,45.1672099440,1.0000000000
+		5.6945811465,45.1672100237,1.0000000000
+		5.6945812567,45.1667601207,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
