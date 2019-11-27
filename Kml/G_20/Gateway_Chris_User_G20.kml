@@ -12078,11 +12078,11 @@
 	<name>Cell 444</name>
 	<description>Créée le 14-Nov-2019 08:48:25
  par Chris
- #Valeurs =6
- mean=-116.60dBm
+ #Valeurs =7
+ mean=-116.12dBm
  min=-118dBm
  max=-114dBm
- std=1.47dBm 
+ std=1.72dBm 
 
  	</description>
 	<styleUrl>#Color1</styleUrl>
@@ -41175,6 +41175,33 @@
 		5.7057732357,45.1956446485,1.0000000000
 		5.7060277597,45.1956446545,1.0000000000
 		5.7060277678,45.1954646942,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 1522</name>
+	<description>Créée le 27-Nov-2019 08:01:11
+ par Florian
+ #Valeurs =1
+ mean=-120.00dBm
+ min=-120dBm
+ max=-120dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color2-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7075549135,45.1951047973,1.0000000000
+		5.7075549103,45.1952847576,1.0000000000
+		5.7078094327,45.1952847596,1.0000000000
+		5.7078094351,45.1951047993,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
