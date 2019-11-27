@@ -19684,7 +19684,7 @@
 	<name>Cell 682</name>
 	<description>Créée le 12-Nov-2019 21:04:00
  par Chris
- #Valeurs =1
+ #Valeurs =2
  mean=-120.00dBm
  min=-120dBm
  max=-120dBm
@@ -104876,7 +104876,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color25-highlight</styleUrl>
+	<styleUrl>#Color25</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -104903,7 +104903,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color15-highlight</styleUrl>
+	<styleUrl>#Color15</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -104930,7 +104930,7 @@
  std=2.12dBm 
 
  	</description>
-	<styleUrl>#Color16-highlight</styleUrl>
+	<styleUrl>#Color16</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -104957,7 +104957,7 @@
  std=4.95dBm 
 
  	</description>
-	<styleUrl>#Color15-highlight</styleUrl>
+	<styleUrl>#Color15</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -104984,7 +104984,7 @@
  std=3.54dBm 
 
  	</description>
-	<styleUrl>#Color19-highlight</styleUrl>
+	<styleUrl>#Color19</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -114823,6 +114823,60 @@
 		5.7383481793,45.1877225414,1.0000000000
 		5.7386026680,45.1877224748,1.0000000000
 		5.7386025733,45.1875425142,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 4206</name>
+	<description>Créée le 27-Nov-2019 07:44:34
+ par Florian
+ #Valeurs =1
+ mean=-121.00dBm
+ min=-121dBm
+ max=-121dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color6-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7296948318,45.1857449028,1.0000000000
+		5.7296948984,45.1859248634,1.0000000000
+		5.7299493791,45.1859248161,1.0000000000
+		5.7299493117,45.1857448554,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 4207</name>
+	<description>Créée le 27-Nov-2019 07:45:22
+ par Florian
+ #Valeurs =1
+ mean=-120.00dBm
+ min=-120dBm
+ max=-120dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color8-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7276594740,45.1871849460,1.0000000000
+		5.7276595341,45.1873649066,1.0000000000
+		5.7279140212,45.1873648638,1.0000000000
+		5.7279139603,45.1871849032,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
