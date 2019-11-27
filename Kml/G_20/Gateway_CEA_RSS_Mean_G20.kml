@@ -1621,14 +1621,14 @@
 	<name>Cell 13</name>
 	<description>Créée le 08-Nov-2019 09:23:03
  par Chris
- #Valeurs =4
- mean=-108.92dBm
+ #Valeurs =5
+ mean=-106.93dBm
  min=-120dBm
- max=-106dBm
- std=6.16dBm 
+ max=-103dBm
+ std=6.43dBm 
 
  	</description>
-	<styleUrl>#Color14</styleUrl>
+	<styleUrl>#Color16</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -14878,14 +14878,14 @@
 	<name>Cell 504</name>
 	<description>Créée le 10-Nov-2019 18:04:00
  par Chris
- #Valeurs =18
- mean=-99.50dBm
+ #Valeurs =19
+ mean=-99.10dBm
  min=-121dBm
  max=-93dBm
- std=9.22dBm 
+ std=9.30dBm 
 
  	</description>
-	<styleUrl>#Color22</styleUrl>
+	<styleUrl>#Color23</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -18712,14 +18712,14 @@
 	<name>Cell 646</name>
 	<description>Créée le 12-Nov-2019 18:55:22
  par Chris
- #Valeurs =4
- mean=-104.83dBm
+ #Valeurs =5
+ mean=-103.34dBm
  min=-111dBm
- max=-101dBm
- std=4.43dBm 
+ max=-100dBm
+ std=4.82dBm 
 
  	</description>
-	<styleUrl>#Color18</styleUrl>
+	<styleUrl>#Color19</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -18847,11 +18847,11 @@
 	<name>Cell 651</name>
 	<description>Créée le 12-Nov-2019 18:56:22
  par Chris
- #Valeurs =7
- mean=-96.88dBm
+ #Valeurs =8
+ mean=-96.90dBm
  min=-111dBm
  max=-93dBm
- std=6.82dBm 
+ std=6.41dBm 
 
  	</description>
 	<styleUrl>#Color24</styleUrl>
@@ -32725,14 +32725,14 @@
 	<name>Cell 1165</name>
 	<description>Créée le 15-Nov-2019 14:15:07
  par Chris
- #Valeurs =3
- mean=-102.76dBm
- min=-104dBm
- max=-101dBm
- std=1.73dBm 
+ #Valeurs =5
+ mean=-102.15dBm
+ min=-107dBm
+ max=-99dBm
+ std=3.08dBm 
 
  	</description>
-	<styleUrl>#Color19</styleUrl>
+	<styleUrl>#Color20</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -32752,11 +32752,11 @@
 	<name>Cell 1166</name>
 	<description>Créée le 15-Nov-2019 14:15:19
  par Chris
- #Valeurs =10
- mean=-101.16dBm
+ #Valeurs =11
+ mean=-101.30dBm
  min=-120dBm
  max=-96dBm
- std=8.83dBm 
+ std=8.42dBm 
 
  	</description>
 	<styleUrl>#Color21</styleUrl>
@@ -43336,14 +43336,14 @@
 	<name>Cell 1558</name>
 	<description>Créée le 20-Nov-2019 13:19:06
  par Chris
- #Valeurs =1
- mean=-97.00dBm
- min=-97dBm
+ #Valeurs =2
+ mean=-99.74dBm
+ min=-109dBm
  max=-97dBm
- std=0.00dBm 
+ std=8.49dBm 
 
  	</description>
-	<styleUrl>#Color24</styleUrl>
+	<styleUrl>#Color22</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -115795,6 +115795,60 @@
 		5.7001747659,45.1884459561,1.0000000000
 		5.7004292579,45.1884459746,1.0000000000
 		5.7004292836,45.1882660140,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 4242</name>
+	<description>Créée le 27-Nov-2019 09:28:16
+ par Chris
+ #Valeurs =1
+ mean=-95.00dBm
+ min=-95dBm
+ max=-95dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color26-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7009380974,45.1895257730,1.0000000000
+		5.7009380733,45.1897057335,1.0000000000
+		5.7011925709,45.1897057502,1.0000000000
+		5.7011925941,45.1895257897,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 4243</name>
+	<description>Créée le 27-Nov-2019 09:29:39
+ par Chris
+ #Valeurs =1
+ mean=-99.00dBm
+ min=-99dBm
+ max=-99dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color23-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7055189716,45.1907857109,1.0000000000
+		5.7055189619,45.1909656714,1.0000000000
+		5.7057734651,45.1909656779,1.0000000000
+		5.7057734739,45.1907857174,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
