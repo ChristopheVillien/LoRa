@@ -5401,11 +5401,11 @@
 	<name>Cell 153</name>
 	<description>Créée le 09-Nov-2019 11:16:54
  par Chris
- #Valeurs =26
- mean=-119.68dBm
+ #Valeurs =27
+ mean=-119.69dBm
  min=-121dBm
  max=-116dBm
- std=1.28dBm 
+ std=1.25dBm 
 
  	</description>
 	<styleUrl>#Color6</styleUrl>
@@ -67096,11 +67096,11 @@
 	<name>Cell 2438</name>
 	<description>Créée le 24-Nov-2019 19:14:02
  par Chris
- #Valeurs =7
- mean=-119.71dBm
+ #Valeurs =10
+ mean=-119.88dBm
  min=-121dBm
  max=-118dBm
- std=1.21dBm 
+ std=1.05dBm 
 
  	</description>
 	<styleUrl>#Color6</styleUrl>
@@ -78544,7 +78544,7 @@
 	<name>Cell 2862</name>
 	<description>Créée le 13-Nov-2019 19:29:39
  par Florian
- #Valeurs =526
+ #Valeurs =527
  mean=-115.16dBm
  min=-123dBm
  max=-94dBm
@@ -78571,11 +78571,11 @@
 	<name>Cell 2863</name>
 	<description>Créée le 13-Nov-2019 19:44:21
  par Florian
- #Valeurs =198
- mean=-114.83dBm
+ #Valeurs =199
+ mean=-114.85dBm
  min=-123dBm
  max=-95dBm
- std=2.99dBm 
+ std=2.98dBm 
 
  	</description>
 	<styleUrl>#Color3</styleUrl>
@@ -78787,11 +78787,11 @@
 	<name>Cell 2871</name>
 	<description>Créée le 13-Nov-2019 20:04:50
  par Florian
- #Valeurs =245
- mean=-117.87dBm
+ #Valeurs =247
+ mean=-117.56dBm
  min=-123dBm
  max=-103dBm
- std=2.28dBm 
+ std=2.44dBm 
 
  	</description>
 	<styleUrl>#Color3</styleUrl>
@@ -173710,6 +173710,33 @@
 		5.7594856549,45.2044513846,1.0000000000
 		5.7596129364,45.2044513278,1.0000000000
 		5.7596128560,45.2043613478,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 6387</name>
+	<description>Créée le 27-Nov-2019 21:14:33
+ par Chris
+ #Valeurs =1
+ mean=-119.00dBm
+ min=-119dBm
+ max=-119dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color9-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7596131778,45.2047212678,1.0000000000
+		5.7596132582,45.2048112478,1.0000000000
+		5.7597405406,45.2048111908,1.0000000000
+		5.7597404599,45.2047212108,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
