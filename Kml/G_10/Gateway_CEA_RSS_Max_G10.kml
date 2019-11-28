@@ -72847,11 +72847,11 @@
 	<name>Cell 2651</name>
 	<description>Créée le 11-Nov-2019 16:54:08
  par Florian
- #Valeurs =617
- mean=-116.03dBm
+ #Valeurs =618
+ mean=-116.04dBm
  min=-123dBm
  max=-98dBm
- std=2.82dBm 
+ std=2.83dBm 
 
  	</description>
 	<styleUrl>#Color17</styleUrl>
@@ -72928,8 +72928,8 @@
 	<name>Cell 2654</name>
 	<description>Créée le 11-Nov-2019 17:09:15
  par Florian
- #Valeurs =591
- mean=-116.76dBm
+ #Valeurs =594
+ mean=-116.77dBm
  min=-123dBm
  max=-97dBm
  std=2.71dBm 
@@ -78409,8 +78409,8 @@
 	<name>Cell 2857</name>
 	<description>Créée le 13-Nov-2019 19:09:38
  par Florian
- #Valeurs =470
- mean=-109.02dBm
+ #Valeurs =471
+ mean=-109.03dBm
  min=-123dBm
  max=-83dBm
  std=3.18dBm 
@@ -78544,7 +78544,7 @@
 	<name>Cell 2862</name>
 	<description>Créée le 13-Nov-2019 19:29:39
  par Florian
- #Valeurs =576
+ #Valeurs =577
  mean=-115.31dBm
  min=-123dBm
  max=-94dBm
@@ -79030,11 +79030,11 @@
 	<name>Cell 2880</name>
 	<description>Créée le 13-Nov-2019 20:41:44
  par Florian
- #Valeurs =437
- mean=-105.60dBm
+ #Valeurs =438
+ mean=-105.61dBm
  min=-123dBm
  max=-80dBm
- std=3.80dBm 
+ std=3.79dBm 
 
  	</description>
 	<styleUrl>#Color28</styleUrl>
@@ -175060,6 +175060,60 @@
 		5.7548943919,45.1932058244,1.0000000000
 		5.7550216484,45.1932057728,1.0000000000
 		5.7550215752,45.1931157926,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 6437</name>
+	<description>Créée le 28-Nov-2019 02:06:29
+ par Florian
+ #Valeurs =1
+ mean=-120.00dBm
+ min=-120dBm
+ max=-120dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color4-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7559116980,45.1923056052,1.0000000000
+		5.7559117726,45.1923955854,1.0000000000
+		5.7560390273,45.1923955326,1.0000000000
+		5.7560389525,45.1923055524,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 6438</name>
+	<description>Créée le 28-Nov-2019 02:06:41
+ par Florian
+ #Valeurs =1
+ mean=-118.00dBm
+ min=-118dBm
+ max=-118dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color5-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7557845179,45.1923956380,1.0000000000
+		5.7557845923,45.1924856182,1.0000000000
+		5.7559118472,45.1924855656,1.0000000000
+		5.7559117726,45.1923955854,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
