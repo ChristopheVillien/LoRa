@@ -1351,11 +1351,11 @@
 	<name>Cell 3</name>
 	<description>Créée le 08-Nov-2019 09:10:47
  par Chris
- #Valeurs =31
- mean=-118.01dBm
+ #Valeurs =32
+ mean=-118.06dBm
  min=-123dBm
  max=-115dBm
- std=2.29dBm 
+ std=2.27dBm 
 
  	</description>
 	<styleUrl>#Color7</styleUrl>
@@ -11935,7 +11935,7 @@
 	<name>Cell 395</name>
 	<description>Créée le 09-Nov-2019 18:50:21
  par Chris
- #Valeurs =1
+ #Valeurs =2
  mean=-117.00dBm
  min=-117dBm
  max=-117dBm
@@ -32023,11 +32023,11 @@
 	<name>Cell 1139</name>
 	<description>Créée le 15-Nov-2019 00:21:32
  par Chris
- #Valeurs =10
- mean=-113.60dBm
+ #Valeurs =12
+ mean=-113.91dBm
  min=-123dBm
  max=-109dBm
- std=4.45dBm 
+ std=4.05dBm 
 
  	</description>
 	<styleUrl>#Color10</styleUrl>
@@ -55378,8 +55378,8 @@
 	<name>Cell 2004</name>
 	<description>Créée le 11-Nov-2019 16:51:34
  par Florian
- #Valeurs =1228
- mean=-109.37dBm
+ #Valeurs =1231
+ mean=-109.38dBm
  min=-125dBm
  max=-80dBm
  std=3.18dBm 
@@ -55432,8 +55432,8 @@
 	<name>Cell 2006</name>
 	<description>Créée le 11-Nov-2019 16:54:08
  par Florian
- #Valeurs =2529
- mean=-114.40dBm
+ #Valeurs =2534
+ mean=-114.41dBm
  min=-123dBm
  max=-85dBm
  std=2.81dBm 
@@ -133534,6 +133534,60 @@
 		5.6940712098,45.1717089884,1.0000000000
 		5.6943256271,45.1717090204,1.0000000000
 		5.6943256720,45.1715290593,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 4899</name>
+	<description>Créée le 29-Nov-2019 00:38:33
+ par Chris
+ #Valeurs =1
+ mean=-119.00dBm
+ min=-119dBm
+ max=-119dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color4-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6940690621,45.1801671523,1.0000000000
+		5.6940690164,45.1803471131,1.0000000000
+		5.6943234723,45.1803471451,1.0000000000
+		5.6943235172,45.1801671843,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 4900</name>
+	<description>Créée le 29-Nov-2019 00:39:34
+ par Chris
+ #Valeurs =1
+ mean=-121.00dBm
+ min=-121dBm
+ max=-121dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color3-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6968673299,45.1837666886,1.0000000000
+		5.6968672930,45.1839466493,1.0000000000
+		5.6971217649,45.1839466751,1.0000000000
+		5.6971218010,45.1837667144,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
