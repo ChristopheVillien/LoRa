@@ -10944,11 +10944,11 @@
 	<name>Cell 402</name>
 	<description>Créée le 12-Nov-2019 18:52:35
  par Chris
- #Valeurs =35
- mean=-79.44dBm
+ #Valeurs =36
+ mean=-79.56dBm
  min=-104dBm
  max=-71dBm
- std=8.90dBm 
+ std=8.87dBm 
 
  	</description>
 	<styleUrl>#Color1</styleUrl>
@@ -13617,8 +13617,8 @@
 	<name>Cell 501</name>
 	<description>Créée le 13-Nov-2019 10:27:45
  par Chris
- #Valeurs =10
- mean=-112.44dBm
+ #Valeurs =12
+ mean=-111.90dBm
  min=-120dBm
  max=-106dBm
  std=5.56dBm 
@@ -13671,11 +13671,11 @@
 	<name>Cell 503</name>
 	<description>Créée le 13-Nov-2019 10:28:23
  par Chris
- #Valeurs =8
- mean=-103.50dBm
+ #Valeurs =9
+ mean=-103.91dBm
  min=-117dBm
  max=-97dBm
- std=7.48dBm 
+ std=7.06dBm 
 
  	</description>
 	<styleUrl>#Color1</styleUrl>
@@ -13752,11 +13752,11 @@
 	<name>Cell 506</name>
 	<description>Créée le 13-Nov-2019 10:30:56
  par Chris
- #Valeurs =11
- mean=-113.68dBm
+ #Valeurs =12
+ mean=-108.41dBm
  min=-120dBm
- max=-107dBm
- std=4.12dBm 
+ max=-99dBm
+ std=6.24dBm 
 
  	</description>
 	<styleUrl>#Color1</styleUrl>
@@ -30060,11 +30060,11 @@
 	<name>Cell 1110</name>
 	<description>Créée le 08-Nov-2019 18:03:16
  par Florian
- #Valeurs =6
- mean=-108.47dBm
+ #Valeurs =8
+ mean=-106.80dBm
  min=-121dBm
- max=-103dBm
- std=8.56dBm 
+ max=-101dBm
+ std=8.80dBm 
 
  	</description>
 	<styleUrl>#Color2</styleUrl>
@@ -54738,11 +54738,11 @@
 	<name>Cell 2024</name>
 	<description>Créée le 25-Nov-2019 18:35:36
  par Florian
- #Valeurs =1
- mean=-105.00dBm
- min=-105dBm
+ #Valeurs =3
+ mean=-108.89dBm
+ min=-115dBm
  max=-105dBm
- std=0.00dBm 
+ std=5.51dBm 
 
  	</description>
 	<styleUrl>#Color2</styleUrl>
@@ -57951,11 +57951,11 @@
 	<name>Cell 2143</name>
 	<description>Créée le 26-Nov-2019 20:22:25
  par Florian
- #Valeurs =2
- mean=-95.47dBm
- min=-96dBm
+ #Valeurs =3
+ mean=-97.04dBm
+ min=-106dBm
  max=-95dBm
- std=0.71dBm 
+ std=6.08dBm 
 
  	</description>
 	<styleUrl>#Color2</styleUrl>
@@ -68904,6 +68904,33 @@
 		5.7098455680,45.1933051909,1.0000000000
 		5.7104818520,45.1933051821,1.0000000000
 		5.7104818369,45.1928552810,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2549</name>
+	<description>Créée le 28-Nov-2019 19:27:57
+ par Florian
+ #Valeurs =1
+ mean=-91.00dBm
+ min=-91dBm
+ max=-91dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color2-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7034824072,45.1969042916,1.0000000000
+		5.7034823670,45.1973541923,1.0000000000
+		5.7041186962,45.1973542189,1.0000000000
+		5.7041187313,45.1969043182,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
