@@ -62722,11 +62722,11 @@
 	<name>Cell 2276</name>
 	<description>Créée le 27-Nov-2019 17:27:48
  par Florian
- #Valeurs =6
- mean=-110.65dBm
+ #Valeurs =7
+ mean=-111.24dBm
  min=-121dBm
  max=-105dBm
- std=5.98dBm 
+ std=5.94dBm 
 
  	</description>
 	<styleUrl>#Color6</styleUrl>
@@ -63937,11 +63937,11 @@
 	<name>Cell 2321</name>
 	<description>Créée le 27-Nov-2019 17:48:44
  par Florian
- #Valeurs =14
- mean=-113.43dBm
+ #Valeurs =15
+ mean=-112.28dBm
  min=-123dBm
- max=-107dBm
- std=3.90dBm 
+ max=-106dBm
+ std=4.44dBm 
 
  	</description>
 	<styleUrl>#Color3</styleUrl>
@@ -63964,11 +63964,11 @@
 	<name>Cell 2322</name>
 	<description>Créée le 27-Nov-2019 17:49:07
  par Florian
- #Valeurs =2
- mean=-116.55dBm
+ #Valeurs =4
+ mean=-113.71dBm
  min=-119dBm
- max=-115dBm
- std=2.83dBm 
+ max=-112dBm
+ std=3.32dBm 
 
  	</description>
 	<styleUrl>#Color9</styleUrl>
@@ -64018,11 +64018,11 @@
 	<name>Cell 2324</name>
 	<description>Créée le 27-Nov-2019 17:49:31
  par Florian
- #Valeurs =7
- mean=-115.74dBm
+ #Valeurs =8
+ mean=-115.05dBm
  min=-125dBm
  max=-110dBm
- std=4.92dBm 
+ std=5.07dBm 
 
  	</description>
 	<styleUrl>#Color1</styleUrl>
@@ -64045,11 +64045,11 @@
 	<name>Cell 2325</name>
 	<description>Créée le 27-Nov-2019 17:49:55
  par Florian
- #Valeurs =5
- mean=-111.53dBm
+ #Valeurs =6
+ mean=-110.99dBm
  min=-121dBm
  max=-107dBm
- std=5.26dBm 
+ std=5.10dBm 
 
  	</description>
 	<styleUrl>#Color6</styleUrl>
@@ -68149,11 +68149,11 @@
 	<name>Cell 2477</name>
 	<description>Créée le 28-Nov-2019 12:20:37
  par Benoit
- #Valeurs =5
- mean=-115.49dBm
+ #Valeurs =6
+ mean=-114.96dBm
  min=-121dBm
  max=-112dBm
- std=4.32dBm 
+ std=4.23dBm 
 
  	</description>
 	<styleUrl>#Color6-highlight</styleUrl>
@@ -68176,11 +68176,11 @@
 	<name>Cell 2478</name>
 	<description>Créée le 28-Nov-2019 12:22:37
  par Benoit
- #Valeurs =2
- mean=-113.04dBm
+ #Valeurs =3
+ mean=-113.33dBm
  min=-117dBm
  max=-111dBm
- std=4.24dBm 
+ std=3.00dBm 
 
  	</description>
 	<styleUrl>#Color12-highlight</styleUrl>
@@ -69715,14 +69715,14 @@
 	<name>Cell 2535</name>
 	<description>Créée le 28-Nov-2019 12:23:05
  par Nico
- #Valeurs =2
- mean=-112.89dBm
- min=-114dBm
+ #Valeurs =3
+ mean=-114.24dBm
+ min=-120dBm
  max=-112dBm
- std=1.41dBm 
+ std=4.16dBm 
 
  	</description>
-	<styleUrl>#Color16-highlight</styleUrl>
+	<styleUrl>#Color8-highlight</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -71002,6 +71002,33 @@
 		5.6907541003,45.2027517216,1.0000000000
 		5.6913904895,45.2027518191,1.0000000000
 		5.6913906249,45.2023019188,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2583</name>
+	<description>Créée le 29-Nov-2019 08:18:54
+ par Florian
+ #Valeurs =1
+ mean=-113.00dBm
+ min=-113dBm
+ max=-113dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color18-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6843873493,45.2094990507,1.0000000000
+		5.6843871587,45.2099489503,1.0000000000
+		5.6850236281,45.2099490833,1.0000000000
+		5.6850238137,45.2094991837,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
