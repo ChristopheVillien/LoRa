@@ -67373,7 +67373,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color23-highlight</styleUrl>
+	<styleUrl>#Color23</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -77023,6 +77023,33 @@
 		5.7060277798,45.1951947536,1.0000000000
 		5.7061550408,45.1951947564,1.0000000000
 		5.7061550446,45.1951047762,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2806</name>
+	<description>Créée le 29-Nov-2019 09:24:39
+ par Chris
+ #Valeurs =2
+ mean=-98.47dBm
+ min=-99dBm
+ max=-98dBm
+ std=0.71dBm 
+
+ 	</description>
+	<styleUrl>#Color17-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7003023377,45.1861964580,1.0000000000
+		5.7003023247,45.1862864383,1.0000000000
+		5.7004295658,45.1862864475,1.0000000000
+		5.7004295787,45.1861964671,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
