@@ -6562,11 +6562,11 @@
 	<name>Cell 196</name>
 	<description>Créée le 13-Nov-2019 10:26:17
  par Chris
- #Valeurs =2
- mean=-113.50dBm
+ #Valeurs =4
+ mean=-115.31dBm
  min=-120dBm
  max=-111dBm
- std=6.36dBm 
+ std=4.08dBm 
 
  	</description>
 	<styleUrl>#Color8</styleUrl>
@@ -6616,11 +6616,11 @@
 	<name>Cell 198</name>
 	<description>Créée le 13-Nov-2019 10:26:42
  par Chris
- #Valeurs =2
- mean=-117.89dBm
+ #Valeurs =3
+ mean=-118.23dBm
  min=-119dBm
  max=-117dBm
- std=1.41dBm 
+ std=1.15dBm 
 
  	</description>
 	<styleUrl>#Color9</styleUrl>
@@ -19927,11 +19927,11 @@
 	<name>Cell 691</name>
 	<description>Créée le 26-Nov-2019 07:50:16
  par Florian
- #Valeurs =7
- mean=-117.94dBm
+ #Valeurs =10
+ mean=-117.16dBm
  min=-120dBm
- max=-117dBm
- std=1.46dBm 
+ max=-113dBm
+ std=2.16dBm 
 
  	</description>
 	<styleUrl>#Color8</styleUrl>
@@ -19981,14 +19981,14 @@
 	<name>Cell 693</name>
 	<description>Créée le 26-Nov-2019 07:52:15
  par Florian
- #Valeurs =2
- mean=-114.55dBm
- min=-117dBm
+ #Valeurs =3
+ mean=-115.60dBm
+ min=-119dBm
  max=-113dBm
- std=2.83dBm 
+ std=3.06dBm 
 
  	</description>
-	<styleUrl>#Color12</styleUrl>
+	<styleUrl>#Color9</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -21493,14 +21493,14 @@
 	<name>Cell 749</name>
 	<description>Créée le 27-Nov-2019 17:20:53
  par Florian
- #Valeurs =1
- mean=-107.00dBm
- min=-107dBm
+ #Valeurs =2
+ mean=-109.60dBm
+ min=-117dBm
  max=-107dBm
- std=0.00dBm 
+ std=7.07dBm 
 
  	</description>
-	<styleUrl>#Color26</styleUrl>
+	<styleUrl>#Color12</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -26587,6 +26587,33 @@
 		5.6971176317,45.2045521379,1.0000000000
 		5.6977540411,45.2045522000,1.0000000000
 		5.6977541263,45.2041022998,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 938</name>
+	<description>Créée le 29-Nov-2019 08:25:11
+ par Florian
+ #Valeurs =1
+ mean=-117.00dBm
+ min=-117dBm
+ max=-117dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color12-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6971180831,45.2023026369,1.0000000000
+		5.6971179928,45.2027525372,1.0000000000
+		5.6977543821,45.2027525992,1.0000000000
+		5.6977544674,45.2023026989,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
