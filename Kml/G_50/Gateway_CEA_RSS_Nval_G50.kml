@@ -75061,14 +75061,14 @@
 	<name>Cell 2733</name>
 	<description>Créée le 30-Nov-2019 11:01:49
  par Florian
- #Valeurs =6
- mean=-117.67dBm
- min=-120dBm
+ #Valeurs =8
+ mean=-118.13dBm
+ min=-121dBm
  max=-115dBm
- std=1.79dBm 
+ std=1.85dBm 
 
  	</description>
-	<styleUrl>#Color20-highlight</styleUrl>
+	<styleUrl>#Color26-highlight</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -75079,6 +75079,33 @@
 		5.9050833421,45.1638925015,1.0000000000
 		5.9057192929,45.1638914055,1.0000000000
 		5.9057177404,45.1634415050,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2734</name>
+	<description>Créée le 30-Nov-2019 11:03:42
+ par Florian
+ #Valeurs =5
+ mean=-120.57dBm
+ min=-121dBm
+ max=-120dBm
+ std=0.55dBm 
+
+ 	</description>
+	<styleUrl>#Color17-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.9057177404,45.1634415050,1.0000000000
+		5.9057192929,45.1638914055,1.0000000000
+		5.9063552437,45.1638903060,1.0000000000
+		5.9063536861,45.1634404054,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
