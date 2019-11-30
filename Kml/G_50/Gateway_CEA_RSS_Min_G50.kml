@@ -74710,14 +74710,14 @@
 	<name>Cell 2720</name>
 	<description>Créée le 30-Nov-2019 10:53:18
  par Florian
- #Valeurs =2
- mean=-115.82dBm
- min=-119dBm
- max=-114dBm
- std=3.54dBm 
+ #Valeurs =5
+ mean=-115.24dBm
+ min=-121dBm
+ max=-111dBm
+ std=4.30dBm 
 
  	</description>
-	<styleUrl>#Color9-highlight</styleUrl>
+	<styleUrl>#Color6-highlight</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -74728,6 +74728,87 @@
 		5.9063692626,45.1679394096,1.0000000000
 		5.9070052584,45.1679383063,1.0000000000
 		5.9070036956,45.1674884061,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2721</name>
+	<description>Créée le 30-Nov-2019 10:54:26
+ par Florian
+ #Valeurs =2
+ mean=-119.89dBm
+ min=-121dBm
+ max=-119dBm
+ std=1.41dBm 
+
+ 	</description>
+	<styleUrl>#Color6-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.9057317140,45.1674906090,1.0000000000
+		5.9057332668,45.1679405092,1.0000000000
+		5.9063692626,45.1679394096,1.0000000000
+		5.9063677048,45.1674895093,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2722</name>
+	<description>Créée le 30-Nov-2019 10:54:51
+ par Florian
+ #Valeurs =2
+ mean=-121.89dBm
+ min=-123dBm
+ max=-121dBm
+ std=1.41dBm 
+
+ 	</description>
+	<styleUrl>#Color3-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.9057301613,45.1670407086,1.0000000000
+		5.9057317140,45.1674906090,1.0000000000
+		5.9063677048,45.1674895093,1.0000000000
+		5.9063661471,45.1670396090,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2723</name>
+	<description>Créée le 30-Nov-2019 10:55:49
+ par Florian
+ #Valeurs =3
+ mean=-116.70dBm
+ min=-119dBm
+ max=-115dBm
+ std=2.00dBm 
+
+ 	</description>
+	<styleUrl>#Color9-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.9057286086,45.1665908083,1.0000000000
+		5.9057301613,45.1670407086,1.0000000000
+		5.9063661471,45.1670396090,1.0000000000
+		5.9063645894,45.1665897087,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
