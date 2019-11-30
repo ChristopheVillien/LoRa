@@ -75096,11 +75096,11 @@
 	<name>Cell 2778</name>
 	<description>Créée le 30-Nov-2019 13:33:05
  par Benoit
- #Valeurs =31
- mean=-115.41dBm
+ #Valeurs =35
+ mean=-115.72dBm
  min=-123dBm
  max=-106dBm
- std=3.57dBm 
+ std=3.40dBm 
 
  	</description>
 	<styleUrl>#Color4-highlight</styleUrl>
@@ -75123,11 +75123,11 @@
 	<name>Cell 2779</name>
 	<description>Créée le 30-Nov-2019 13:42:16
  par Chris
- #Valeurs =8
- mean=-119.29dBm
+ #Valeurs =10
+ mean=-117.82dBm
  min=-121dBm
- max=-117dBm
- std=1.41dBm 
+ max=-112dBm
+ std=2.77dBm 
 
  	</description>
 	<styleUrl>#Color1-highlight</styleUrl>
@@ -75150,11 +75150,11 @@
 	<name>Cell 2780</name>
 	<description>Créée le 30-Nov-2019 13:44:44
  par Chris
- #Valeurs =7
- mean=-116.10dBm
- min=-121dBm
+ #Valeurs =10
+ mean=-117.22dBm
+ min=-123dBm
  max=-114dBm
- std=2.63dBm 
+ std=3.50dBm 
 
  	</description>
 	<styleUrl>#Color1-highlight</styleUrl>
@@ -75195,6 +75195,60 @@
 		5.9108068975,45.1638825102,1.0000000000
 		5.9114428478,45.1638813823,1.0000000000
 		5.9114412502,45.1634314819,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2782</name>
+	<description>Créée le 30-Nov-2019 13:49:16
+ par Florian
+ #Valeurs =6
+ mean=-112.69dBm
+ min=-119dBm
+ max=-109dBm
+ std=3.33dBm 
+
+ 	</description>
+	<styleUrl>#Color2-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.9101693595,45.1634337340,1.0000000000
+		5.9101709471,45.1638836345,1.0000000000
+		5.9108068975,45.1638825102,1.0000000000
+		5.9108053049,45.1634326097,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2783</name>
+	<description>Créée le 30-Nov-2019 13:50:37
+ par Florian
+ #Valeurs =4
+ mean=-113.42dBm
+ min=-115dBm
+ max=-113dBm
+ std=1.00dBm 
+
+ 	</description>
+	<styleUrl>#Color2-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.9095334140,45.1634348548,1.0000000000
+		5.9095349966,45.1638847552,1.0000000000
+		5.9101709471,45.1638836345,1.0000000000
+		5.9101693595,45.1634337340,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
