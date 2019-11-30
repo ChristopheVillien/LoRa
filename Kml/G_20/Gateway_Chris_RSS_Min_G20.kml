@@ -2215,11 +2215,11 @@
 	<name>Cell 35</name>
 	<description>Créée le 08-Nov-2019 18:54:50
  par Chris
- #Valeurs =3
- mean=-110.53dBm
+ #Valeurs =4
+ mean=-99.74dBm
  min=-114dBm
- max=-109dBm
- std=2.65dBm 
+ max=-94dBm
+ std=8.77dBm 
 
  	</description>
 	<styleUrl>#Color16</styleUrl>
@@ -2242,11 +2242,11 @@
 	<name>Cell 36</name>
 	<description>Créée le 08-Nov-2019 18:55:15
  par Chris
- #Valeurs =4
- mean=-109.37dBm
+ #Valeurs =5
+ mean=-107.15dBm
  min=-117dBm
- max=-105dBm
- std=4.93dBm 
+ max=-103dBm
+ std=5.72dBm 
 
  	</description>
 	<styleUrl>#Color12</styleUrl>
@@ -2269,11 +2269,11 @@
 	<name>Cell 37</name>
 	<description>Créée le 08-Nov-2019 18:55:27
  par Chris
- #Valeurs =5
- mean=-111.15dBm
+ #Valeurs =7
+ mean=-106.13dBm
  min=-115dBm
- max=-109dBm
- std=2.68dBm 
+ max=-99dBm
+ std=5.32dBm 
 
  	</description>
 	<styleUrl>#Color15</styleUrl>
@@ -2539,11 +2539,11 @@
 	<name>Cell 47</name>
 	<description>Créée le 08-Nov-2019 19:34:33
  par Chris
- #Valeurs =4
- mean=-110.20dBm
+ #Valeurs =5
+ mean=-110.35dBm
  min=-117dBm
  max=-106dBm
- std=4.86dBm 
+ std=4.24dBm 
 
  	</description>
 	<styleUrl>#Color12</styleUrl>
@@ -2755,11 +2755,11 @@
 	<name>Cell 55</name>
 	<description>Créée le 09-Nov-2019 09:48:49
  par Chris
- #Valeurs =4
- mean=-115.02dBm
+ #Valeurs =5
+ mean=-108.20dBm
  min=-119dBm
- max=-113dBm
- std=2.52dBm 
+ max=-102dBm
+ std=6.42dBm 
 
  	</description>
 	<styleUrl>#Color9</styleUrl>
@@ -2782,11 +2782,11 @@
 	<name>Cell 56</name>
 	<description>Créée le 09-Nov-2019 09:49:02
  par Chris
- #Valeurs =6
- mean=-111.32dBm
+ #Valeurs =7
+ mean=-111.61dBm
  min=-119dBm
  max=-107dBm
- std=5.37dBm 
+ std=4.90dBm 
 
  	</description>
 	<styleUrl>#Color9</styleUrl>
@@ -5374,11 +5374,11 @@
 	<name>Cell 152</name>
 	<description>Créée le 09-Nov-2019 14:59:09
  par Chris
- #Valeurs =4
- mean=-111.64dBm
+ #Valeurs =5
+ mean=-108.71dBm
  min=-115dBm
- max=-110dBm
- std=2.16dBm 
+ max=-104dBm
+ std=4.04dBm 
 
  	</description>
 	<styleUrl>#Color15</styleUrl>
@@ -5725,11 +5725,11 @@
 	<name>Cell 165</name>
 	<description>Créée le 09-Nov-2019 16:50:28
  par Chris
- #Valeurs =13
- mean=-56.82dBm
+ #Valeurs =14
+ mean=-57.14dBm
  min=-115dBm
  max=-48dBm
- std=28.00dBm 
+ std=27.08dBm 
 
  	</description>
 	<styleUrl>#Color15</styleUrl>
@@ -53884,6 +53884,33 @@
 		5.7554031966,45.1929356763,1.0000000000
 		5.7556577084,45.1929355717,1.0000000000
 		5.7556575600,45.1927556113,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 1949</name>
+	<description>Créée le 30-Nov-2019 02:21:01
+ par Chris
+ #Valeurs =1
+ mean=-102.00dBm
+ min=-102dBm
+ max=-102dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color33-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6976311224,45.1817871962,1.0000000000
+		5.6976310880,45.1819671570,1.0000000000
+		5.6978855510,45.1819671811,1.0000000000
+		5.6978855847,45.1817872203,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
