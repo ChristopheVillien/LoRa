@@ -6049,7 +6049,7 @@
 	<name>Cell 177</name>
 	<description>Créée le 09-Nov-2019 11:54:35
  par Chris
- #Valeurs =1619
+ #Valeurs =1624
  mean=-115.17dBm
  min=-125dBm
  max=-98dBm
@@ -8722,11 +8722,11 @@
 	<name>Cell 276</name>
 	<description>Créée le 09-Nov-2019 14:30:45
  par Chris
- #Valeurs =20
- mean=-115.20dBm
+ #Valeurs =21
+ mean=-115.32dBm
  min=-121dBm
  max=-110dBm
- std=3.66dBm 
+ std=3.60dBm 
 
  	</description>
 	<styleUrl>#Color5</styleUrl>
@@ -65584,7 +65584,7 @@
 	<name>Cell 2382</name>
 	<description>Créée le 11-Nov-2019 16:51:34
  par Florian
- #Valeurs =2285
+ #Valeurs =2287
  mean=-111.06dBm
  min=-127dBm
  max=-80dBm
@@ -65638,7 +65638,7 @@
 	<name>Cell 2384</name>
 	<description>Créée le 11-Nov-2019 16:54:08
  par Florian
- #Valeurs =4400
+ #Valeurs =4401
  mean=-113.02dBm
  min=-125dBm
  max=-82dBm
@@ -70282,14 +70282,14 @@
 	<name>Cell 2556</name>
 	<description>Créée le 13-Nov-2019 22:31:06
  par Florian
- #Valeurs =15
- mean=-118.19dBm
+ #Valeurs =16
+ mean=-117.77dBm
  min=-121dBm
  max=-112dBm
- std=2.19dBm 
+ std=2.45dBm 
 
  	</description>
-	<styleUrl>#Color3</styleUrl>
+	<styleUrl>#Color4</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -151678,6 +151678,60 @@
 		5.7019571060,45.1807077640,1.0000000000
 		5.7022115635,45.1807077785,1.0000000000
 		5.7022115835,45.1805278177,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 5571</name>
+	<description>Créée le 04-Dec-2019 00:45:30
+ par Chris
+ #Valeurs =1
+ mean=-121.00dBm
+ min=-121dBm
+ max=-121dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6968676250,45.1823270028,1.0000000000
+		5.6968675881,45.1825069635,1.0000000000
+		5.6971220536,45.1825069893,1.0000000000
+		5.6971220897,45.1823270286,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 5572</name>
+	<description>Créée le 04-Dec-2019 00:45:41
+ par Chris
+ #Valeurs =1
+ mean=-119.00dBm
+ min=-119dBm
+ max=-119dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6968674037,45.1834067672,1.0000000000
+		5.6968673668,45.1835867279,1.0000000000
+		5.6971218371,45.1835867537,1.0000000000
+		5.6971218732,45.1834067930,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
