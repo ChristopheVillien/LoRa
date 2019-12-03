@@ -37531,7 +37531,7 @@
 	<name>Cell 1343</name>
 	<description>Créée le 11-Nov-2019 16:51:34
  par Florian
- #Valeurs =12163
+ #Valeurs =12168
  mean=-112.15dBm
  min=-127dBm
  max=-80dBm
@@ -64693,14 +64693,14 @@
 	<name>Cell 2349</name>
 	<description>Créée le 23-Nov-2019 19:11:47
  par Chris
- #Valeurs =1
- mean=-119.00dBm
+ #Valeurs =2
+ mean=-118.47dBm
  min=-119dBm
- max=-119dBm
- std=0.00dBm 
+ max=-118dBm
+ std=0.71dBm 
 
  	</description>
-	<styleUrl>#Color4</styleUrl>
+	<styleUrl>#Color5</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -77293,6 +77293,60 @@
 		5.7015767426,45.1699100838,1.0000000000
 		5.7022127660,45.1699101210,1.0000000000
 		5.7022128160,45.1694602182,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2816</name>
+	<description>Créée le 03-Dec-2019 22:21:03
+ par Chris
+ #Valeurs =1
+ mean=-120.00dBm
+ min=-120dBm
+ max=-120dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color4-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7022140681,45.1582126376,1.0000000000
+		5.7022140180,45.1586625412,1.0000000000
+		5.7028499162,45.1586625749,1.0000000000
+		5.7028499613,45.1582126713,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2817</name>
+	<description>Créée le 03-Dec-2019 22:22:34
+ par Chris
+ #Valeurs =1
+ mean=-120.00dBm
+ min=-120dBm
+ max=-120dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color4-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7174745934,45.1523637180,1.0000000000
+		5.7174746635,45.1528136220,1.0000000000
+		5.7181104966,45.1528135707,1.0000000000
+		5.7181104215,45.1523636667,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
