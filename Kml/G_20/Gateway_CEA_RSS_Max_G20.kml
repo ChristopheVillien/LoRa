@@ -4834,11 +4834,11 @@
 	<name>Cell 132</name>
 	<description>Créée le 09-Nov-2019 11:08:41
  par Chris
- #Valeurs =2
- mean=-119.89dBm
+ #Valeurs =3
+ mean=-120.23dBm
  min=-121dBm
  max=-119dBm
- std=1.41dBm 
+ std=1.15dBm 
 
  	</description>
 	<styleUrl>#Color4</styleUrl>
@@ -152731,6 +152731,33 @@
 		5.7368216924,45.1886227320,1.0000000000
 		5.7370761851,45.1886226688,1.0000000000
 		5.7370760952,45.1884427082,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 5610</name>
+	<description>Créée le 04-Dec-2019 08:57:37
+ par Benoit
+ #Valeurs =1
+ mean=-121.00dBm
+ min=-121dBm
+ max=-121dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color3-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7324956936,45.1895235228,1.0000000000
+		5.7324957690,45.1897034833,1.0000000000
+		5.7327502665,45.1897034297,1.0000000000
+		5.7327501903,45.1895234692,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
