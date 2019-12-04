@@ -19252,14 +19252,14 @@
 	<name>Cell 666</name>
 	<description>Créée le 28-Nov-2019 12:31:28
  par Nico
- #Valeurs =16
- mean=-116.24dBm
+ #Valeurs =17
+ mean=-115.96dBm
  min=-120dBm
  max=-113dBm
- std=1.89dBm 
+ std=2.03dBm 
 
  	</description>
-	<styleUrl>#Color52</styleUrl>
+	<styleUrl>#Color55</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -19279,14 +19279,14 @@
 	<name>Cell 667</name>
 	<description>Créée le 28-Nov-2019 12:32:14
  par Nico
- #Valeurs =8
- mean=-112.36dBm
- min=-118dBm
+ #Valeurs =9
+ mean=-112.75dBm
+ min=-119dBm
  max=-109dBm
- std=3.11dBm 
+ std=3.48dBm 
 
  	</description>
-	<styleUrl>#Color26</styleUrl>
+	<styleUrl>#Color29</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -22654,14 +22654,14 @@
 	<name>Cell 792</name>
 	<description>Créée le 25-Nov-2019 18:36:36
  par Florian
- #Valeurs =9
- mean=-114.46dBm
+ #Valeurs =10
+ mean=-114.65dBm
  min=-118dBm
  max=-110dBm
- std=2.59dBm 
+ std=2.50dBm 
 
  	</description>
-	<styleUrl>#Color29</styleUrl>
+	<styleUrl>#Color33</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -23248,14 +23248,14 @@
 	<name>Cell 814</name>
 	<description>Créée le 26-Nov-2019 07:48:40
  par Florian
- #Valeurs =9
- mean=-116.87dBm
+ #Valeurs =11
+ mean=-116.68dBm
  min=-120dBm
  max=-115dBm
- std=1.86dBm 
+ std=1.79dBm 
 
  	</description>
-	<styleUrl>#Color29</styleUrl>
+	<styleUrl>#Color36</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -23275,14 +23275,14 @@
 	<name>Cell 815</name>
 	<description>Créée le 26-Nov-2019 07:49:28
  par Florian
- #Valeurs =2
- mean=-118.25dBm
+ #Valeurs =3
+ mean=-118.16dBm
  min=-120dBm
  max=-117dBm
- std=2.12dBm 
+ std=1.53dBm 
 
  	</description>
-	<styleUrl>#Color7</styleUrl>
+	<styleUrl>#Color10</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -23329,14 +23329,14 @@
 	<name>Cell 817</name>
 	<description>Créée le 26-Nov-2019 07:50:04
  par Florian
- #Valeurs =2
- mean=-118.89dBm
+ #Valeurs =3
+ mean=-118.57dBm
  min=-120dBm
  max=-118dBm
- std=1.41dBm 
+ std=1.15dBm 
 
  	</description>
-	<styleUrl>#Color7</styleUrl>
+	<styleUrl>#Color10</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -25732,14 +25732,14 @@
 	<name>Cell 906</name>
 	<description>Créée le 28-Nov-2019 07:43:41
  par Florian
- #Valeurs =10
- mean=-115.76dBm
+ #Valeurs =11
+ mean=-115.86dBm
  min=-120dBm
  max=-111dBm
- std=2.67dBm 
+ std=2.54dBm 
 
  	</description>
-	<styleUrl>#Color33</styleUrl>
+	<styleUrl>#Color36</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -26819,7 +26819,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color4-highlight</styleUrl>
+	<styleUrl>#Color4</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -26846,7 +26846,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color4-highlight</styleUrl>
+	<styleUrl>#Color4</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -28234,6 +28234,33 @@
 		5.7028449998,45.2077018687,1.0000000000
 		5.7034814443,45.2077018988,1.0000000000
 		5.7034814844,45.2072519989,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 999</name>
+	<description>Créée le 04-Dec-2019 07:56:34
+ par Florian
+ #Valeurs =2
+ mean=-117.00dBm
+ min=-117dBm
+ max=-117dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color7-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7002996132,45.2050023128,1.0000000000
+		5.7002995480,45.2054522129,1.0000000000
+		5.7009359674,45.2054522572,1.0000000000
+		5.7009360276,45.2050023572,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
