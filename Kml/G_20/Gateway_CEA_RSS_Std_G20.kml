@@ -124525,11 +124525,11 @@
 	<name>Cell 4565</name>
 	<description>Créée le 26-Nov-2019 20:35:26
  par Florian
- #Valeurs =2
- mean=-110.68dBm
+ #Valeurs =3
+ mean=-107.22dBm
  min=-119dBm
- max=-108dBm
- std=7.78dBm 
+ max=-104dBm
+ std=7.77dBm 
 
  	</description>
 	<styleUrl>#Color10</styleUrl>
@@ -142372,7 +142372,7 @@
 	<name>Cell 5226</name>
 	<description>Créée le 03-Dec-2019 07:54:42
  par Florian
- #Valeurs =1
+ #Valeurs =2
  mean=-118.00dBm
  min=-118dBm
  max=-118dBm
@@ -142399,11 +142399,11 @@
 	<name>Cell 5227</name>
 	<description>Créée le 03-Dec-2019 07:54:53
  par Florian
- #Valeurs =1
- mean=-119.00dBm
+ #Valeurs =2
+ mean=-118.47dBm
  min=-119dBm
- max=-119dBm
- std=0.00dBm 
+ max=-118dBm
+ std=0.71dBm 
 
  	</description>
 	<styleUrl>#Color1-highlight</styleUrl>
@@ -151813,6 +151813,87 @@
 		5.7436932157,45.1889807468,1.0000000000
 		5.7439477100,45.1889806683,1.0000000000
 		5.7439475985,45.1888007078,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 5576</name>
+	<description>Créée le 04-Dec-2019 07:46:12
+ par Florian
+ #Valeurs =1
+ mean=-118.00dBm
+ min=-118dBm
+ max=-118dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7340266846,45.1985212111,1.0000000000
+		5.7340267649,45.1987011714,1.0000000000
+		5.7342813025,45.1987011144,1.0000000000
+		5.7342812214,45.1985211541,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 5577</name>
+	<description>Créée le 04-Dec-2019 07:46:25
+ par Florian
+ #Valeurs =1
+ mean=-120.00dBm
+ min=-120dBm
+ max=-120dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7337717507,45.1976214664,1.0000000000
+		5.7337718301,45.1978014266,1.0000000000
+		5.7340263637,45.1978013702,1.0000000000
+		5.7340262835,45.1976214099,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 5578</name>
+	<description>Créée le 04-Dec-2019 07:46:37
+ par Florian
+ #Valeurs =1
+ mean=-120.00dBm
+ min=-120dBm
+ max=-120dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7337716713,45.1974415061,1.0000000000
+		5.7337717507,45.1976214664,1.0000000000
+		5.7340262835,45.1976214099,1.0000000000
+		5.7340262033,45.1974414497,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
