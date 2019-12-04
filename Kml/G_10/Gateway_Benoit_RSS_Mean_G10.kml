@@ -1459,11 +1459,11 @@
 	<name>Cell 7</name>
 	<description>Créée le 04-Dec-2019 08:34:35
  par Benoit
- #Valeurs =1
- mean=-91.00dBm
+ #Valeurs =2
+ mean=-90.47dBm
  min=-91dBm
- max=-91dBm
- std=0.00dBm 
+ max=-90dBm
+ std=0.71dBm 
 
  	</description>
 	<styleUrl>#Color30-highlight</styleUrl>
@@ -1477,6 +1477,87 @@
 		5.7262587682,45.1838558995,1.0000000000
 		5.7263860040,45.1838558797,1.0000000000
 		5.7263859759,45.1837658993,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 8</name>
+	<description>Créée le 04-Dec-2019 08:34:58
+ par Benoit
+ #Valeurs =2
+ mean=-82.68dBm
+ min=-91dBm
+ max=-80dBm
+ std=7.78dBm 
+
+ 	</description>
+	<styleUrl>#Color37-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7262586568,45.1834959781,1.0000000000
+		5.7262586846,45.1835859584,1.0000000000
+		5.7263859198,45.1835859386,1.0000000000
+		5.7263858917,45.1834959583,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 9</name>
+	<description>Créée le 04-Dec-2019 08:35:22
+ par Benoit
+ #Valeurs =2
+ mean=-69.99dBm
+ min=-91dBm
+ max=-67dBm
+ std=16.97dBm 
+
+ 	</description>
+	<styleUrl>#Color47-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7262586010,45.1833160174,1.0000000000
+		5.7262586289,45.1834059977,1.0000000000
+		5.7263858636,45.1834059779,1.0000000000
+		5.7263858356,45.1833159976,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 10</name>
+	<description>Créée le 04-Dec-2019 08:35:46
+ par Benoit
+ #Valeurs =2
+ mean=-98.22dBm
+ min=-103dBm
+ max=-96dBm
+ std=4.95dBm 
+
+ 	</description>
+	<styleUrl>#Color23-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7257495817,45.1830461540,1.0000000000
+		5.7257496088,45.1831361343,1.0000000000
+		5.7258768429,45.1831361151,1.0000000000
+		5.7258768156,45.1830461348,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
