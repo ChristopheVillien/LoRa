@@ -38017,14 +38017,14 @@
 	<name>Cell 1361</name>
 	<description>Créée le 12-Nov-2019 12:54:16
  par Chris
- #Valeurs =4
- mean=-106.29dBm
+ #Valeurs =10
+ mean=-101.40dBm
  min=-117dBm
- max=-103dBm
- std=7.80dBm 
+ max=-94dBm
+ std=7.99dBm 
 
  	</description>
-	<styleUrl>#Color14</styleUrl>
+	<styleUrl>#Color19</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -38125,14 +38125,14 @@
 	<name>Cell 1365</name>
 	<description>Créée le 12-Nov-2019 13:47:25
  par Chris
- #Valeurs =4
- mean=-110.55dBm
+ #Valeurs =6
+ mean=-96.22dBm
  min=-113dBm
- max=-109dBm
- std=2.31dBm 
+ max=-90dBm
+ std=10.05dBm 
 
  	</description>
-	<styleUrl>#Color10</styleUrl>
+	<styleUrl>#Color22</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -38152,14 +38152,14 @@
 	<name>Cell 1366</name>
 	<description>Créée le 12-Nov-2019 13:47:48
  par Chris
- #Valeurs =4
- mean=-107.00dBm
+ #Valeurs =7
+ mean=-92.57dBm
  min=-107dBm
- max=-107dBm
- std=0.00dBm 
+ max=-87dBm
+ std=9.52dBm 
 
  	</description>
-	<styleUrl>#Color11</styleUrl>
+	<styleUrl>#Color24</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -78274,11 +78274,11 @@
 	<name>Cell 2852</name>
 	<description>Créée le 04-Dec-2019 18:45:52
  par Nico
- #Valeurs =3
- mean=-99.96dBm
- min=-107dBm
+ #Valeurs =6
+ mean=-101.25dBm
+ min=-108dBm
  max=-96dBm
- std=5.86dBm 
+ std=4.59dBm 
 
  	</description>
 	<styleUrl>#Color18-highlight</styleUrl>
@@ -78301,11 +78301,11 @@
 	<name>Cell 2853</name>
 	<description>Créée le 04-Dec-2019 18:46:16
  par Nico
- #Valeurs =9
- mean=-96.67dBm
+ #Valeurs =10
+ mean=-97.04dBm
  min=-112dBm
  max=-89dBm
- std=7.09dBm 
+ std=6.72dBm 
 
  	</description>
 	<styleUrl>#Color22-highlight</styleUrl>
@@ -79183,6 +79183,33 @@
 		5.7085730000,45.1973543058,1.0000000000
 		5.7092093291,45.1973543040,1.0000000000
 		5.7092093241,45.1969044033,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2886</name>
+	<description>Créée le 05-Dec-2019 09:41:56
+ par Nico
+ #Valeurs =1
+ mean=-107.00dBm
+ min=-107dBm
+ max=-107dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color11-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7066639826,45.1982540912,1.0000000000
+		5.7066639675,45.1987039918,1.0000000000
+		5.7073003117,45.1987040006,1.0000000000
+		5.7073003217,45.1982541000,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
