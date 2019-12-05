@@ -13,6 +13,34 @@
 		 <rotationXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
 		 <size x="200" y="350" xunits="pixels" yunits="pixels"/>
  </ScreenOverlay>
+	<Style id="s_ylw-pushpin">
+	<IconStyle>
+	<scale>1.1</scale>
+	<Icon>
+		<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+		</Icon>
+		<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+	<IconStyle>
+	<scale>1.3</scale>
+	<Icon>
+		<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+	</Icon>
+	<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+	</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+	<Pair>
+	<key>normal</key>
+	<styleUrl>#s_ylw-pushpin</styleUrl>
+	</Pair>
+	<Pair>
+	<key>highlight</key>
+	<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+	</Pair>
+	</StyleMap>
 <Style id="Color1">
 	<BalloonStyle>
 	</BalloonStyle>
@@ -1293,6 +1321,34 @@
 		<color>cc000080</color>
 	</PolyStyle>
 </Style>
+<Placemark>
+	<name> Gateway CEA</name>
+	<description> 
+		 Installed :01-Nov-2019 00:00:00 
+		 EUI :c0ee40ffff294218 
+		 #Cells :5817 
+		 #Pkts :43697 
+	</description>
+	<Camera>
+		<gx:ViewerOptions>
+		<gx:option name="historicalimagery"></gx:option>
+		<gx:option enabled="0" name="sunlight"></gx:option>
+		<gx:option enabled="0" name="streetview"></gx:option>
+	</gx:ViewerOptions>
+	<longitude>5.7086</longitude>
+	<latitude>45.1942</latitude>
+	<altitude>0</altitude>
+	<heading>0.8319651091723452</heading>
+	<tilt>21.62156648973877</tilt>
+	<roll>3.273642256527795</roll>
+	<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+	</Camera>
+	<styleUrl>#m_ylw-pushpin</styleUrl>
+	<Point>
+		<gx:drawOrder>1</gx:drawOrder>
+	<coordinates>5.7085730000,45.1942050000,0</coordinates>
+	</Point>
+	</Placemark>
 <Placemark>
 	<name>Cell 1</name>
 	<description>Créée le 08-Nov-2019 09:02:49
@@ -65584,8 +65640,8 @@
 	<name>Cell 2382</name>
 	<description>Créée le 11-Nov-2019 16:51:34
  par Florian
- #Valeurs =2493
- mean=-111.33dBm
+ #Valeurs =2499
+ mean=-111.34dBm
  min=-127dBm
  max=-80dBm
  std=3.14dBm 
@@ -65611,11 +65667,11 @@
 	<name>Cell 2383</name>
 	<description>Créée le 11-Nov-2019 16:53:08
  par Florian
- #Valeurs =1374
- mean=-113.79dBm
+ #Valeurs =1381
+ mean=-113.80dBm
  min=-125dBm
  max=-86dBm
- std=2.96dBm 
+ std=2.95dBm 
 
  	</description>
 	<styleUrl>#Color24</styleUrl>
@@ -65638,11 +65694,11 @@
 	<name>Cell 2384</name>
 	<description>Créée le 11-Nov-2019 16:54:08
  par Florian
- #Valeurs =4796
- mean=-113.14dBm
+ #Valeurs =4831
+ mean=-113.15dBm
  min=-125dBm
  max=-82dBm
- std=3.13dBm 
+ std=3.14dBm 
 
  	</description>
 	<styleUrl>#Color27</styleUrl>
@@ -69850,11 +69906,11 @@
 	<name>Cell 2540</name>
 	<description>Créée le 13-Nov-2019 19:09:38
  par Florian
- #Valeurs =2173
- mean=-112.70dBm
+ #Valeurs =2178
+ mean=-112.69dBm
  min=-125dBm
  max=-83dBm
- std=3.19dBm 
+ std=3.20dBm 
 
  	</description>
 	<styleUrl>#Color26</styleUrl>
@@ -69904,11 +69960,11 @@
 	<name>Cell 2542</name>
 	<description>Créée le 13-Nov-2019 19:23:47
  par Florian
- #Valeurs =1299
+ #Valeurs =1300
  mean=-111.16dBm
  min=-123dBm
  max=-82dBm
- std=3.15dBm 
+ std=3.14dBm 
 
  	</description>
 	<styleUrl>#Color27</styleUrl>
@@ -69958,11 +70014,11 @@
 	<name>Cell 2544</name>
 	<description>Créée le 13-Nov-2019 19:52:55
  par Florian
- #Valeurs =627
- mean=-108.29dBm
+ #Valeurs =630
+ mean=-108.31dBm
  min=-123dBm
  max=-83dBm
- std=3.54dBm 
+ std=3.53dBm 
 
  	</description>
 	<styleUrl>#Color26</styleUrl>
@@ -70174,11 +70230,11 @@
 	<name>Cell 2552</name>
 	<description>Créée le 13-Nov-2019 21:19:29
  par Florian
- #Valeurs =177
- mean=-108.23dBm
+ #Valeurs =178
+ mean=-108.26dBm
  min=-123dBm
  max=-87dBm
- std=4.02dBm 
+ std=4.01dBm 
 
  	</description>
 	<styleUrl>#Color24</styleUrl>
@@ -71038,11 +71094,11 @@
 	<name>Cell 2584</name>
 	<description>Créée le 14-Nov-2019 21:49:39
  par Florian
- #Valeurs =82
- mean=-117.13dBm
+ #Valeurs =83
+ mean=-117.07dBm
  min=-123dBm
  max=-106dBm
- std=2.67dBm 
+ std=2.70dBm 
 
  	</description>
 	<styleUrl>#Color12</styleUrl>
@@ -153314,7 +153370,7 @@
  std=2.12dBm 
 
  	</description>
-	<styleUrl>#Color20-highlight</styleUrl>
+	<styleUrl>#Color20</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -153341,7 +153397,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color19-highlight</styleUrl>
+	<styleUrl>#Color19</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -153368,7 +153424,7 @@
  std=6.36dBm 
 
  	</description>
-	<styleUrl>#Color18-highlight</styleUrl>
+	<styleUrl>#Color18</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -153395,7 +153451,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color19-highlight</styleUrl>
+	<styleUrl>#Color19</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -153422,7 +153478,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color14-highlight</styleUrl>
+	<styleUrl>#Color14</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -153449,7 +153505,7 @@
  std=4.32dBm 
 
  	</description>
-	<styleUrl>#Color16-highlight</styleUrl>
+	<styleUrl>#Color16</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -153476,7 +153532,7 @@
  std=4.62dBm 
 
  	</description>
-	<styleUrl>#Color18-highlight</styleUrl>
+	<styleUrl>#Color18</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -153503,7 +153559,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color11-highlight</styleUrl>
+	<styleUrl>#Color11</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -153530,7 +153586,7 @@
  std=7.80dBm 
 
  	</description>
-	<styleUrl>#Color22-highlight</styleUrl>
+	<styleUrl>#Color22</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -153557,7 +153613,7 @@
  std=6.77dBm 
 
  	</description>
-	<styleUrl>#Color19-highlight</styleUrl>
+	<styleUrl>#Color19</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -153584,7 +153640,7 @@
  std=10.61dBm 
 
  	</description>
-	<styleUrl>#Color17-highlight</styleUrl>
+	<styleUrl>#Color17</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -153611,7 +153667,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color13-highlight</styleUrl>
+	<styleUrl>#Color13</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -153638,7 +153694,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color15-highlight</styleUrl>
+	<styleUrl>#Color15</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -153665,7 +153721,7 @@
  std=2.88dBm 
 
  	</description>
-	<styleUrl>#Color18-highlight</styleUrl>
+	<styleUrl>#Color18</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -153692,7 +153748,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color14-highlight</styleUrl>
+	<styleUrl>#Color14</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -153719,7 +153775,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color24-highlight</styleUrl>
+	<styleUrl>#Color24</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -153746,7 +153802,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color19-highlight</styleUrl>
+	<styleUrl>#Color19</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -153773,7 +153829,7 @@
  std=7.07dBm 
 
  	</description>
-	<styleUrl>#Color22-highlight</styleUrl>
+	<styleUrl>#Color22</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -153800,7 +153856,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color16-highlight</styleUrl>
+	<styleUrl>#Color16</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -153827,7 +153883,7 @@
  std=7.78dBm 
 
  	</description>
-	<styleUrl>#Color18-highlight</styleUrl>
+	<styleUrl>#Color18</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
