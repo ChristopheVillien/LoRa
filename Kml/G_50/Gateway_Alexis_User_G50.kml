@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<ScreenOverlay>
+	<name>
+	Alexis - Users
+	  </name>
+	<Icon>
+		  <href>https://raw.githubusercontent.com/ChristopheVillien/LoRa/master/Kml/G_50/Gateway_Alexis_User_G50.png</href>
+	  </Icon>
+		 <overlayXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+		  <screenXY x="25" y="400" xunits="pixels" yunits="pixels"/>
+		 <rotationXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		 <size x="200" y="250" xunits="pixels" yunits="pixels"/>
+ </ScreenOverlay>
+<Style id="Color1">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccff0000</color>
+	</PolyStyle>
+</Style>
+<Style id="Color2">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc0000ff</color>
+	</PolyStyle>
+</Style>
+<Style id="Color3">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc0e5a19</color>
+	</PolyStyle>
+</Style>
+<Style id="Color4">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc2994ff</color>
+	</PolyStyle>
+</Style>
+<Style id="Color5">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccff0080</color>
+	</PolyStyle>
+</Style>
+<Style id="Color1-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccff0000</color>
+	</PolyStyle>
+</Style>
+<Style id="Color2-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc0000ff</color>
+	</PolyStyle>
+</Style>
+<Style id="Color3-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc0e5a19</color>
+	</PolyStyle>
+</Style>
+<Style id="Color4-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc2994ff</color>
+	</PolyStyle>
+</Style>
+<Style id="Color5-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccff0080</color>
+	</PolyStyle>
+</Style>
+</Document>
+</kml>

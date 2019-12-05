@@ -1,0 +1,1297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<ScreenOverlay>
+	<name>
+	Florian - RSS max
+	  </name>
+	<Icon>
+		  <href>https://raw.githubusercontent.com/ChristopheVillien/LoRa/master/Kml/G_10/Gateway_Florian_RSS_Max_G10.png</href>
+	  </Icon>
+		 <overlayXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+		  <screenXY x="25" y="95" xunits="pixels" yunits="pixels"/>
+		 <rotationXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		 <size x="200" y="350" xunits="pixels" yunits="pixels"/>
+ </ScreenOverlay>
+<Style id="Color1">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc8f0000</color>
+	</PolyStyle>
+</Style>
+<Style id="Color2">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc9f0000</color>
+	</PolyStyle>
+</Style>
+<Style id="Color3">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccaf0000</color>
+	</PolyStyle>
+</Style>
+<Style id="Color4">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccbf0000</color>
+	</PolyStyle>
+</Style>
+<Style id="Color5">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cccf0000</color>
+	</PolyStyle>
+</Style>
+<Style id="Color6">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccdf0000</color>
+	</PolyStyle>
+</Style>
+<Style id="Color7">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccef0000</color>
+	</PolyStyle>
+</Style>
+<Style id="Color8">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccff0000</color>
+	</PolyStyle>
+</Style>
+<Style id="Color9">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccff1000</color>
+	</PolyStyle>
+</Style>
+<Style id="Color10">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccff2000</color>
+	</PolyStyle>
+</Style>
+<Style id="Color11">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccff3000</color>
+	</PolyStyle>
+</Style>
+<Style id="Color12">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccff4000</color>
+	</PolyStyle>
+</Style>
+<Style id="Color13">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccff5000</color>
+	</PolyStyle>
+</Style>
+<Style id="Color14">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccff6000</color>
+	</PolyStyle>
+</Style>
+<Style id="Color15">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccff7000</color>
+	</PolyStyle>
+</Style>
+<Style id="Color16">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccff8000</color>
+	</PolyStyle>
+</Style>
+<Style id="Color17">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccff8f00</color>
+	</PolyStyle>
+</Style>
+<Style id="Color18">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccff9f00</color>
+	</PolyStyle>
+</Style>
+<Style id="Color19">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccffaf00</color>
+	</PolyStyle>
+</Style>
+<Style id="Color20">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccffbf00</color>
+	</PolyStyle>
+</Style>
+<Style id="Color21">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccffcf00</color>
+	</PolyStyle>
+</Style>
+<Style id="Color22">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccffdf00</color>
+	</PolyStyle>
+</Style>
+<Style id="Color23">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccffef00</color>
+	</PolyStyle>
+</Style>
+<Style id="Color24">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccffff00</color>
+	</PolyStyle>
+</Style>
+<Style id="Color25">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccefff10</color>
+	</PolyStyle>
+</Style>
+<Style id="Color26">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccdfff20</color>
+	</PolyStyle>
+</Style>
+<Style id="Color27">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cccfff30</color>
+	</PolyStyle>
+</Style>
+<Style id="Color28">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccbfff40</color>
+	</PolyStyle>
+</Style>
+<Style id="Color29">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccafff50</color>
+	</PolyStyle>
+</Style>
+<Style id="Color30">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc9fff60</color>
+	</PolyStyle>
+</Style>
+<Style id="Color31">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc8fff70</color>
+	</PolyStyle>
+</Style>
+<Style id="Color32">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc80ff80</color>
+	</PolyStyle>
+</Style>
+<Style id="Color33">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc70ff8f</color>
+	</PolyStyle>
+</Style>
+<Style id="Color34">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc60ff9f</color>
+	</PolyStyle>
+</Style>
+<Style id="Color35">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc50ffaf</color>
+	</PolyStyle>
+</Style>
+<Style id="Color36">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc40ffbf</color>
+	</PolyStyle>
+</Style>
+<Style id="Color37">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc30ffcf</color>
+	</PolyStyle>
+</Style>
+<Style id="Color38">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc20ffdf</color>
+	</PolyStyle>
+</Style>
+<Style id="Color39">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc10ffef</color>
+	</PolyStyle>
+</Style>
+<Style id="Color40">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc00ffff</color>
+	</PolyStyle>
+</Style>
+<Style id="Color41">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc00efff</color>
+	</PolyStyle>
+</Style>
+<Style id="Color42">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc00dfff</color>
+	</PolyStyle>
+</Style>
+<Style id="Color43">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc00cfff</color>
+	</PolyStyle>
+</Style>
+<Style id="Color44">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc00bfff</color>
+	</PolyStyle>
+</Style>
+<Style id="Color45">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc00afff</color>
+	</PolyStyle>
+</Style>
+<Style id="Color46">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc009fff</color>
+	</PolyStyle>
+</Style>
+<Style id="Color47">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc008fff</color>
+	</PolyStyle>
+</Style>
+<Style id="Color48">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc0080ff</color>
+	</PolyStyle>
+</Style>
+<Style id="Color49">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc0070ff</color>
+	</PolyStyle>
+</Style>
+<Style id="Color50">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc0060ff</color>
+	</PolyStyle>
+</Style>
+<Style id="Color51">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc0050ff</color>
+	</PolyStyle>
+</Style>
+<Style id="Color52">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc0040ff</color>
+	</PolyStyle>
+</Style>
+<Style id="Color53">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc0030ff</color>
+	</PolyStyle>
+</Style>
+<Style id="Color54">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc0020ff</color>
+	</PolyStyle>
+</Style>
+<Style id="Color55">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc0010ff</color>
+	</PolyStyle>
+</Style>
+<Style id="Color56">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc0000ff</color>
+	</PolyStyle>
+</Style>
+<Style id="Color57">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc0000ef</color>
+	</PolyStyle>
+</Style>
+<Style id="Color58">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc0000df</color>
+	</PolyStyle>
+</Style>
+<Style id="Color59">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc0000cf</color>
+	</PolyStyle>
+</Style>
+<Style id="Color60">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc0000bf</color>
+	</PolyStyle>
+</Style>
+<Style id="Color61">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc0000af</color>
+	</PolyStyle>
+</Style>
+<Style id="Color62">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc00009f</color>
+	</PolyStyle>
+</Style>
+<Style id="Color63">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc00008f</color>
+	</PolyStyle>
+</Style>
+<Style id="Color64">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc000080</color>
+	</PolyStyle>
+</Style>
+<Style id="Color1-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc8f0000</color>
+	</PolyStyle>
+</Style>
+<Style id="Color2-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc9f0000</color>
+	</PolyStyle>
+</Style>
+<Style id="Color3-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccaf0000</color>
+	</PolyStyle>
+</Style>
+<Style id="Color4-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccbf0000</color>
+	</PolyStyle>
+</Style>
+<Style id="Color5-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cccf0000</color>
+	</PolyStyle>
+</Style>
+<Style id="Color6-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccdf0000</color>
+	</PolyStyle>
+</Style>
+<Style id="Color7-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccef0000</color>
+	</PolyStyle>
+</Style>
+<Style id="Color8-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccff0000</color>
+	</PolyStyle>
+</Style>
+<Style id="Color9-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccff1000</color>
+	</PolyStyle>
+</Style>
+<Style id="Color10-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccff2000</color>
+	</PolyStyle>
+</Style>
+<Style id="Color11-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccff3000</color>
+	</PolyStyle>
+</Style>
+<Style id="Color12-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccff4000</color>
+	</PolyStyle>
+</Style>
+<Style id="Color13-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccff5000</color>
+	</PolyStyle>
+</Style>
+<Style id="Color14-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccff6000</color>
+	</PolyStyle>
+</Style>
+<Style id="Color15-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccff7000</color>
+	</PolyStyle>
+</Style>
+<Style id="Color16-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccff8000</color>
+	</PolyStyle>
+</Style>
+<Style id="Color17-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccff8f00</color>
+	</PolyStyle>
+</Style>
+<Style id="Color18-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccff9f00</color>
+	</PolyStyle>
+</Style>
+<Style id="Color19-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccffaf00</color>
+	</PolyStyle>
+</Style>
+<Style id="Color20-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccffbf00</color>
+	</PolyStyle>
+</Style>
+<Style id="Color21-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccffcf00</color>
+	</PolyStyle>
+</Style>
+<Style id="Color22-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccffdf00</color>
+	</PolyStyle>
+</Style>
+<Style id="Color23-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccffef00</color>
+	</PolyStyle>
+</Style>
+<Style id="Color24-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccffff00</color>
+	</PolyStyle>
+</Style>
+<Style id="Color25-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccefff10</color>
+	</PolyStyle>
+</Style>
+<Style id="Color26-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccdfff20</color>
+	</PolyStyle>
+</Style>
+<Style id="Color27-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cccfff30</color>
+	</PolyStyle>
+</Style>
+<Style id="Color28-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccbfff40</color>
+	</PolyStyle>
+</Style>
+<Style id="Color29-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccafff50</color>
+	</PolyStyle>
+</Style>
+<Style id="Color30-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc9fff60</color>
+	</PolyStyle>
+</Style>
+<Style id="Color31-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc8fff70</color>
+	</PolyStyle>
+</Style>
+<Style id="Color32-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc80ff80</color>
+	</PolyStyle>
+</Style>
+<Style id="Color33-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc70ff8f</color>
+	</PolyStyle>
+</Style>
+<Style id="Color34-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc60ff9f</color>
+	</PolyStyle>
+</Style>
+<Style id="Color35-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc50ffaf</color>
+	</PolyStyle>
+</Style>
+<Style id="Color36-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc40ffbf</color>
+	</PolyStyle>
+</Style>
+<Style id="Color37-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc30ffcf</color>
+	</PolyStyle>
+</Style>
+<Style id="Color38-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc20ffdf</color>
+	</PolyStyle>
+</Style>
+<Style id="Color39-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc10ffef</color>
+	</PolyStyle>
+</Style>
+<Style id="Color40-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc00ffff</color>
+	</PolyStyle>
+</Style>
+<Style id="Color41-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc00efff</color>
+	</PolyStyle>
+</Style>
+<Style id="Color42-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc00dfff</color>
+	</PolyStyle>
+</Style>
+<Style id="Color43-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc00cfff</color>
+	</PolyStyle>
+</Style>
+<Style id="Color44-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc00bfff</color>
+	</PolyStyle>
+</Style>
+<Style id="Color45-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc00afff</color>
+	</PolyStyle>
+</Style>
+<Style id="Color46-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc009fff</color>
+	</PolyStyle>
+</Style>
+<Style id="Color47-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc008fff</color>
+	</PolyStyle>
+</Style>
+<Style id="Color48-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc0080ff</color>
+	</PolyStyle>
+</Style>
+<Style id="Color49-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc0070ff</color>
+	</PolyStyle>
+</Style>
+<Style id="Color50-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc0060ff</color>
+	</PolyStyle>
+</Style>
+<Style id="Color51-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc0050ff</color>
+	</PolyStyle>
+</Style>
+<Style id="Color52-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc0040ff</color>
+	</PolyStyle>
+</Style>
+<Style id="Color53-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc0030ff</color>
+	</PolyStyle>
+</Style>
+<Style id="Color54-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc0020ff</color>
+	</PolyStyle>
+</Style>
+<Style id="Color55-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc0010ff</color>
+	</PolyStyle>
+</Style>
+<Style id="Color56-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc0000ff</color>
+	</PolyStyle>
+</Style>
+<Style id="Color57-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc0000ef</color>
+	</PolyStyle>
+</Style>
+<Style id="Color58-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc0000df</color>
+	</PolyStyle>
+</Style>
+<Style id="Color59-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc0000cf</color>
+	</PolyStyle>
+</Style>
+<Style id="Color60-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc0000bf</color>
+	</PolyStyle>
+</Style>
+<Style id="Color61-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc0000af</color>
+	</PolyStyle>
+</Style>
+<Style id="Color62-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc00009f</color>
+	</PolyStyle>
+</Style>
+<Style id="Color63-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc00008f</color>
+	</PolyStyle>
+</Style>
+<Style id="Color64-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>cc000080</color>
+	</PolyStyle>
+</Style>
+</Document>
+</kml>
