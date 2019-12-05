@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff294218 
-		 #Cells :2908 
-		 #Pkts :43951 
+		 #Cells :2909 
+		 #Pkts :43984 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -37587,8 +37587,8 @@
 	<name>Cell 1343</name>
 	<description>Créée le 11-Nov-2019 16:51:34
  par Florian
- #Valeurs =13573
- mean=-112.23dBm
+ #Valeurs =13586
+ mean=-112.24dBm
  min=-127dBm
  max=-80dBm
  std=3.14dBm 
@@ -39585,11 +39585,11 @@
 	<name>Cell 1417</name>
 	<description>Créée le 13-Nov-2019 19:13:18
  par Florian
- #Valeurs =328
+ #Valeurs =331
  mean=-110.33dBm
  min=-123dBm
  max=-87dBm
- std=3.64dBm 
+ std=3.68dBm 
 
  	</description>
 	<styleUrl>#Color5</styleUrl>
@@ -39639,11 +39639,11 @@
 	<name>Cell 1419</name>
 	<description>Créée le 13-Nov-2019 19:52:42
  par Florian
- #Valeurs =470
- mean=-116.06dBm
+ #Valeurs =473
+ mean=-116.07dBm
  min=-123dBm
  max=-98dBm
- std=2.97dBm 
+ std=2.96dBm 
 
  	</description>
 	<styleUrl>#Color4</styleUrl>
@@ -39666,11 +39666,11 @@
 	<name>Cell 1420</name>
 	<description>Créée le 13-Nov-2019 20:20:19
  par Florian
- #Valeurs =692
+ #Valeurs =694
  mean=-113.73dBm
  min=-125dBm
  max=-92dBm
- std=3.33dBm 
+ std=3.32dBm 
 
  	</description>
 	<styleUrl>#Color5</styleUrl>
@@ -79860,6 +79860,33 @@
 		5.8193569812,45.2296933308,1.0000000000
 		5.8199936692,45.2296927115,1.0000000000
 		5.8199927907,45.2292428144,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2909</name>
+	<description>Créée le 05-Dec-2019 20:13:40
+ par Chris
+ #Valeurs =12
+ mean=-119.83dBm
+ min=-121dBm
+ max=-118dBm
+ std=0.90dBm 
+
+ 	</description>
+	<styleUrl>#Color2-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.8187116097,45.2251949733,1.0000000000
+		5.8187124780,45.2256448708,1.0000000000
+		5.8193491208,45.2256442551,1.0000000000
+		5.8193482475,45.2251943576,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
