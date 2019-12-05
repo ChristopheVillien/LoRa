@@ -1304,7 +1304,7 @@
  std=9.24dBm 
 
  	</description>
-	<styleUrl>#Color22-highlight</styleUrl>
+	<styleUrl>#Color22</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -1331,7 +1331,7 @@
  std=0.71dBm 
 
  	</description>
-	<styleUrl>#Color15-highlight</styleUrl>
+	<styleUrl>#Color15</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -1891,14 +1891,14 @@
 	<name>Cell 23</name>
 	<description>Créée le 05-Dec-2019 08:28:20
  par Benoit
- #Valeurs =1
- mean=-83.00dBm
- min=-83dBm
- max=-83dBm
- std=0.00dBm 
+ #Valeurs =3
+ mean=-81.47dBm
+ min=-93dBm
+ max=-78dBm
+ std=7.64dBm 
 
  	</description>
-	<styleUrl>#Color36-highlight</styleUrl>
+	<styleUrl>#Color38-highlight</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -1936,6 +1936,60 @@
 		5.7266403616,45.1834959183,1.0000000000
 		5.7267675965,45.1834958981,1.0000000000
 		5.7267675678,45.1834059178,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 25</name>
+	<description>Créée le 05-Dec-2019 08:29:17
+ par Benoit
+ #Valeurs =1
+ mean=-81.00dBm
+ min=-81dBm
+ max=-81dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color38-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7263858636,45.1834059779,1.0000000000
+		5.7263858917,45.1834959583,1.0000000000
+		5.7265131266,45.1834959384,1.0000000000
+		5.7265130984,45.1834059580,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 26</name>
+	<description>Créée le 05-Dec-2019 08:29:29
+ par Benoit
+ #Valeurs =2
+ mean=-69.89dBm
+ min=-71dBm
+ max=-69dBm
+ std=1.41dBm 
+
+ 	</description>
+	<styleUrl>#Color48-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7262586289,45.1834059977,1.0000000000
+		5.7262586568,45.1834959781,1.0000000000
+		5.7263858917,45.1834959583,1.0000000000
+		5.7263858636,45.1834059779,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
