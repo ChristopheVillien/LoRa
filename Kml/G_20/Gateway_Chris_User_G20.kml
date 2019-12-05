@@ -146,8 +146,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff296193 
-		 #Cells :2222 
-		 #Pkts :10228 
+		 #Cells :2225 
+		 #Pkts :10234 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -24203,11 +24203,11 @@
 	<name>Cell 891</name>
 	<description>Créée le 28-Nov-2019 09:24:43
  par Chris
- #Valeurs =1
- mean=-88.00dBm
+ #Valeurs =2
+ mean=-69.98dBm
  min=-88dBm
- max=-88dBm
- std=0.00dBm 
+ max=-67dBm
+ std=14.85dBm 
 
  	</description>
 	<styleUrl>#Color1</styleUrl>
@@ -40295,11 +40295,11 @@
 	<name>Cell 1487</name>
 	<description>Créée le 21-Nov-2019 18:41:30
  par Chris
- #Valeurs =2
- mean=-96.82dBm
- min=-100dBm
+ #Valeurs =4
+ mean=-99.05dBm
+ min=-105dBm
  max=-95dBm
- std=3.54dBm 
+ std=4.35dBm 
 
  	</description>
 	<styleUrl>#Color1</styleUrl>
@@ -57798,7 +57798,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color2-highlight</styleUrl>
+	<styleUrl>#Color2</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -60158,6 +60158,87 @@
 		5.7212984792,45.1924046870,1.0000000000
 		5.7215529888,45.1924046583,1.0000000000
 		5.7215529479,45.1922246979,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2223</name>
+	<description>Créée le 05-Dec-2019 19:03:19
+ par Chris
+ #Valeurs =1
+ mean=-102.00dBm
+ min=-102dBm
+ max=-102dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6989027634,45.1857464465,1.0000000000
+		5.6989027329,45.1859264071,1.0000000000
+		5.6991572136,45.1859264284,1.0000000000
+		5.6991572433,45.1857464677,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2224</name>
+	<description>Créée le 05-Dec-2019 19:03:30
+ par Chris
+ #Valeurs =1
+ mean=-97.00dBm
+ min=-97dBm
+ max=-97dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6989028853,45.1850266039,1.0000000000
+		5.6989028548,45.1852065645,1.0000000000
+		5.6991573323,45.1852065858,1.0000000000
+		5.6991573620,45.1850266251,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2225</name>
+	<description>Créée le 05-Dec-2019 19:04:05
+ par Chris
+ #Valeurs =1
+ mean=-69.00dBm
+ min=-69dBm
+ max=-69dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6973760957,45.1846665430,1.0000000000
+		5.6973760604,45.1848465037,1.0000000000
+		5.6976305363,45.1848465284,1.0000000000
+		5.6976305708,45.1846665677,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
