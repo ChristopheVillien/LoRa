@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :04-Dec-2019 17:00:00 
 		 EUI :c0ee40ffff296bbe 
-		 #Cells :0 
-		 #Pkts :0 
+		 #Cells :3 
+		 #Pkts :3 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -1349,5 +1349,86 @@
 	<coordinates>5.7315090000,45.1810150000,0</coordinates>
 	</Point>
 	</Placemark>
+<Placemark>
+	<name>Cell 1</name>
+	<description>Créée le 06-Dec-2019 07:23:10
+ par Florian
+ #Valeurs =1
+ mean=-117.00dBm
+ min=-117dBm
+ max=-117dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7285503334,45.1876346952,1.0000000000
+		5.7285503649,45.1877246754,1.0000000000
+		5.7286776092,45.1877246531,1.0000000000
+		5.7286775775,45.1876346728,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2</name>
+	<description>Créée le 06-Dec-2019 07:23:20
+ par Florian
+ #Valeurs =1
+ mean=-119.00dBm
+ min=-119dBm
+ max=-119dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7275322308,45.1871849672,1.0000000000
+		5.7275322607,45.1872749475,1.0000000000
+		5.7276595040,45.1872749263,1.0000000000
+		5.7276594740,45.1871849460,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 3</name>
+	<description>Créée le 06-Dec-2019 07:23:32
+ par Florian
+ #Valeurs =1
+ mean=-117.00dBm
+ min=-117dBm
+ max=-117dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7267689439,45.1877249732,1.0000000000
+		5.7267689726,45.1878149534,1.0000000000
+		5.7268962172,45.1878149331,1.0000000000
+		5.7268961883,45.1877249528,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
 </Document>
 </kml>
