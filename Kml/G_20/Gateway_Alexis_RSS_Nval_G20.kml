@@ -1327,7 +1327,7 @@
 		 Installed :04-Dec-2019 17:00:00 
 		 EUI :c0ee40ffff296bbe 
 		 #Cells :22 
-		 #Pkts :28 
+		 #Pkts :30 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -1920,14 +1920,14 @@
 	<name>Cell 22</name>
 	<description>Créée le 06-Dec-2019 17:05:51
  par Nico
- #Valeurs =1
- mean=-120.00dBm
+ #Valeurs =3
+ mean=-118.92dBm
  min=-120dBm
- max=-120dBm
- std=0.00dBm 
+ max=-118dBm
+ std=1.00dBm 
 
  	</description>
-	<styleUrl>#Color4-highlight</styleUrl>
+	<styleUrl>#Color10-highlight</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>

@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :04-Dec-2019 17:00:00 
 		 EUI :c0ee40ffff296bbe 
-		 #Cells :26 
-		 #Pkts :27 
+		 #Cells :27 
+		 #Pkts :30 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -2046,6 +2046,33 @@
 		5.7020829953,45.1924951917,1.0000000000
 		5.7022102503,45.1924951989,1.0000000000
 		5.7022102603,45.1924052187,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 27</name>
+	<description>Créée le 06-Dec-2019 17:05:51
+ par Nico
+ #Valeurs =3
+ mean=-118.92dBm
+ min=-120dBm
+ max=-118dBm
+ std=1.00dBm 
+
+ 	</description>
+	<styleUrl>#Color2-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7075549215,45.1946548964,1.0000000000
+		5.7075549199,45.1947448766,1.0000000000
+		5.7076821799,45.1947448776,1.0000000000
+		5.7076821813,45.1946548975,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
