@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff296193 
-		 #Cells :2231 
-		 #Pkts :10261 
+		 #Cells :2233 
+		 #Pkts :10265 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -45984,11 +45984,11 @@
 	<name>Cell 1654</name>
 	<description>Créée le 27-Nov-2019 07:29:41
  par Florian
- #Valeurs =76
- mean=-116.17dBm
+ #Valeurs =77
+ mean=-116.20dBm
  min=-125dBm
  max=-106dBm
- std=3.10dBm 
+ std=3.09dBm 
 
  	</description>
 	<styleUrl>#Color64</styleUrl>
@@ -51357,11 +51357,11 @@
 	<name>Cell 1853</name>
 	<description>Créée le 29-Nov-2019 21:05:47
  par Florian
- #Valeurs =26
- mean=-117.95dBm
+ #Valeurs =27
+ mean=-117.99dBm
  min=-120dBm
  max=-110dBm
- std=2.01dBm 
+ std=1.97dBm 
 
  	</description>
 	<styleUrl>#Color64</styleUrl>
@@ -61581,6 +61581,60 @@
 		5.7027202940,45.1825074134,1.0000000000
 		5.7029747595,45.1825074262,1.0000000000
 		5.7029747771,45.1823274654,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2232</name>
+	<description>Créée le 06-Dec-2019 06:46:00
+ par Florian
+ #Valeurs =1
+ mean=-117.00dBm
+ min=-117dBm
+ max=-117dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color4-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7561676320,45.1940151227,1.0000000000
+		5.7561677820,45.1941950831,1.0000000000
+		5.7564222995,45.1941949767,1.0000000000
+		5.7564221487,45.1940150164,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2233</name>
+	<description>Créée le 06-Dec-2019 06:47:48
+ par Florian
+ #Valeurs =1
+ mean=-119.00dBm
+ min=-119dBm
+ max=-119dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color4-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7561674820,45.1938351624,1.0000000000
+		5.7561676320,45.1940151227,1.0000000000
+		5.7564221487,45.1940150164,1.0000000000
+		5.7564219979,45.1938350561,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
