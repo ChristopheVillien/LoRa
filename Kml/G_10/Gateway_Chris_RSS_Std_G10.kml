@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff296193 
-		 #Cells :3790 
-		 #Pkts :11162 
+		 #Cells :3791 
+		 #Pkts :11163 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -103674,6 +103674,33 @@
 		5.7299502211,45.1881743235,1.0000000000
 		5.7300774665,45.1881742996,1.0000000000
 		5.7300774326,45.1880843193,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 3791</name>
+	<description>Créée le 07-Dec-2019 22:25:19
+ par Florian
+ #Valeurs =1
+ mean=-115.00dBm
+ min=-115dBm
+ max=-115dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7555305265,45.1930256043,1.0000000000
+		5.7555306005,45.1931155844,1.0000000000
+		5.7556578568,45.1931155320,1.0000000000
+		5.7556577826,45.1930255519,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
