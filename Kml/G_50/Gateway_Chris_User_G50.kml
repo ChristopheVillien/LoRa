@@ -166,8 +166,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff296193 
-		 #Cells :1216 
-		 #Pkts :11160 
+		 #Cells :1217 
+		 #Pkts :11161 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -33016,6 +33016,33 @@
 		5.7187512983,45.1807075021,1.0000000000
 		5.7193874420,45.1807074437,1.0000000000
 		5.7193873568,45.1802575417,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 1217</name>
+	<description>Créée le 07-Dec-2019 19:06:12
+ par Benoit
+ #Valeurs =1
+ mean=-118.00dBm
+ min=-118dBm
+ max=-118dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color4-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7295683858,45.1879044534,1.0000000000
+		5.7295685513,45.1883543548,1.0000000000
+		5.7302047800,45.1883542361,1.0000000000
+		5.7302046096,45.1879043347,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
