@@ -166,8 +166,8 @@
 	<description> 
 		 Installed :01-Dec-2019 00:00:00 
 		 EUI :c0ee40ffff296937 
-		 #Cells :82 
-		 #Pkts :207 
+		 #Cells :84 
+		 #Pkts :218 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -301,11 +301,11 @@
 	<name>Cell 5</name>
 	<description>Créée le 04-Dec-2019 08:34:58
  par Benoit
- #Valeurs =10
- mean=-75.90dBm
+ #Valeurs =14
+ mean=-32.85dBm
  min=-108dBm
- max=-69dBm
- std=13.04dBm 
+ max=-26dBm
+ std=29.41dBm 
 
  	</description>
 	<styleUrl>#Color4</styleUrl>
@@ -1003,11 +1003,11 @@
 	<name>Cell 31</name>
 	<description>Créée le 05-Dec-2019 08:28:20
  par Benoit
- #Valeurs =9
- mean=-83.98dBm
+ #Valeurs =10
+ mean=-35.00dBm
  min=-101dBm
- max=-78dBm
- std=7.76dBm 
+ max=-25dBm
+ std=21.39dBm 
 
  	</description>
 	<styleUrl>#Color4</styleUrl>
@@ -1030,11 +1030,11 @@
 	<name>Cell 32</name>
 	<description>Créée le 05-Dec-2019 08:28:32
  par Benoit
- #Valeurs =2
- mean=-82.80dBm
+ #Valeurs =5
+ mean=-29.19dBm
  min=-93dBm
- max=-80dBm
- std=9.19dBm 
+ max=-26dBm
+ std=32.77dBm 
 
  	</description>
 	<styleUrl>#Color4</styleUrl>
@@ -2398,6 +2398,60 @@
 		5.7268947448,45.1832259367,1.0000000000
 		5.7271492135,45.1832258956,1.0000000000
 		5.7271491549,45.1830459349,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 83</name>
+	<description>Créée le 07-Dec-2019 18:26:55
+ par Benoit
+ #Valeurs =2
+ mean=-27.25dBm
+ min=-29dBm
+ max=-26dBm
+ std=2.12dBm 
+
+ 	</description>
+	<styleUrl>#Color4-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7268948026,45.1834058974,1.0000000000
+		5.7268948603,45.1835858581,1.0000000000
+		5.7271493306,45.1835858170,1.0000000000
+		5.7271492720,45.1834058563,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 84</name>
+	<description>Créée le 07-Dec-2019 18:28:53
+ par Benoit
+ #Valeurs =1
+ mean=-30.00dBm
+ min=-30dBm
+ max=-30dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color4-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7266402762,45.1832259773,1.0000000000
+		5.7266403331,45.1834059380,1.0000000000
+		5.7268948026,45.1834058974,1.0000000000
+		5.7268947448,45.1832259367,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
