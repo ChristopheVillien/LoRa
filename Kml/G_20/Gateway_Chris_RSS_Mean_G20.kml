@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff296193 
-		 #Cells :2483 
-		 #Pkts :11092 
+		 #Cells :2486 
+		 #Pkts :11095 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -64567,7 +64567,7 @@
  std=3.03dBm 
 
  	</description>
-	<styleUrl>#Color10-highlight</styleUrl>
+	<styleUrl>#Color10</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -68385,6 +68385,87 @@
 		5.7251129951,45.1816065619,1.0000000000
 		5.7253674566,45.1816065248,1.0000000000
 		5.7253674036,45.1814265640,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2484</name>
+	<description>Créée le 07-Dec-2019 12:57:55
+ par Nico
+ #Valeurs =1
+ mean=-119.00dBm
+ min=-119dBm
+ max=-119dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color6-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7192619646,45.1900654096,1.0000000000
+		5.7192619983,45.1902453701,1.0000000000
+		5.7195164983,45.1902453460,1.0000000000
+		5.7195164638,45.1900653855,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2485</name>
+	<description>Créée le 07-Dec-2019 12:58:18
+ par Nico
+ #Valeurs =1
+ mean=-119.00dBm
+ min=-119dBm
+ max=-119dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color6-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7192619310,45.1898854490,1.0000000000
+		5.7192619646,45.1900654096,1.0000000000
+		5.7195164638,45.1900653855,1.0000000000
+		5.7195164293,45.1898854249,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2486</name>
+	<description>Créée le 07-Dec-2019 12:59:29
+ par Nico
+ #Valeurs =1
+ mean=-119.00dBm
+ min=-119dBm
+ max=-119dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color6-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7195161879,45.1886257012,1.0000000000
+		5.7195162224,45.1888056618,1.0000000000
+		5.7197707159,45.1888056371,1.0000000000
+		5.7197706806,45.1886256765,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
