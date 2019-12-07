@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff294218 
-		 #Cells :6316 
-		 #Pkts :48833 
+		 #Cells :6317 
+		 #Pkts :48841 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -102333,14 +102333,14 @@
 	<name>Cell 3741</name>
 	<description>Créée le 22-Nov-2019 08:36:39
  par Benoit
- #Valeurs =3
- mean=-114.57dBm
+ #Valeurs =7
+ mean=-116.77dBm
  min=-120dBm
  max=-112dBm
- std=4.04dBm 
+ std=3.21dBm 
 
  	</description>
-	<styleUrl>#Color10</styleUrl>
+	<styleUrl>#Color23</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -153120,14 +153120,14 @@
 	<name>Cell 5622</name>
 	<description>Créée le 04-Dec-2019 09:08:41
  par Benoit
- #Valeurs =2
- mean=-120.47dBm
+ #Valeurs =5
+ mean=-120.03dBm
  min=-121dBm
- max=-120dBm
- std=0.71dBm 
+ max=-118dBm
+ std=1.30dBm 
 
  	</description>
-	<styleUrl>#Color7</styleUrl>
+	<styleUrl>#Color17</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -163630,7 +163630,7 @@
  std=1.88dBm 
 
  	</description>
-	<styleUrl>#Color64-highlight</styleUrl>
+	<styleUrl>#Color64</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -171876,6 +171876,33 @@
 		5.7210432229,45.1889854658,1.0000000000
 		5.7212977172,45.1889854377,1.0000000000
 		5.7212976771,45.1888054772,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 6317</name>
+	<description>Créée le 07-Dec-2019 13:08:58
+ par Nico
+ #Valeurs =1
+ mean=-119.00dBm
+ min=-119dBm
+ max=-119dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color4-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7210432229,45.1889854658,1.0000000000
+		5.7210432622,45.1891654263,1.0000000000
+		5.7212977573,45.1891653983,1.0000000000
+		5.7212977172,45.1889854377,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
