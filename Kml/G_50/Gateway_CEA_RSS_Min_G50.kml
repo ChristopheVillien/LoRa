@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff294218 
-		 #Cells :3161 
-		 #Pkts :48998 
+		 #Cells :3162 
+		 #Pkts :49003 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -86691,6 +86691,33 @@
 		5.7562871457,45.1847471055,1.0000000000
 		5.7569233340,45.1847468379,1.0000000000
 		5.7569229531,45.1842969364,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 3162</name>
+	<description>Créée le 07-Dec-2019 16:47:40
+ par Nico
+ #Valeurs =5
+ mean=-119.28dBm
+ min=-121dBm
+ max=-118dBm
+ std=1.14dBm 
+
+ 	</description>
+	<styleUrl>#Color6-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7562863940,45.1838473023,1.0000000000
+		5.7562867698,45.1842972039,1.0000000000
+		5.7569229531,45.1842969364,1.0000000000
+		5.7569225722,45.1838470348,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
