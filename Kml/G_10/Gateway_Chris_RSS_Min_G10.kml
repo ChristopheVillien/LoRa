@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff296193 
-		 #Cells :3791 
-		 #Pkts :11166 
+		 #Cells :3792 
+		 #Pkts :11167 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -103701,6 +103701,33 @@
 		5.7555306005,45.1931155844,1.0000000000
 		5.7556578568,45.1931155320,1.0000000000
 		5.7556577826,45.1930255519,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 3792</name>
+	<description>Créée le 08-Dec-2019 00:09:49
+ par Florian
+ #Valeurs =1
+ mean=-118.00dBm
+ min=-118dBm
+ max=-118dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color10-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7547665530,45.1924860345,1.0000000000
+		5.7547666258,45.1925760147,1.0000000000
+		5.7548938809,45.1925759632,1.0000000000
+		5.7548938079,45.1924859830,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
