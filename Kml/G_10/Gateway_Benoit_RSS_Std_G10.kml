@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Dec-2019 00:00:00 
 		 EUI :c0ee40ffff296937 
-		 #Cells :155 
-		 #Pkts :307 
+		 #Cells :159 
+		 #Pkts :320 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -4998,11 +4998,11 @@
 	<name>Cell 136</name>
 	<description>Créée le 07-Dec-2019 18:40:55
  par Benoit
- #Valeurs =9
- mean=-102.12dBm
+ #Valeurs =10
+ mean=-102.34dBm
  min=-118dBm
  max=-97dBm
- std=6.24dBm 
+ std=5.89dBm 
 
  	</description>
 	<styleUrl>#Color8-highlight</styleUrl>
@@ -5403,14 +5403,14 @@
 	<name>Cell 151</name>
 	<description>Créée le 07-Dec-2019 18:46:22
  par Benoit
- #Valeurs =3
- mean=-99.50dBm
- min=-112dBm
+ #Valeurs =7
+ mean=-102.65dBm
+ min=-114dBm
  max=-96dBm
- std=8.19dBm 
+ std=6.83dBm 
 
  	</description>
-	<styleUrl>#Color11-highlight</styleUrl>
+	<styleUrl>#Color9-highlight</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -5484,14 +5484,14 @@
 	<name>Cell 154</name>
 	<description>Créée le 07-Dec-2019 18:48:56
  par Benoit
- #Valeurs =3
- mean=-104.02dBm
+ #Valeurs =5
+ mean=-99.72dBm
  min=-108dBm
- max=-102dBm
- std=3.06dBm 
+ max=-94dBm
+ std=5.76dBm 
 
  	</description>
-	<styleUrl>#Color4-highlight</styleUrl>
+	<styleUrl>#Color8-highlight</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -5511,6 +5511,60 @@
 	<name>Cell 155</name>
 	<description>Créée le 07-Dec-2019 18:49:32
  par Benoit
+ #Valeurs =2
+ mean=-101.89dBm
+ min=-103dBm
+ max=-101dBm
+ std=1.41dBm 
+
+ 	</description>
+	<styleUrl>#Color2-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7270217757,45.1825960537,1.0000000000
+		5.7270218047,45.1826860341,1.0000000000
+		5.7271490379,45.1826860135,1.0000000000
+		5.7271490086,45.1825960331,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 156</name>
+	<description>Créée le 07-Dec-2019 18:50:32
+ par Benoit
+ #Valeurs =1
+ mean=-106.00dBm
+ min=-106dBm
+ max=-106dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7270217466,45.1825060733,1.0000000000
+		5.7270217757,45.1825960537,1.0000000000
+		5.7271490086,45.1825960331,1.0000000000
+		5.7271489793,45.1825060527,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 157</name>
+	<description>Créée le 07-Dec-2019 18:52:21
+ par Benoit
  #Valeurs =1
  mean=-103.00dBm
  min=-103dBm
@@ -5525,10 +5579,64 @@
 		<outerBoundaryIs>
 			<LinearRing>
 			<coordinates>
-		5.7270217757,45.1825960537,1.0000000000
-		5.7270218047,45.1826860341,1.0000000000
 		5.7271490379,45.1826860135,1.0000000000
-		5.7271490086,45.1825960331,1.0000000000
+		5.7271490671,45.1827759938,1.0000000000
+		5.7272763005,45.1827759730,1.0000000000
+		5.7272762710,45.1826859927,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 158</name>
+	<description>Créée le 07-Dec-2019 18:52:33
+ par Benoit
+ #Valeurs =2
+ mean=-109.25dBm
+ min=-111dBm
+ max=-108dBm
+ std=2.12dBm 
+
+ 	</description>
+	<styleUrl>#Color3-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7272763594,45.1829559338,1.0000000000
+		5.7272763889,45.1830459141,1.0000000000
+		5.7274036228,45.1830458932,1.0000000000
+		5.7274035931,45.1829559129,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 159</name>
+	<description>Créée le 07-Dec-2019 18:52:58
+ par Benoit
+ #Valeurs =1
+ mean=-110.00dBm
+ min=-110dBm
+ max=-110dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7274036525,45.1831358736,1.0000000000
+		5.7274036821,45.1832258539,1.0000000000
+		5.7275309165,45.1832258329,1.0000000000
+		5.7275308866,45.1831358525,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
