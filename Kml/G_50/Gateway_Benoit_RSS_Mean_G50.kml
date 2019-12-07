@@ -1327,7 +1327,7 @@
 		 Installed :01-Dec-2019 00:00:00 
 		 EUI :c0ee40ffff296937 
 		 #Cells :55 
-		 #Pkts :272 
+		 #Pkts :286 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -1461,14 +1461,14 @@
 	<name>Cell 5</name>
 	<description>Créée le 04-Dec-2019 08:37:59
  par Benoit
- #Valeurs =1
- mean=-88.00dBm
- min=-88dBm
+ #Valeurs =2
+ mean=-90.74dBm
+ min=-100dBm
  max=-88dBm
- std=0.00dBm 
+ std=8.49dBm 
 
  	</description>
-	<styleUrl>#Color32</styleUrl>
+	<styleUrl>#Color30</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -1677,11 +1677,11 @@
 	<name>Cell 13</name>
 	<description>Créée le 06-Dec-2019 17:29:54
  par Simon
- #Valeurs =13
- mean=-104.14dBm
- min=-114dBm
+ #Valeurs =19
+ mean=-104.16dBm
+ min=-119dBm
  max=-99dBm
- std=4.93dBm 
+ std=5.42dBm 
 
  	</description>
 	<styleUrl>#Color18</styleUrl>
@@ -2757,14 +2757,14 @@
 	<name>Cell 53</name>
 	<description>Créée le 07-Dec-2019 18:38:41
  par Benoit
- #Valeurs =6
- mean=-104.85dBm
+ #Valeurs =10
+ mean=-103.55dBm
  min=-113dBm
- max=-101dBm
- std=4.79dBm 
+ max=-99dBm
+ std=4.58dBm 
 
  	</description>
-	<styleUrl>#Color18-highlight</styleUrl>
+	<styleUrl>#Color19-highlight</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -2784,11 +2784,11 @@
 	<name>Cell 54</name>
 	<description>Créée le 07-Dec-2019 18:39:11
  par Benoit
- #Valeurs =5
- mean=-106.40dBm
+ #Valeurs =8
+ mean=-106.91dBm
  min=-119dBm
  max=-102dBm
- std=6.66dBm 
+ std=5.11dBm 
 
  	</description>
 	<styleUrl>#Color16-highlight</styleUrl>

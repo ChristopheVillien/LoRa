@@ -1327,7 +1327,7 @@
 		 Installed :04-Dec-2019 17:00:00 
 		 EUI :c0ee40ffff296bbe 
 		 #Cells :64 
-		 #Pkts :108 
+		 #Pkts :112 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -1596,11 +1596,11 @@
 	<name>Cell 10</name>
 	<description>Créée le 06-Dec-2019 17:29:54
  par Simon
- #Valeurs =8
- mean=-112.76dBm
+ #Valeurs =10
+ mean=-112.55dBm
  min=-119dBm
  max=-107dBm
- std=4.78dBm 
+ std=4.56dBm 
 
  	</description>
 	<styleUrl>#Color11</styleUrl>
@@ -3000,14 +3000,14 @@
 	<name>Cell 62</name>
 	<description>Créée le 07-Dec-2019 18:39:11
  par Benoit
- #Valeurs =1
- mean=-117.00dBm
+ #Valeurs =3
+ mean=-114.00dBm
  min=-117dBm
- max=-117dBm
- std=0.00dBm 
+ max=-111dBm
+ std=3.46dBm 
 
  	</description>
-	<styleUrl>#Color5-highlight</styleUrl>
+	<styleUrl>#Color9-highlight</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
