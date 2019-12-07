@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff294218 
-		 #Cells :3165 
-		 #Pkts :49059 
+		 #Cells :3166 
+		 #Pkts :49071 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -4512,11 +4512,11 @@
 	<name>Cell 118</name>
 	<description>Créée le 09-Nov-2019 11:44:03
  par Chris
- #Valeurs =16
- mean=-117.48dBm
+ #Valeurs =17
+ mean=-117.56dBm
  min=-123dBm
  max=-110dBm
- std=2.90dBm 
+ std=2.81dBm 
 
  	</description>
 	<styleUrl>#Color3</styleUrl>
@@ -10695,11 +10695,11 @@
 	<name>Cell 347</name>
 	<description>Créée le 10-Nov-2019 19:29:15
  par Chris
- #Valeurs =13
- mean=-110.20dBm
+ #Valeurs =14
+ mean=-110.38dBm
  min=-118dBm
  max=-105dBm
- std=4.48dBm 
+ std=4.33dBm 
 
  	</description>
 	<styleUrl>#Color10</styleUrl>
@@ -10722,11 +10722,11 @@
 	<name>Cell 348</name>
 	<description>Créée le 10-Nov-2019 19:29:28
  par Chris
- #Valeurs =17
- mean=-111.53dBm
+ #Valeurs =20
+ mean=-111.31dBm
  min=-120dBm
  max=-104dBm
- std=4.31dBm 
+ std=4.32dBm 
 
  	</description>
 	<styleUrl>#Color8</styleUrl>
@@ -12585,11 +12585,11 @@
 	<name>Cell 417</name>
 	<description>Créée le 12-Nov-2019 20:58:39
  par Chris
- #Valeurs =9
- mean=-112.44dBm
+ #Valeurs =10
+ mean=-112.12dBm
  min=-118dBm
  max=-108dBm
- std=3.05dBm 
+ std=3.07dBm 
 
  	</description>
 	<styleUrl>#Color10</styleUrl>
@@ -12612,11 +12612,11 @@
 	<name>Cell 418</name>
 	<description>Créée le 12-Nov-2019 20:59:02
  par Chris
- #Valeurs =7
- mean=-112.05dBm
+ #Valeurs =9
+ mean=-111.57dBm
  min=-117dBm
- max=-109dBm
- std=2.69dBm 
+ max=-108dBm
+ std=2.96dBm 
 
  	</description>
 	<styleUrl>#Color12</styleUrl>
@@ -54759,14 +54759,14 @@
 	<name>Cell 1979</name>
 	<description>Créée le 19-Nov-2019 23:18:15
  par Benoit
- #Valeurs =10
- mean=-117.27dBm
- min=-120dBm
+ #Valeurs =12
+ mean=-117.66dBm
+ min=-121dBm
  max=-114dBm
- std=1.95dBm 
+ std=2.08dBm 
 
  	</description>
-	<styleUrl>#Color8</styleUrl>
+	<styleUrl>#Color6</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -86799,6 +86799,33 @@
 		5.7556509574,45.1847473695,1.0000000000
 		5.7562871457,45.1847471055,1.0000000000
 		5.7562867698,45.1842972039,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 3166</name>
+	<description>Créée le 07-Dec-2019 18:33:52
+ par Benoit
+ #Valeurs =2
+ mean=-119.47dBm
+ min=-120dBm
+ max=-119dBm
+ std=0.71dBm 
+
+ 	</description>
+	<styleUrl>#Color8-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7251133860,45.1829562675,1.0000000000
+		5.7251135163,45.1834061693,1.0000000000
+		5.7257496900,45.1834060754,1.0000000000
+		5.7257495547,45.1829561736,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
