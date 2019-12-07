@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff294218 
-		 #Cells :3149 
-		 #Pkts :48967 
+		 #Cells :3150 
+		 #Pkts :48971 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -86367,6 +86367,33 @@
 		5.7448457558,45.2004978499,1.0000000000
 		5.7454821197,45.2004976460,1.0000000000
 		5.7454818289,45.2000477456,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 3150</name>
+	<description>Créée le 07-Dec-2019 15:23:06
+ par Nico
+ #Valeurs =4
+ mean=-119.94dBm
+ min=-121dBm
+ max=-119dBm
+ std=0.82dBm 
+
+ 	</description>
+	<styleUrl>#Color13-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7492986987,45.1982468461,1.0000000000
+		5.7492990196,45.1986967466,1.0000000000
+		5.7499353634,45.1986965180,1.0000000000
+		5.7499350375,45.1982466175,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
