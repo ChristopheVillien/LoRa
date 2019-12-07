@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff294218 
-		 #Cells :3145 
-		 #Pkts :48925 
+		 #Cells :3146 
+		 #Pkts :48931 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -56352,14 +56352,14 @@
 	<name>Cell 2038</name>
 	<description>Créée le 26-Nov-2019 08:32:56
  par Benoit
- #Valeurs =5
- mean=-118.44dBm
- min=-120dBm
+ #Valeurs =9
+ mean=-119.21dBm
+ min=-121dBm
  max=-117dBm
- std=1.34dBm 
+ std=1.51dBm 
 
  	</description>
-	<styleUrl>#Color8</styleUrl>
+	<styleUrl>#Color6</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -86259,6 +86259,33 @@
 		5.7212978776,45.1897052798,1.0000000000
 		5.7219341215,45.1897052072,1.0000000000
 		5.7219340162,45.1892553059,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 3146</name>
+	<description>Créée le 07-Dec-2019 14:32:12
+ par Nico
+ #Valeurs =2
+ mean=-117.04dBm
+ min=-121dBm
+ max=-115dBm
+ std=4.24dBm 
+
+ 	</description>
+	<styleUrl>#Color6-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7270242176,45.1901543996,1.0000000000
+		5.7270243630,45.1906043008,1.0000000000
+		5.7276606168,45.1906041962,1.0000000000
+		5.7276604664,45.1901542950,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
