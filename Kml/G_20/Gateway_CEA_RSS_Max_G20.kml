@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff294218 
-		 #Cells :6348 
-		 #Pkts :48987 
+		 #Cells :6349 
+		 #Pkts :48988 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -172740,6 +172740,33 @@
 		5.7492983778,45.1977969456,1.0000000000
 		5.7495529113,45.1977968546,1.0000000000
 		5.7495527821,45.1976168943,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 6349</name>
+	<description>Créée le 07-Dec-2019 16:37:59
+ par Nico
+ #Valeurs =1
+ mean=-119.00dBm
+ min=-119dBm
+ max=-119dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color4-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7806087107,45.1999410121,1.0000000000
+		5.7806089378,45.2001209722,1.0000000000
+		5.7808634814,45.2001208114,1.0000000000
+		5.7808632536,45.1999408513,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
