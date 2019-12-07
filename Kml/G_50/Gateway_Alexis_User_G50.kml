@@ -166,8 +166,8 @@
 	<description> 
 		 Installed :04-Dec-2019 17:00:00 
 		 EUI :c0ee40ffff296bbe 
-		 #Cells :65 
-		 #Pkts :123 
+		 #Cells :66 
+		 #Pkts :125 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -1939,6 +1939,33 @@
 		5.7263857233,45.1829560762,1.0000000000
 		5.7270218919,45.1829559752,1.0000000000
 		5.7270217466,45.1825060733,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 66</name>
+	<description>Créée le 07-Dec-2019 18:55:46
+ par Chris
+ #Valeurs =2
+ mean=-117.89dBm
+ min=-119dBm
+ max=-117dBm
+ std=1.41dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7499340597,45.1968969158,1.0000000000
+		5.7499343857,45.1973468164,1.0000000000
+		5.7505707144,45.1973465842,1.0000000000
+		5.7505703835,45.1968966836,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
