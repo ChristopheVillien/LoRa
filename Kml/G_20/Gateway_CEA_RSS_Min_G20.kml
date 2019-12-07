@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff294218 
-		 #Cells :6322 
-		 #Pkts :48856 
+		 #Cells :6323 
+		 #Pkts :48857 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -172038,6 +172038,33 @@
 		5.6721594276,45.2217330648,1.0000000000
 		5.6724140679,45.2217331457,1.0000000000
 		5.6724141820,45.2215531863,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 6323</name>
+	<description>Créée le 07-Dec-2019 14:00:53
+ par Nico
+ #Valeurs =1
+ mean=-121.00dBm
+ min=-121dBm
+ max=-121dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color6-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7215522934,45.1893453302,1.0000000000
+		5.7215523343,45.1895252907,1.0000000000
+		5.7218068310,45.1895252615,1.0000000000
+		5.7218067893,45.1893453009,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
