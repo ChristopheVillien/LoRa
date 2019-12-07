@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff294218 
-		 #Cells :6377 
-		 #Pkts :49087 
+		 #Cells :6383 
+		 #Pkts :49097 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -99120,11 +99120,11 @@
 	<name>Cell 3622</name>
 	<description>Créée le 19-Nov-2019 23:24:29
  par Benoit
- #Valeurs =3
- mean=-119.23dBm
+ #Valeurs =4
+ mean=-119.61dBm
  min=-121dBm
  max=-117dBm
- std=2.31dBm 
+ std=2.00dBm 
 
  	</description>
 	<styleUrl>#Color3</styleUrl>
@@ -156198,11 +156198,11 @@
 	<name>Cell 5736</name>
 	<description>Créée le 06-Dec-2019 08:32:11
  par Benoit
- #Valeurs =1
- mean=-120.00dBm
+ #Valeurs =2
+ mean=-119.47dBm
  min=-120dBm
- max=-120dBm
- std=0.00dBm 
+ max=-119dBm
+ std=0.71dBm 
 
  	</description>
 	<styleUrl>#Color1</styleUrl>
@@ -173523,6 +173523,168 @@
 		5.7574332855,45.1859163652,1.0000000000
 		5.7576877660,45.1859162560,1.0000000000
 		5.7576876112,45.1857362954,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 6378</name>
+	<description>Créée le 07-Dec-2019 18:40:55
+ par Benoit
+ #Valeurs =3
+ mean=-118.92dBm
+ min=-120dBm
+ max=-118dBm
+ std=1.00dBm 
+
+ 	</description>
+	<styleUrl>#Color2-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7271489208,45.1823260920,1.0000000000
+		5.7271489793,45.1825060527,1.0000000000
+		5.7274034448,45.1825060110,1.0000000000
+		5.7274033855,45.1823260503,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 6379</name>
+	<description>Créée le 07-Dec-2019 18:41:44
+ par Benoit
+ #Valeurs =1
+ mean=-121.00dBm
+ min=-121dBm
+ max=-121dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7279127413,45.1835856903,1.0000000000
+		5.7279128023,45.1837656510,1.0000000000
+		5.7281672733,45.1837656076,1.0000000000
+		5.7281672116,45.1835856469,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 6380</name>
+	<description>Créée le 07-Dec-2019 18:40:20
+ par Nico
+ #Valeurs =1
+ mean=-120.00dBm
+ min=-120dBm
+ max=-120dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7602325712,45.1859151333,1.0000000000
+		5.7602327340,45.1860950939,1.0000000000
+		5.7604872153,45.1860949785,1.0000000000
+		5.7604870517,45.1859150179,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 6381</name>
+	<description>Créée le 07-Dec-2019 18:40:32
+ par Nico
+ #Valeurs =1
+ mean=-120.00dBm
+ min=-120dBm
+ max=-120dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7607413678,45.1857349414,1.0000000000
+		5.7607415322,45.1859149020,1.0000000000
+		5.7609960127,45.1859147855,1.0000000000
+		5.7609958475,45.1857348249,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 6382</name>
+	<description>Créée le 07-Dec-2019 18:41:18
+ par Nico
+ #Valeurs =1
+ mean=-121.00dBm
+ min=-121dBm
+ max=-121dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7648121566,45.1848332062,1.0000000000
+		5.7648123339,45.1850131667,1.0000000000
+		5.7650668103,45.1850130411,1.0000000000
+		5.7650666323,45.1848330806,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 6383</name>
+	<description>Créée le 07-Dec-2019 18:41:53
+ par Nico
+ #Valeurs =1
+ mean=-123.00dBm
+ min=-123dBm
+ max=-123dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7681197771,45.1842916475,1.0000000000
+		5.7681199647,45.1844716081,1.0000000000
+		5.7683744388,45.1844714751,1.0000000000
+		5.7683742503,45.1842915145,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
