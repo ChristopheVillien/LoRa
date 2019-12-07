@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff294218 
-		 #Cells :3166 
-		 #Pkts :49071 
+		 #Cells :3169 
+		 #Pkts :49080 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -86700,11 +86700,11 @@
 	<name>Cell 3162</name>
 	<description>Créée le 07-Dec-2019 16:47:40
  par Nico
- #Valeurs =11
- mean=-119.49dBm
+ #Valeurs =17
+ mean=-119.41dBm
  min=-121dBm
- max=-118dBm
- std=1.21dBm 
+ max=-117dBm
+ std=1.28dBm 
 
  	</description>
 	<styleUrl>#Color5-highlight</styleUrl>
@@ -86826,6 +86826,87 @@
 		5.7251135163,45.1834061693,1.0000000000
 		5.7257496900,45.1834060754,1.0000000000
 		5.7257495547,45.1829561736,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 3167</name>
+	<description>Créée le 07-Dec-2019 18:35:29
+ par Chris
+ #Valeurs =1
+ mean=-118.00dBm
+ min=-118dBm
+ max=-118dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color5-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7244765909,45.1807068484,1.0000000000
+		5.7244767162,45.1811567504,1.0000000000
+		5.7251128648,45.1811566600,1.0000000000
+		5.7251127345,45.1807067580,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 3168</name>
+	<description>Créée le 07-Dec-2019 18:36:06
+ par Chris
+ #Valeurs =1
+ mean=-120.00dBm
+ min=-120dBm
+ max=-120dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color4-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7289302375,45.1825057491,1.0000000000
+		5.7289303979,45.1829556509,1.0000000000
+		5.7295665665,45.1829555358,1.0000000000
+		5.7295664011,45.1825056340,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 3169</name>
+	<description>Créée le 07-Dec-2019 18:36:18
+ par Chris
+ #Valeurs =1
+ mean=-119.00dBm
+ min=-119dBm
+ max=-119dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color4-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7302027351,45.1829554171,1.0000000000
+		5.7302029055,45.1834053188,1.0000000000
+		5.7308390791,45.1834051966,1.0000000000
+		5.7308389037,45.1829552948,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
