@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff294218 
-		 #Cells :6431 
-		 #Pkts :50203 
+		 #Cells :6432 
+		 #Pkts :50211 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -174981,6 +174981,33 @@
 		5.7564218471,45.1936550957,1.0000000000
 		5.7566763621,45.1936549888,1.0000000000
 		5.7566762105,45.1934750285,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 6432</name>
+	<description>Créée le 08-Dec-2019 10:10:49
+ par Simon
+ #Valeurs =8
+ mean=-111.65dBm
+ min=-120dBm
+ max=-106dBm
+ std=4.87dBm 
+
+ 	</description>
+	<styleUrl>#Color12-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7111176628,45.1826874958,1.0000000000
+		5.7111176708,45.1828674565,1.0000000000
+		5.7113721379,45.1828674505,1.0000000000
+		5.7113721291,45.1826874898,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
