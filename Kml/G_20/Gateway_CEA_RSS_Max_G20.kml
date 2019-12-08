@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff294218 
-		 #Cells :6430 
-		 #Pkts :50107 
+		 #Cells :6431 
+		 #Pkts :50117 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -69987,11 +69987,11 @@
 	<name>Cell 2543</name>
 	<description>Créée le 13-Nov-2019 19:52:42
  par Florian
- #Valeurs =211
- mean=-117.65dBm
+ #Valeurs =212
+ mean=-117.66dBm
  min=-123dBm
  max=-103dBm
- std=2.56dBm 
+ std=2.55dBm 
 
  	</description>
 	<styleUrl>#Color14</styleUrl>
@@ -70149,14 +70149,14 @@
 	<name>Cell 2549</name>
 	<description>Créée le 13-Nov-2019 20:46:54
  par Florian
- #Valeurs =2
- mean=-121.00dBm
+ #Valeurs =4
+ mean=-120.47dBm
  min=-121dBm
- max=-121dBm
- std=0.00dBm 
+ max=-120dBm
+ std=0.58dBm 
 
  	</description>
-	<styleUrl>#Color3</styleUrl>
+	<styleUrl>#Color4</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -70257,11 +70257,11 @@
 	<name>Cell 2553</name>
 	<description>Créée le 13-Nov-2019 21:22:37
  par Florian
- #Valeurs =70
- mean=-116.02dBm
+ #Valeurs =72
+ mean=-116.06dBm
  min=-123dBm
  max=-102dBm
- std=3.17dBm 
+ std=3.13dBm 
 
  	</description>
 	<styleUrl>#Color15</styleUrl>
@@ -122988,11 +122988,11 @@
 	<name>Cell 4506</name>
 	<description>Créée le 25-Nov-2019 19:56:16
  par Florian
- #Valeurs =18
- mean=-114.92dBm
+ #Valeurs =19
+ mean=-115.06dBm
  min=-121dBm
  max=-107dBm
- std=4.02dBm 
+ std=3.92dBm 
 
  	</description>
 	<styleUrl>#Color11</styleUrl>
@@ -125607,11 +125607,11 @@
 	<name>Cell 4603</name>
 	<description>Créée le 27-Nov-2019 03:26:39
  par Florian
- #Valeurs =10
- mean=-115.11dBm
+ #Valeurs =12
+ mean=-115.55dBm
  min=-123dBm
  max=-107dBm
- std=4.26dBm 
+ std=3.89dBm 
 
  	</description>
 	<styleUrl>#Color11</styleUrl>
@@ -174954,6 +174954,33 @@
 		5.7561665820,45.1927554003,1.0000000000
 		5.7564210930,45.1927552940,1.0000000000
 		5.7564209422,45.1925753336,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 6431</name>
+	<description>Créée le 08-Dec-2019 01:08:55
+ par Florian
+ #Valeurs =2
+ mean=-120.47dBm
+ min=-121dBm
+ max=-120dBm
+ std=0.71dBm 
+
+ 	</description>
+	<styleUrl>#Color4-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7564216962,45.1934751354,1.0000000000
+		5.7564218471,45.1936550957,1.0000000000
+		5.7566763621,45.1936549888,1.0000000000
+		5.7566762105,45.1934750285,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
