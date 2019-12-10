@@ -166,8 +166,8 @@
 	<description> 
 		 Installed :04-Dec-2019 17:00:00 
 		 EUI :c0ee40ffff296bbe 
-		 #Cells :145 
-		 #Pkts :198 
+		 #Cells :146 
+		 #Pkts :199 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -4099,6 +4099,33 @@
 		5.9024085674,45.1252952634,1.0000000000
 		5.9025356717,45.1252950476,1.0000000000
 		5.9025353664,45.1252050670,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 146</name>
+	<description>Créée le 10-Dec-2019 18:01:12
+ par Florian
+ #Valeurs =1
+ mean=-117.00dBm
+ min=-117dBm
+ max=-117dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color2-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6893732293,45.1457038683,1.0000000000
+		5.6893731990,45.1457938492,1.0000000000
+		5.6895003500,45.1457938705,1.0000000000
+		5.6895003800,45.1457038896,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>

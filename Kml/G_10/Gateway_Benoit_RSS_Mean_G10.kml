@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Dec-2019 00:00:00 
 		 EUI :c0ee40ffff296937 
-		 #Cells :214 
-		 #Pkts :429 
+		 #Cells :215 
+		 #Pkts :430 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -7122,6 +7122,33 @@
 		5.7272768309,45.1843956194,1.0000000000
 		5.7274040678,45.1843955985,1.0000000000
 		5.7274040382,45.1843056181,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 215</name>
+	<description>Créée le 10-Dec-2019 18:02:25
+ par Benoit
+ #Valeurs =1
+ mean=-115.00dBm
+ min=-115dBm
+ max=-115dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color9-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7238420110,45.1865556580,1.0000000000
+		5.7238420350,45.1866456384,1.0000000000
+		5.7239692770,45.1866456213,1.0000000000
+		5.7239692527,45.1865556410,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
