@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff296193 
-		 #Cells :2707 
-		 #Pkts :11949 
+		 #Cells :2710 
+		 #Pkts :11956 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -47982,11 +47982,11 @@
 	<name>Cell 1728</name>
 	<description>Créée le 27-Nov-2019 17:50:17
  par Florian
- #Valeurs =2
- mean=-119.47dBm
+ #Valeurs =3
+ mean=-118.48dBm
  min=-120dBm
- max=-119dBm
- std=0.71dBm 
+ max=-117dBm
+ std=1.53dBm 
 
  	</description>
 	<styleUrl>#Color8</styleUrl>
@@ -71769,11 +71769,11 @@
 	<name>Cell 2609</name>
 	<description>Créée le 09-Dec-2019 17:35:02
  par Florian
- #Valeurs =2
- mean=-113.04dBm
+ #Valeurs =3
+ mean=-110.66dBm
  min=-117dBm
- max=-111dBm
- std=4.24dBm 
+ max=-108dBm
+ std=4.58dBm 
 
  	</description>
 	<styleUrl>#Color12</styleUrl>
@@ -71796,7 +71796,7 @@
 	<name>Cell 2610</name>
 	<description>Créée le 09-Dec-2019 17:35:24
  par Florian
- #Valeurs =1
+ #Valeurs =2
  mean=-117.00dBm
  min=-117dBm
  max=-117dBm
@@ -71931,11 +71931,11 @@
 	<name>Cell 2615</name>
 	<description>Créée le 09-Dec-2019 17:38:30
  par Florian
- #Valeurs =1
- mean=-119.00dBm
+ #Valeurs =2
+ mean=-118.47dBm
  min=-119dBm
- max=-119dBm
- std=0.00dBm 
+ max=-118dBm
+ std=0.71dBm 
 
  	</description>
 	<styleUrl>#Color9</styleUrl>
@@ -71965,7 +71965,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color12-highlight</styleUrl>
+	<styleUrl>#Color12</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -71992,7 +71992,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color25-highlight</styleUrl>
+	<styleUrl>#Color25</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -72019,7 +72019,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color10-highlight</styleUrl>
+	<styleUrl>#Color10</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -74433,6 +74433,87 @@
 		5.6841336110,45.2075194376,1.0000000000
 		5.6843881880,45.2075194918,1.0000000000
 		5.6843882642,45.2073395318,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2708</name>
+	<description>Créée le 10-Dec-2019 17:41:41
+ par Chris
+ #Valeurs =1
+ mean=-119.00dBm
+ min=-119dBm
+ max=-119dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color9-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7167158440,45.1821473516,1.0000000000
+		5.7167158696,45.1823273123,1.0000000000
+		5.7169703343,45.1823272939,1.0000000000
+		5.7169703078,45.1821473332,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2709</name>
+	<description>Créée le 10-Dec-2019 17:39:21
+ par Florian
+ #Valeurs =1
+ mean=-119.00dBm
+ min=-119dBm
+ max=-119dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color9-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6864255017,45.2057203052,1.0000000000
+		5.6864254319,45.2059002652,1.0000000000
+		5.6866800016,45.2059003143,1.0000000000
+		5.6866800706,45.2057203543,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2710</name>
+	<description>Créée le 10-Dec-2019 17:41:39
+ par Florian
+ #Valeurs =1
+ mean=-117.00dBm
+ min=-117dBm
+ max=-117dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color12-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6917726673,45.2015821351,1.0000000000
+		5.6917726143,45.2017620953,1.0000000000
+		5.6920271656,45.2017621324,1.0000000000
+		5.6920272178,45.2015821723,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
