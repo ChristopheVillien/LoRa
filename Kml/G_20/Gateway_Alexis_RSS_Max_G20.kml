@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :04-Dec-2019 17:00:00 
 		 EUI :c0ee40ffff296bbe 
-		 #Cells :123 
-		 #Pkts :199 
+		 #Cells :124 
+		 #Pkts :200 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -4665,6 +4665,33 @@
 		5.6892460480,45.1457938277,1.0000000000
 		5.6895003500,45.1457938705,1.0000000000
 		5.6895004101,45.1456139087,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 124</name>
+	<description>Créée le 10-Dec-2019 18:05:20
+ par Benoit
+ #Valeurs =1
+ mean=-117.00dBm
+ min=-117dBm
+ max=-117dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color5-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7261315602,45.1839458994,1.0000000000
+		5.7261316155,45.1841258601,1.0000000000
+		5.7263860882,45.1841258207,1.0000000000
+		5.7263860320,45.1839458600,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
