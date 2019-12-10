@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff294218 
-		 #Cells :3508 
-		 #Pkts :52803 
+		 #Cells :3509 
+		 #Pkts :52804 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -89110,7 +89110,7 @@
  std=0.71dBm 
 
  	</description>
-	<styleUrl>#Color4-highlight</styleUrl>
+	<styleUrl>#Color4</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -89137,7 +89137,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color6-highlight</styleUrl>
+	<styleUrl>#Color6</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -96060,6 +96060,33 @@
 		5.8187011913,45.2197962000,1.0000000000
 		5.8193377689,45.2197955844,1.0000000000
 		5.8193368957,45.2193456864,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 3509</name>
+	<description>Créée le 10-Dec-2019 20:05:02
+ par Nico
+ #Valeurs =1
+ mean=-120.00dBm
+ min=-120dBm
+ max=-120dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color5-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.8563186125,45.2426985228,1.0000000000
+		5.8563197776,45.2431484180,1.0000000000
+		5.8569566143,45.2431475925,1.0000000000
+		5.8569554442,45.2426976972,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
