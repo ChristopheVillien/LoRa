@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff296193 
-		 #Cells :2758 
-		 #Pkts :12067 
+		 #Cells :2759 
+		 #Pkts :12077 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -2082,11 +2082,11 @@
 	<name>Cell 28</name>
 	<description>Créée le 08-Nov-2019 17:59:42
  par Chris
- #Valeurs =38
- mean=-58.03dBm
+ #Valeurs =39
+ mean=-58.14dBm
  min=-113dBm
  max=-48dBm
- std=18.07dBm 
+ std=17.98dBm 
 
  	</description>
 	<styleUrl>#Color18</styleUrl>
@@ -2136,8 +2136,8 @@
 	<name>Cell 30</name>
 	<description>Créée le 08-Nov-2019 18:00:06
  par Chris
- #Valeurs =446
- mean=-59.45dBm
+ #Valeurs =447
+ mean=-59.46dBm
  min=-97dBm
  max=-45dBm
  std=7.97dBm 
@@ -2217,11 +2217,11 @@
 	<name>Cell 33</name>
 	<description>Créée le 08-Nov-2019 18:54:11
  par Chris
- #Valeurs =2134
+ #Valeurs =2138
  mean=-58.35dBm
  min=-103dBm
  max=-44dBm
- std=8.95dBm 
+ std=8.94dBm 
 
  	</description>
 	<styleUrl>#Color32</styleUrl>
@@ -2730,14 +2730,14 @@
 	<name>Cell 52</name>
 	<description>Créée le 08-Nov-2019 19:35:46
  par Chris
- #Valeurs =5
- mean=-73.93dBm
- min=-99dBm
+ #Valeurs =6
+ mean=-74.72dBm
+ min=-119dBm
  max=-67dBm
- std=12.62dBm 
+ std=16.90dBm 
 
  	</description>
-	<styleUrl>#Color37</styleUrl>
+	<styleUrl>#Color9</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -2865,11 +2865,11 @@
 	<name>Cell 57</name>
 	<description>Créée le 09-Nov-2019 09:49:14
  par Chris
- #Valeurs =10
- mean=-113.22dBm
+ #Valeurs =11
+ mean=-113.45dBm
  min=-119dBm
  max=-109dBm
- std=3.71dBm 
+ std=3.59dBm 
 
  	</description>
 	<styleUrl>#Color9</styleUrl>
@@ -9885,14 +9885,14 @@
 	<name>Cell 317</name>
 	<description>Créée le 13-Nov-2019 00:48:05
  par Chris
- #Valeurs =4
- mean=-111.09dBm
- min=-117dBm
+ #Valeurs =5
+ mean=-111.88dBm
+ min=-119dBm
  max=-109dBm
- std=3.95dBm 
+ std=4.56dBm 
 
  	</description>
-	<styleUrl>#Color12</styleUrl>
+	<styleUrl>#Color9</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -75810,6 +75810,33 @@
 		5.7050106404,45.1799880569,1.0000000000
 		5.7052650947,45.1799880645,1.0000000000
 		5.7052651051,45.1798081037,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2759</name>
+	<description>Créée le 10-Dec-2019 19:42:50
+ par Chris
+ #Valeurs =1
+ mean=-111.00dBm
+ min=-111dBm
+ max=-111dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color20-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6971223062,45.1812472640,1.0000000000
+		5.6971222701,45.1814272248,1.0000000000
+		5.6973767307,45.1814272500,1.0000000000
+		5.6973767660,45.1812472892,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
