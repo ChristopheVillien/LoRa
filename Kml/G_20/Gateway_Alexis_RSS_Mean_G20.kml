@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :04-Dec-2019 17:00:00 
 		 EUI :c0ee40ffff296bbe 
-		 #Cells :116 
-		 #Pkts :187 
+		 #Cells :117 
+		 #Pkts :189 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -4476,6 +4476,33 @@
 		5.7436917770,45.1866412597,1.0000000000
 		5.7439462608,45.1866411812,1.0000000000
 		5.7439461493,45.1864612206,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 117</name>
+	<description>Créée le 10-Dec-2019 10:17:35
+ par Chris
+ #Valeurs =2
+ mean=-118.47dBm
+ min=-119dBm
+ max=-118dBm
+ std=0.71dBm 
+
+ 	</description>
+	<styleUrl>#Color6-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7507889871,45.1483071253,1.0000000000
+		5.7507891200,45.1484870869,1.0000000000
+		5.7510434339,45.1484869927,1.0000000000
+		5.7510433001,45.1483070310,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
