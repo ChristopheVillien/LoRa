@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff296193 
-		 #Cells :1321 
-		 #Pkts :11991 
+		 #Cells :1323 
+		 #Pkts :11997 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -2352,8 +2352,8 @@
 	<name>Cell 38</name>
 	<description>Créée le 09-Nov-2019 09:49:39
  par Chris
- #Valeurs =19
- mean=-112.29dBm
+ #Valeurs =20
+ mean=-112.44dBm
  min=-118dBm
  max=-108dBm
  std=3.34dBm 
@@ -4161,11 +4161,11 @@
 	<name>Cell 105</name>
 	<description>Créée le 10-Nov-2019 11:02:54
  par Chris
- #Valeurs =22
- mean=-112.58dBm
+ #Valeurs =23
+ mean=-112.73dBm
  min=-121dBm
  max=-106dBm
- std=3.50dBm 
+ std=3.57dBm 
 
  	</description>
 	<styleUrl>#Color5</styleUrl>
@@ -35697,14 +35697,14 @@
 	<name>Cell 1273</name>
 	<description>Créée le 09-Dec-2019 18:22:51
  par Florian
- #Valeurs =1
- mean=-121.00dBm
+ #Valeurs =3
+ mean=-118.70dBm
  min=-121dBm
- max=-121dBm
- std=0.00dBm 
+ max=-117dBm
+ std=2.00dBm 
 
  	</description>
-	<styleUrl>#Color1-highlight</styleUrl>
+	<styleUrl>#Color3-highlight</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -37011,6 +37011,60 @@
 		5.7333859238,45.1883535893,1.0000000000
 		5.7340221525,45.1883534493,1.0000000000
 		5.7340219520,45.1879035479,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 1322</name>
+	<description>Créée le 10-Dec-2019 18:12:22
+ par Florian
+ #Valeurs =1
+ mean=-118.00dBm
+ min=-118dBm
+ max=-118dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6990311460,45.1789079488,1.0000000000
+		5.6990310708,45.1793578509,1.0000000000
+		5.6996671994,45.1793579023,1.0000000000
+		5.6996672695,45.1789080002,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 1323</name>
+	<description>Créée le 10-Dec-2019 18:12:46
+ par Florian
+ #Valeurs =1
+ mean=-113.00dBm
+ min=-113dBm
+ max=-113dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6983949422,45.1793577960,1.0000000000
+		5.6983948620,45.1798076981,1.0000000000
+		5.6990309956,45.1798077530,1.0000000000
+		5.6990310708,45.1793578509,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
