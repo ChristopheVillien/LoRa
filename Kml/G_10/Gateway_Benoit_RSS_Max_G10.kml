@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Dec-2019 00:00:00 
 		 EUI :c0ee40ffff296937 
-		 #Cells :256 
-		 #Pkts :533 
+		 #Cells :257 
+		 #Pkts :548 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -1596,14 +1596,14 @@
 	<name>Cell 10</name>
 	<description>Créée le 04-Dec-2019 08:35:46
  par Benoit
- #Valeurs =2
- mean=-98.22dBm
+ #Valeurs =4
+ mean=-45.01dBm
  min=-103dBm
- max=-96dBm
- std=4.95dBm 
+ max=-42dBm
+ std=33.32dBm 
 
  	</description>
-	<styleUrl>#Color18</styleUrl>
+	<styleUrl>#Color51</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -2730,14 +2730,14 @@
 	<name>Cell 52</name>
 	<description>Créée le 05-Dec-2019 17:20:46
  par Benoit
- #Valeurs =2
- mean=-70.01dBm
+ #Valeurs =5
+ mean=-43.00dBm
  min=-114dBm
- max=-67dBm
- std=33.23dBm 
+ max=-40dBm
+ std=31.82dBm 
 
  	</description>
-	<styleUrl>#Color36</styleUrl>
+	<styleUrl>#Color52</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -2784,14 +2784,14 @@
 	<name>Cell 54</name>
 	<description>Créée le 06-Dec-2019 08:23:21
  par Benoit
- #Valeurs =4
- mean=-58.26dBm
+ #Valeurs =6
+ mean=-45.50dBm
  min=-111dBm
- max=-54dBm
- std=31.78dBm 
+ max=-40dBm
+ std=32.81dBm 
 
  	</description>
-	<styleUrl>#Color44</styleUrl>
+	<styleUrl>#Color52</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -4242,11 +4242,11 @@
 	<name>Cell 108</name>
 	<description>Créée le 07-Dec-2019 11:32:58
  par Benoit
- #Valeurs =17
- mean=-32.55dBm
+ #Valeurs =22
+ mean=-33.54dBm
  min=-89dBm
  max=-26dBm
- std=17.51dBm 
+ std=15.31dBm 
 
  	</description>
 	<styleUrl>#Color61</styleUrl>
@@ -4809,11 +4809,11 @@
 	<name>Cell 129</name>
 	<description>Créée le 07-Dec-2019 18:33:52
  par Benoit
- #Valeurs =12
- mean=-32.60dBm
+ #Valeurs =13
+ mean=-32.90dBm
  min=-55dBm
  max=-26dBm
- std=7.89dBm 
+ std=7.66dBm 
 
  	</description>
 	<styleUrl>#Color61</styleUrl>
@@ -8256,6 +8256,33 @@
 		5.7260040496,45.1830461154,1.0000000000
 		5.7261312835,45.1830460959,1.0000000000
 		5.7261312558,45.1829561156,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 257</name>
+	<description>Créée le 11-Dec-2019 13:21:52
+ par Benoit
+ #Valeurs =2
+ mean=-42.47dBm
+ min=-43dBm
+ max=-42dBm
+ std=0.71dBm 
+
+ 	</description>
+	<styleUrl>#Color51-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7256224015,45.1832261337,1.0000000000
+		5.7256224284,45.1833161141,1.0000000000
+		5.7257496629,45.1833160950,1.0000000000
+		5.7257496358,45.1832261147,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
