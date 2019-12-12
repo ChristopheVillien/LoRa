@@ -166,8 +166,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff296193 
-		 #Cells :2841 
-		 #Pkts :12579 
+		 #Cells :2842 
+		 #Pkts :12580 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -76891,6 +76891,33 @@
 		5.6966174174,45.1619913782,1.0000000000
 		5.6968717914,45.1619914046,1.0000000000
 		5.6968718283,45.1618114432,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2842</name>
+	<description>Créée le 12-Dec-2019 20:05:03
+ par Chris
+ #Valeurs =1
+ mean=-120.00dBm
+ min=-120dBm
+ max=-120dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7436727521,45.1556879603,1.0000000000
+		5.7436728626,45.1558679218,1.0000000000
+		5.7439272094,45.1558678434,1.0000000000
+		5.7439270980,45.1556878819,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
