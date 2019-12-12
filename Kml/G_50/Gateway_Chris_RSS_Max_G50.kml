@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff296193 
-		 #Cells :1354 
-		 #Pkts :12593 
+		 #Cells :1355 
+		 #Pkts :12595 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -23952,7 +23952,7 @@
 	<name>Cell 838</name>
 	<description>Créée le 27-Nov-2019 01:18:40
  par Florian
- #Valeurs =428
+ #Valeurs =429
  mean=-116.34dBm
  min=-125dBm
  max=-103dBm
@@ -37902,6 +37902,33 @@
 		5.6971250296,45.1676602100,1.0000000000
 		5.6977610280,45.1676602720,1.0000000000
 		5.6977611131,45.1672103690,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 1355</name>
+	<description>Créée le 12-Dec-2019 23:44:03
+ par Chris
+ #Valeurs =1
+ mean=-115.00dBm
+ min=-115dBm
+ max=-115dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color7-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6971255706,45.1649607917,1.0000000000
+		5.6971254804,45.1654106949,1.0000000000
+		5.6977614537,45.1654107568,1.0000000000
+		5.6977615389,45.1649608537,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
