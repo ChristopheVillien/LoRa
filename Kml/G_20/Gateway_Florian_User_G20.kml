@@ -186,8 +186,8 @@
 	<description> 
 		 Installed :05-Dec-2019 12:00:00 
 		 EUI :c0ee40ffff296bff 
-		 #Cells :117 
-		 #Pkts :2842 
+		 #Cells :118 
+		 #Pkts :2862 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -537,11 +537,11 @@
 	<name>Cell 13</name>
 	<description>Créée le 06-Dec-2019 19:10:03
  par Florian
- #Valeurs =306
+ #Valeurs =308
  mean=-24.84dBm
  min=-89dBm
  max=-7dBm
- std=17.39dBm 
+ std=17.36dBm 
 
  	</description>
 	<styleUrl>#Color2</styleUrl>
@@ -564,11 +564,11 @@
 	<name>Cell 14</name>
 	<description>Créée le 06-Dec-2019 19:10:15
  par Florian
- #Valeurs =188
- mean=-21.18dBm
+ #Valeurs =189
+ mean=-20.97dBm
  min=-88dBm
  max=-7dBm
- std=20.91dBm 
+ std=20.96dBm 
 
  	</description>
 	<styleUrl>#Color2</styleUrl>
@@ -618,11 +618,11 @@
 	<name>Cell 16</name>
 	<description>Créée le 06-Dec-2019 19:13:23
  par Florian
- #Valeurs =417
+ #Valeurs =419
  mean=-26.47dBm
  min=-102dBm
  max=-9dBm
- std=21.53dBm 
+ std=21.50dBm 
 
  	</description>
 	<styleUrl>#Color2</styleUrl>
@@ -645,11 +645,11 @@
 	<name>Cell 17</name>
 	<description>Créée le 06-Dec-2019 19:14:10
  par Florian
- #Valeurs =492
+ #Valeurs =493
  mean=-23.32dBm
  min=-86dBm
  max=-6dBm
- std=12.50dBm 
+ std=12.49dBm 
 
  	</description>
 	<styleUrl>#Color2</styleUrl>
@@ -699,11 +699,11 @@
 	<name>Cell 19</name>
 	<description>Créée le 06-Dec-2019 19:24:49
  par Florian
- #Valeurs =230
- mean=-31.00dBm
+ #Valeurs =231
+ mean=-27.81dBm
  min=-88dBm
- max=-21dBm
- std=12.84dBm 
+ max=-7dBm
+ std=12.98dBm 
 
  	</description>
 	<styleUrl>#Color2</styleUrl>
@@ -1185,11 +1185,11 @@
 	<name>Cell 37</name>
 	<description>Créée le 07-Dec-2019 13:27:07
  par Florian
- #Valeurs =20
- mean=-17.07dBm
+ #Valeurs =21
+ mean=-15.81dBm
  min=-81dBm
  max=-6dBm
- std=23.27dBm 
+ std=23.73dBm 
 
  	</description>
 	<styleUrl>#Color2</styleUrl>
@@ -1347,11 +1347,11 @@
 	<name>Cell 43</name>
 	<description>Créée le 07-Dec-2019 14:54:37
  par Florian
- #Valeurs =16
- mean=-27.41dBm
+ #Valeurs =21
+ mean=-27.90dBm
  min=-88dBm
  max=-21dBm
- std=20.22dBm 
+ std=17.89dBm 
 
  	</description>
 	<styleUrl>#Color2</styleUrl>
@@ -1374,11 +1374,11 @@
 	<name>Cell 44</name>
 	<description>Créée le 07-Dec-2019 14:55:00
  par Florian
- #Valeurs =19
- mean=-33.08dBm
+ #Valeurs =21
+ mean=-32.18dBm
  min=-87dBm
  max=-21dBm
- std=16.22dBm 
+ std=16.27dBm 
 
  	</description>
 	<styleUrl>#Color2</styleUrl>
@@ -1401,11 +1401,11 @@
 	<name>Cell 45</name>
 	<description>Créée le 07-Dec-2019 15:12:39
  par Florian
- #Valeurs =172
- mean=-23.80dBm
+ #Valeurs =173
+ mean=-23.82dBm
  min=-87dBm
  max=-7dBm
- std=12.26dBm 
+ std=12.24dBm 
 
  	</description>
 	<styleUrl>#Color2</styleUrl>
@@ -1455,11 +1455,11 @@
 	<name>Cell 47</name>
 	<description>Créée le 07-Dec-2019 15:15:50
  par Florian
- #Valeurs =25
- mean=-14.96dBm
+ #Valeurs =27
+ mean=-14.16dBm
  min=-67dBm
  max=-6dBm
- std=16.96dBm 
+ std=17.57dBm 
 
  	</description>
 	<styleUrl>#Color2</styleUrl>
@@ -3237,11 +3237,11 @@
 	<name>Cell 113</name>
 	<description>Créée le 13-Dec-2019 20:39:13
  par Florian
- #Valeurs =11
- mean=-18.74dBm
+ #Valeurs =12
+ mean=-15.39dBm
  min=-41dBm
- max=-9dBm
- std=7.51dBm 
+ max=-7dBm
+ std=9.12dBm 
 
  	</description>
 	<styleUrl>#Color2-highlight</styleUrl>
@@ -3363,6 +3363,33 @@
 		5.7561667320,45.1929353607,1.0000000000
 		5.7564212438,45.1929352544,1.0000000000
 		5.7564210930,45.1927552940,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 118</name>
+	<description>Créée le 13-Dec-2019 23:36:49
+ par Florian
+ #Valeurs =1
+ mean=-9.00dBm
+ min=-9dBm
+ max=-9dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color2-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7543845717,45.1922162477,1.0000000000
+		5.7543847161,45.1923962081,1.0000000000
+		5.7546392255,45.1923961057,1.0000000000
+		5.7546390803,45.1922161453,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
