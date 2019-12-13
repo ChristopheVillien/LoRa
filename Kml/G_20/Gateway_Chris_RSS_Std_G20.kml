@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff296193 
-		 #Cells :2967 
-		 #Pkts :13804 
+		 #Cells :2970 
+		 #Pkts :13808 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -81453,6 +81453,87 @@
 		5.6871989110,45.1798061516,1.0000000000
 		5.6874533644,45.1798061989,1.0000000000
 		5.6874534310,45.1796262381,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2968</name>
+	<description>Créée le 13-Dec-2019 19:46:03
+ par Chris
+ #Valeurs =2
+ mean=-117.89dBm
+ min=-119dBm
+ max=-117dBm
+ std=1.41dBm 
+
+ 	</description>
+	<styleUrl>#Color2-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6889792823,45.1821459612,1.0000000000
+		5.6889792206,45.1823259219,1.0000000000
+		5.6892336852,45.1823259653,1.0000000000
+		5.6892337462,45.1821460045,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2969</name>
+	<description>Créée le 13-Dec-2019 19:47:08
+ par Chris
+ #Valeurs =1
+ mean=-118.00dBm
+ min=-118dBm
+ max=-118dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6874530982,45.1805260421,1.0000000000
+		5.6874530317,45.1807060029,1.0000000000
+		5.6877074891,45.1807060497,1.0000000000
+		5.6877075549,45.1805260889,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2970</name>
+	<description>Créée le 13-Dec-2019 19:47:16
+ par Chris
+ #Valeurs =1
+ mean=-117.00dBm
+ min=-117dBm
+ max=-117dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6874526324,45.1817857675,1.0000000000
+		5.6874525658,45.1819657283,1.0000000000
+		5.6877070289,45.1819657750,1.0000000000
+		5.6877070946,45.1817858143,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
