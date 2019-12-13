@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff296193 
-		 #Cells :2999 
-		 #Pkts :13948 
+		 #Cells :3000 
+		 #Pkts :13949 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -82317,6 +82317,33 @@
 		5.7548937349,45.1923960028,1.0000000000
 		5.7551482444,45.1923958993,1.0000000000
 		5.7551480976,45.1922159389,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 3000</name>
+	<description>Créée le 13-Dec-2019 23:17:30
+ par Florian
+ #Valeurs =1
+ mean=-119.00dBm
+ min=-119dBm
+ max=-119dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color9-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7548934430,45.1920360820,1.0000000000
+		5.7548935890,45.1922160424,1.0000000000
+		5.7551480976,45.1922159389,1.0000000000
+		5.7551479508,45.1920359785,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
