@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff296193 
-		 #Cells :4648 
-		 #Pkts :13757 
+		 #Cells :4650 
+		 #Pkts :13767 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -111027,11 +111027,11 @@
 	<name>Cell 4063</name>
 	<description>Créée le 10-Dec-2019 10:07:24
  par Chris
- #Valeurs =29
- mean=-114.21dBm
+ #Valeurs =35
+ mean=-114.25dBm
  min=-120dBm
  max=-108dBm
- std=3.43dBm 
+ std=3.46dBm 
 
  	</description>
 	<styleUrl>#Color11</styleUrl>
@@ -120565,7 +120565,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color9-highlight</styleUrl>
+	<styleUrl>#Color9</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -120592,7 +120592,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color16-highlight</styleUrl>
+	<styleUrl>#Color16</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -120619,7 +120619,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color14-highlight</styleUrl>
+	<styleUrl>#Color14</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -120646,7 +120646,7 @@
  std=16.26dBm 
 
  	</description>
-	<styleUrl>#Color19-highlight</styleUrl>
+	<styleUrl>#Color19</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -120673,7 +120673,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color19-highlight</styleUrl>
+	<styleUrl>#Color19</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -120700,7 +120700,7 @@
  std=8.49dBm 
 
  	</description>
-	<styleUrl>#Color20-highlight</styleUrl>
+	<styleUrl>#Color20</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -120727,7 +120727,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color27-highlight</styleUrl>
+	<styleUrl>#Color27</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -120754,7 +120754,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color38-highlight</styleUrl>
+	<styleUrl>#Color38</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -126687,11 +126687,11 @@
 	<name>Cell 4643</name>
 	<description>Créée le 13-Dec-2019 19:13:09
  par Chris
- #Valeurs =7
- mean=-116.59dBm
- min=-119dBm
+ #Valeurs =9
+ mean=-116.91dBm
+ min=-120dBm
  max=-115dBm
- std=1.68dBm 
+ std=1.79dBm 
 
  	</description>
 	<styleUrl>#Color7-highlight</styleUrl>
@@ -126840,6 +126840,60 @@
 		5.6963633125,45.1607316218,1.0000000000
 		5.6964904967,45.1607316353,1.0000000000
 		5.6964905158,45.1606416546,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 4649</name>
+	<description>Créée le 13-Dec-2019 19:23:02
+ par Chris
+ #Valeurs =1
+ mean=-115.00dBm
+ min=-115dBm
+ max=-115dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color7-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6950917249,45.1596517104,1.0000000000
+		5.6950917036,45.1597416911,1.0000000000
+		5.6952188857,45.1597417061,1.0000000000
+		5.6952189067,45.1596517254,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 4650</name>
+	<description>Créée le 13-Dec-2019 19:23:51
+ par Chris
+ #Valeurs =1
+ mean=-112.00dBm
+ min=-112dBm
+ max=-112dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color8-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6964903445,45.1614514808,1.0000000000
+		5.6964903255,45.1615414615,1.0000000000
+		5.6966175115,45.1615414748,1.0000000000
+		5.6966175303,45.1614514942,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>

@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff296193 
-		 #Cells :2953 
-		 #Pkts :13765 
+		 #Cells :2954 
+		 #Pkts :13767 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -77905,7 +77905,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color32-highlight</styleUrl>
+	<styleUrl>#Color32</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -77932,7 +77932,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color63-highlight</styleUrl>
+	<styleUrl>#Color63</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -77959,7 +77959,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color64-highlight</styleUrl>
+	<styleUrl>#Color64</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -80976,11 +80976,11 @@
 	<name>Cell 2950</name>
 	<description>Créée le 13-Dec-2019 19:11:39
  par Chris
- #Valeurs =1
- mean=-113.00dBm
+ #Valeurs =2
+ mean=-112.47dBm
  min=-113dBm
- max=-113dBm
- std=0.00dBm 
+ max=-112dBm
+ std=0.71dBm 
 
  	</description>
 	<styleUrl>#Color18-highlight</styleUrl>
@@ -81075,6 +81075,33 @@
 		5.6963633125,45.1607316218,1.0000000000
 		5.6966176810,45.1607316487,1.0000000000
 		5.6966177186,45.1605516873,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2954</name>
+	<description>Créée le 13-Dec-2019 19:23:02
+ par Chris
+ #Valeurs =1
+ mean=-115.00dBm
+ min=-115dBm
+ max=-115dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color15-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6950917249,45.1596517104,1.0000000000
+		5.6950916824,45.1598316718,1.0000000000
+		5.6953460469,45.1598317016,1.0000000000
+		5.6953460885,45.1596517402,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
