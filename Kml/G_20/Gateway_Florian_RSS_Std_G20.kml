@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :05-Dec-2019 12:00:00 
 		 EUI :c0ee40ffff296bff 
-		 #Cells :114 
-		 #Pkts :2641 
+		 #Cells :115 
+		 #Pkts :2673 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -1677,14 +1677,14 @@
 	<name>Cell 13</name>
 	<description>Créée le 06-Dec-2019 19:10:03
  par Florian
- #Valeurs =260
- mean=-28.52dBm
+ #Valeurs =280
+ mean=-28.54dBm
  min=-89dBm
  max=-18dBm
- std=18.15dBm 
+ std=17.64dBm 
 
  	</description>
-	<styleUrl>#Color24</styleUrl>
+	<styleUrl>#Color23</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -1785,11 +1785,11 @@
 	<name>Cell 17</name>
 	<description>Créée le 06-Dec-2019 19:14:10
  par Florian
- #Valeurs =465
+ #Valeurs =472
  mean=-28.98dBm
  min=-86dBm
  max=-20dBm
- std=12.02dBm 
+ std=11.96dBm 
 
  	</description>
 	<styleUrl>#Color16</styleUrl>
@@ -1812,11 +1812,11 @@
 	<name>Cell 18</name>
 	<description>Créée le 06-Dec-2019 19:15:04
  par Florian
- #Valeurs =27
- mean=-32.41dBm
+ #Valeurs =28
+ mean=-31.58dBm
  min=-87dBm
- max=-25dBm
- std=26.83dBm 
+ max=-24dBm
+ std=27.07dBm 
 
  	</description>
 	<styleUrl>#Color35</styleUrl>
@@ -2379,11 +2379,11 @@
 	<name>Cell 39</name>
 	<description>Créée le 07-Dec-2019 14:01:03
  par Florian
- #Valeurs =165
- mean=-26.93dBm
+ #Valeurs =166
+ mean=-26.96dBm
  min=-85dBm
  max=-18dBm
- std=10.63dBm 
+ std=10.62dBm 
 
  	</description>
 	<styleUrl>#Color14</styleUrl>
@@ -3108,14 +3108,14 @@
 	<name>Cell 66</name>
 	<description>Créée le 08-Dec-2019 01:09:18
  par Florian
- #Valeurs =3
- mean=-32.63dBm
+ #Valeurs =5
+ mean=-11.51dBm
  min=-39dBm
- max=-29dBm
- std=5.13dBm 
+ max=-6dBm
+ std=15.12dBm 
 
  	</description>
-	<styleUrl>#Color7</styleUrl>
+	<styleUrl>#Color20</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -4422,6 +4422,33 @@
 		5.7551480976,45.1922159389,1.0000000000
 		5.7554026062,45.1922158348,1.0000000000
 		5.7554024586,45.1920358744,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 115</name>
+	<description>Créée le 13-Dec-2019 22:38:50
+ par Florian
+ #Valeurs =1
+ mean=-11.00dBm
+ min=-11dBm
+ max=-11dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7561671820,45.1934752417,1.0000000000
+		5.7561673320,45.1936552021,1.0000000000
+		5.7564218471,45.1936550957,1.0000000000
+		5.7564216962,45.1934751354,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
