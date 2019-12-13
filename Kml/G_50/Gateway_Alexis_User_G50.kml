@@ -101,6 +101,16 @@
 		<color>cc99cc00</color>
 	</PolyStyle>
 </Style>
+<Style id="Color7">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>00000000</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccb9a647</color>
+	</PolyStyle>
+</Style>
 <Style id="Color1-highlight">
 	<BalloonStyle>
 	</BalloonStyle>
@@ -161,13 +171,23 @@
 		<color>cc99cc00</color>
 	</PolyStyle>
 </Style>
+<Style id="Color7-highlight">
+	<BalloonStyle>
+	</BalloonStyle>
+	<LineStyle>
+		<color>ffffffff</color>
+	</LineStyle>
+	<PolyStyle>
+		<color>ccb9a647</color>
+	</PolyStyle>
+</Style>
 <Placemark>
 	<name> Gateway Alexis</name>
 	<description> 
 		 Installed :04-Dec-2019 17:00:00 
 		 EUI :c0ee40ffff296bbe 
 		 #Cells :132 
-		 #Pkts :356 
+		 #Pkts :357 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -3649,11 +3669,11 @@
 	<name>Cell 129</name>
 	<description>Créée le 13-Dec-2019 17:48:55
  par Nico
- #Valeurs =1
- mean=-117.00dBm
- min=-117dBm
+ #Valeurs =2
+ mean=-118.25dBm
+ min=-120dBm
  max=-117dBm
- std=0.00dBm 
+ std=2.12dBm 
 
  	</description>
 	<styleUrl>#Color3-highlight</styleUrl>
