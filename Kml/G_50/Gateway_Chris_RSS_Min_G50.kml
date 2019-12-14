@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff296193 
-		 #Cells :1459 
-		 #Pkts :14218 
+		 #Cells :1460 
+		 #Pkts :14219 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -40737,6 +40737,33 @@
 		5.6684555055,45.2382880681,1.0000000000
 		5.6690922909,45.2382882900,1.0000000000
 		5.6690926022,45.2378383929,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 1460</name>
+	<description>Créée le 14-Dec-2019 17:40:26
+ par Christophe C.
+ #Valeurs =1
+ mean=-119.00dBm
+ min=-119dBm
+ max=-119dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color9-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6684845878,45.1968973696,1.0000000000
+		5.6684842719,45.1973472702,1.0000000000
+		5.6691206008,45.1973474917,1.0000000000
+		5.6691209116,45.1968975911,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
