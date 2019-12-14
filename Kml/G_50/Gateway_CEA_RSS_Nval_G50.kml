@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff294218 
-		 #Cells :3893 
-		 #Pkts :62489 
+		 #Cells :3894 
+		 #Pkts :62490 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -106455,6 +106455,33 @@
 		5.7435658583,45.1888008254,1.0000000000
 		5.7442020920,45.1888006287,1.0000000000
 		5.7442018113,45.1883507274,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 3894</name>
+	<description>Créée le 14-Dec-2019 20:21:47
+ par Christophe C.
+ #Valeurs =1
+ mean=-120.00dBm
+ min=-120dBm
+ max=-120dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color4-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6544500700,45.2342332135,1.0000000000
+		5.6544496432,45.2346831109,1.0000000000
+		5.6550863882,45.2346834109,1.0000000000
+		5.6550868100,45.2342335135,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
