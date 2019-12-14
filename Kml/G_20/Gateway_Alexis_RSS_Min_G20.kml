@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :04-Dec-2019 17:00:00 
 		 EUI :c0ee40ffff296bbe 
-		 #Cells :215 
-		 #Pkts :374 
+		 #Cells :218 
+		 #Pkts :377 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -7149,6 +7149,87 @@
 		5.7416563233,45.1873617099,1.0000000000
 		5.7419108104,45.1873616359,1.0000000000
 		5.7419107053,45.1871816753,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 216</name>
+	<description>Créée le 14-Dec-2019 17:07:51
+ par Florian
+ #Valeurs =1
+ mean=-114.00dBm
+ min=-114dBm
+ max=-114dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color16-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7391106829,45.1859227340,1.0000000000
+		5.7391107792,45.1861026946,1.0000000000
+		5.7393652606,45.1861026262,1.0000000000
+		5.7393651636,45.1859226656,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 217</name>
+	<description>Créée le 14-Dec-2019 17:08:00
+ par Florian
+ #Valeurs =1
+ mean=-118.00dBm
+ min=-118dBm
+ max=-118dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color10-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7391104905,45.1855628127,1.0000000000
+		5.7391105867,45.1857427733,1.0000000000
+		5.7393650665,45.1857427050,1.0000000000
+		5.7393649695,45.1855627444,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 218</name>
+	<description>Créée le 14-Dec-2019 17:08:16
+ par Florian
+ #Valeurs =1
+ mean=-115.00dBm
+ min=-115dBm
+ max=-115dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color15-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7388560114,45.1855628805,1.0000000000
+		5.7388561069,45.1857428411,1.0000000000
+		5.7391105867,45.1857427733,1.0000000000
+		5.7391104905,45.1855628127,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
