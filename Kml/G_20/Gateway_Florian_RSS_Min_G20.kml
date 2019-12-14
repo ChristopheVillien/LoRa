@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :05-Dec-2019 12:00:00 
 		 EUI :c0ee40ffff296bff 
-		 #Cells :140 
-		 #Pkts :3258 
+		 #Cells :145 
+		 #Pkts :3273 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -2568,11 +2568,11 @@
 	<name>Cell 46</name>
 	<description>Créée le 07-Dec-2019 15:14:14
  par Florian
- #Valeurs =128
- mean=-23.74dBm
+ #Valeurs =131
+ mean=-23.84dBm
  min=-78dBm
  max=-7dBm
- std=14.20dBm 
+ std=14.73dBm 
 
  	</description>
 	<styleUrl>#Color64</styleUrl>
@@ -2595,14 +2595,14 @@
 	<name>Cell 47</name>
 	<description>Créée le 07-Dec-2019 15:15:50
  par Florian
- #Valeurs =34
- mean=-15.16dBm
- min=-77dBm
+ #Valeurs =35
+ mean=-15.29dBm
+ min=-83dBm
  max=-6dBm
- std=21.12dBm 
+ std=22.08dBm 
 
  	</description>
-	<styleUrl>#Color64</styleUrl>
+	<styleUrl>#Color60</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -2892,14 +2892,14 @@
 	<name>Cell 58</name>
 	<description>Créée le 07-Dec-2019 20:59:47
  par Florian
- #Valeurs =6
- mean=-32.53dBm
- min=-44dBm
+ #Valeurs =7
+ mean=-33.20dBm
+ min=-92dBm
  max=-28dBm
- std=6.52dBm 
+ std=22.05dBm 
 
  	</description>
-	<styleUrl>#Color64</styleUrl>
+	<styleUrl>#Color47</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -4377,11 +4377,11 @@
 	<name>Cell 113</name>
 	<description>Créée le 13-Dec-2019 20:39:13
  par Florian
- #Valeurs =20
- mean=-17.61dBm
+ #Valeurs =21
+ mean=-17.82dBm
  min=-89dBm
  max=-7dBm
- std=24.65dBm 
+ std=25.34dBm 
 
  	</description>
 	<styleUrl>#Color52-highlight</styleUrl>
@@ -5124,6 +5124,141 @@
 		5.7579436467,45.1875357912,1.0000000000
 		5.7581981345,45.1875356809,1.0000000000
 		5.7581979781,45.1873557204,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 141</name>
+	<description>Créée le 14-Dec-2019 11:00:04
+ par Florian
+ #Valeurs =5
+ mean=-73.77dBm
+ min=-90dBm
+ max=-67dBm
+ std=9.02dBm 
+
+ 	</description>
+	<styleUrl>#Color50-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7546389352,45.1920361850,1.0000000000
+		5.7546390803,45.1922161453,1.0000000000
+		5.7548935890,45.1922160424,1.0000000000
+		5.7548934430,45.1920360820,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 142</name>
+	<description>Créée le 14-Dec-2019 11:01:40
+ par Florian
+ #Valeurs =1
+ mean=-97.00dBm
+ min=-97dBm
+ max=-97dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color40-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7536213298,45.1925764722,1.0000000000
+		5.7536214718,45.1927564326,1.0000000000
+		5.7538759828,45.1927563319,1.0000000000
+		5.7538758400,45.1925763715,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 143</name>
+	<description>Créée le 14-Dec-2019 11:00:22
+ par Florian
+ #Valeurs =1
+ mean=-67.00dBm
+ min=-67dBm
+ max=-67dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color64-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7546387900,45.1918562246,1.0000000000
+		5.7546389352,45.1920361850,1.0000000000
+		5.7548934430,45.1920360820,1.0000000000
+		5.7548932970,45.1918561216,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 144</name>
+	<description>Créée le 14-Dec-2019 11:01:35
+ par Florian
+ #Valeurs =1
+ mean=-102.00dBm
+ min=-102dBm
+ max=-102dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color33-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7538756972,45.1923964111,1.0000000000
+		5.7538758400,45.1925763715,1.0000000000
+		5.7541303503,45.1925762703,1.0000000000
+		5.7541302067,45.1923963099,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 145</name>
+	<description>Créée le 14-Dec-2019 11:01:43
+ par Florian
+ #Valeurs =1
+ mean=-107.00dBm
+ min=-107dBm
+ max=-107dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color26-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7536211878,45.1923965118,1.0000000000
+		5.7536213298,45.1925764722,1.0000000000
+		5.7538758400,45.1925763715,1.0000000000
+		5.7538756972,45.1923964111,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
