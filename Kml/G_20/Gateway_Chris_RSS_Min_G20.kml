@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff296193 
-		 #Cells :3070 
-		 #Pkts :14228 
+		 #Cells :3071 
+		 #Pkts :14229 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -84234,6 +84234,33 @@
 		5.6604491623,45.2179495808,1.0000000000
 		5.6607037857,45.2179496878,1.0000000000
 		5.6607039366,45.2177697282,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 3071</name>
+	<description>Créée le 14-Dec-2019 17:47:59
+ par Christophe C.
+ #Valeurs =1
+ mean=-109.00dBm
+ min=-109dBm
+ max=-109dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color23-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6604487071,45.2184894594,1.0000000000
+		5.6604485554,45.2186694189,1.0000000000
+		5.6607031819,45.2186695259,1.0000000000
+		5.6607033329,45.2184895664,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
