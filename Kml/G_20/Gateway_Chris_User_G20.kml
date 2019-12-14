@@ -186,8 +186,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff296193 
-		 #Cells :3072 
-		 #Pkts :14230 
+		 #Cells :3074 
+		 #Pkts :14232 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -78412,7 +78412,7 @@
  std=1.15dBm 
 
  	</description>
-	<styleUrl>#Color3-highlight</styleUrl>
+	<styleUrl>#Color3</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -78439,7 +78439,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color3-highlight</styleUrl>
+	<styleUrl>#Color3</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -78466,7 +78466,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color3-highlight</styleUrl>
+	<styleUrl>#Color3</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -83148,6 +83148,60 @@
 		5.6607027291,45.2192094044,1.0000000000
 		5.6609573581,45.2192095108,1.0000000000
 		5.6609575082,45.2190295513,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 3073</name>
+	<description>Créée le 14-Dec-2019 17:58:42
+ par Christophe C.
+ #Valeurs =1
+ mean=-107.00dBm
+ min=-107dBm
+ max=-107dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color7-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6678187201,45.2382878427,1.0000000000
+		5.6678185915,45.2384678015,1.0000000000
+		5.6680733065,45.2384678921,1.0000000000
+		5.6680734342,45.2382879333,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 3074</name>
+	<description>Créée le 14-Dec-2019 18:00:47
+ par Christophe C.
+ #Valeurs =1
+ mean=-114.00dBm
+ min=-114dBm
+ max=-114dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color7-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6675709895,45.2285699650,1.0000000000
+		5.6675708602,45.2287499242,1.0000000000
+		5.6678255318,45.2287500153,1.0000000000
+		5.6678256603,45.2285700562,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
