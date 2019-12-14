@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff296193 
-		 #Cells :1476 
-		 #Pkts :14235 
+		 #Cells :1477 
+		 #Pkts :14236 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -41196,6 +41196,33 @@
 		5.6690944700,45.2351390094,1.0000000000
 		5.6697312203,45.2351392277,1.0000000000
 		5.6697315266,45.2346893303,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 1477</name>
+	<description>Créée le 14-Dec-2019 19:01:40
+ par Florian
+ #Valeurs =1
+ mean=-117.00dBm
+ min=-117dBm
+ max=-117dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color7-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7422925941,45.1874515041,1.0000000000
+		5.7422928597,45.1879014055,1.0000000000
+		5.7429290833,45.1879012159,1.0000000000
+		5.7429288127,45.1874513145,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
