@@ -186,8 +186,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff294218 
-		 #Cells :3768 
-		 #Pkts :60562 
+		 #Cells :3769 
+		 #Pkts :60564 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -69738,11 +69738,11 @@
 	<name>Cell 2576</name>
 	<description>Créée le 28-Nov-2019 19:49:05
  par Florian
- #Valeurs =17
- mean=-114.62dBm
+ #Valeurs =18
+ mean=-114.79dBm
  min=-121dBm
  max=-107dBm
- std=3.96dBm 
+ std=3.91dBm 
 
  	</description>
 	<styleUrl>#Color2</styleUrl>
@@ -101940,6 +101940,33 @@
 		5.7569313343,45.1941947623,1.0000000000
 		5.7575676279,45.1941944911,1.0000000000
 		5.7575672419,45.1937445903,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 3769</name>
+	<description>Créée le 14-Dec-2019 01:01:48
+ par Florian
+ #Valeurs =1
+ mean=-120.00dBm
+ min=-120dBm
+ max=-120dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color2-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7524758954,45.1923969578,1.0000000000
+		5.7524762413,45.1928468587,1.0000000000
+		5.7531125199,45.1928466124,1.0000000000
+		5.7531121689,45.1923967114,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
