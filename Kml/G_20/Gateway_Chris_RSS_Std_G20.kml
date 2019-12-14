@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff296193 
-		 #Cells :3092 
-		 #Pkts :14250 
+		 #Cells :3093 
+		 #Pkts :14251 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -84828,6 +84828,33 @@
 		5.6696280067,45.1997771292,1.0000000000
 		5.6698825490,45.1997772157,1.0000000000
 		5.6698826710,45.1995972555,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 3093</name>
+	<description>Créée le 14-Dec-2019 20:30:21
+ par Christophe C.
+ #Valeurs =1
+ mean=-109.00dBm
+ min=-109dBm
+ max=-109dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6683578301,45.1961774838,1.0000000000
+		5.6683577033,45.1963574440,1.0000000000
+		5.6686122304,45.1963575334,1.0000000000
+		5.6686123564,45.1961775731,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
