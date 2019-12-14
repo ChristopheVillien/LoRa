@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff296193 
-		 #Cells :4822 
-		 #Pkts :14229 
+		 #Cells :4823 
+		 #Pkts :14230 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -124345,7 +124345,7 @@
  std=2.15dBm 
 
  	</description>
-	<styleUrl>#Color3-highlight</styleUrl>
+	<styleUrl>#Color3</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -124372,7 +124372,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color1-highlight</styleUrl>
+	<styleUrl>#Color1</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -124399,7 +124399,7 @@
  std=1.22dBm 
 
  	</description>
-	<styleUrl>#Color2-highlight</styleUrl>
+	<styleUrl>#Color2</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -131538,6 +131538,33 @@
 		5.6605758686,45.2186694724,1.0000000000
 		5.6607031819,45.2186695259,1.0000000000
 		5.6607032574,45.2185795461,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 4823</name>
+	<description>Créée le 14-Dec-2019 17:52:33
+ par Christophe C.
+ #Valeurs =1
+ mean=-117.00dBm
+ min=-117dBm
+ max=-117dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6607028801,45.2190294449,1.0000000000
+		5.6607028046,45.2191194246,1.0000000000
+		5.6608301189,45.2191194779,1.0000000000
+		5.6608301941,45.2190294982,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
