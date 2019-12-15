@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :05-Dec-2019 12:00:00 
 		 EUI :c0ee40ffff296bff 
-		 #Cells :362 
-		 #Pkts :3729 
+		 #Cells :369 
+		 #Pkts :3753 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -10884,14 +10884,14 @@
 	<name>Cell 354</name>
 	<description>Créée le 15-Dec-2019 16:49:01
  par Nico
- #Valeurs =1
- mean=-119.00dBm
- min=-119dBm
- max=-119dBm
- std=0.00dBm 
+ #Valeurs =6
+ mean=-118.70dBm
+ min=-120dBm
+ max=-117dBm
+ std=1.17dBm 
 
  	</description>
-	<styleUrl>#Color1-highlight</styleUrl>
+	<styleUrl>#Color2-highlight</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -10911,11 +10911,11 @@
 	<name>Cell 355</name>
 	<description>Créée le 15-Dec-2019 16:49:20
  par Nico
- #Valeurs =82
- mean=-117.65dBm
+ #Valeurs =88
+ mean=-117.74dBm
  min=-121dBm
  max=-112dBm
- std=2.08dBm 
+ std=2.03dBm 
 
  	</description>
 	<styleUrl>#Color3-highlight</styleUrl>
@@ -11073,11 +11073,11 @@
 	<name>Cell 361</name>
 	<description>Créée le 15-Dec-2019 16:57:28
  par Nico
- #Valeurs =51
- mean=-117.56dBm
+ #Valeurs =57
+ mean=-117.54dBm
  min=-121dBm
  max=-112dBm
- std=2.25dBm 
+ std=2.27dBm 
 
  	</description>
 	<styleUrl>#Color3-highlight</styleUrl>
@@ -11118,6 +11118,195 @@
 		5.7370600706,45.1563196664,1.0000000000
 		5.7371872450,45.1563196347,1.0000000000
 		5.7371871999,45.1562296539,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 363</name>
+	<description>Créée le 15-Dec-2019 17:43:49
+ par Chris
+ #Valeurs =1
+ mean=-120.00dBm
+ min=-120dBm
+ max=-120dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6859148282,45.2095893439,1.0000000000
+		5.6859147925,45.2096793238,1.0000000000
+		5.6860420858,45.2096793490,1.0000000000
+		5.6860421213,45.2095893690,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 364</name>
+	<description>Créée le 15-Dec-2019 17:43:57
+ par Chris
+ #Valeurs =1
+ mean=-119.00dBm
+ min=-119dBm
+ max=-119dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6878252057,45.2068903080,1.0000000000
+		5.6878251729,45.2069802880,1.0000000000
+		5.6879524602,45.2069803110,1.0000000000
+		5.6879524927,45.2068903310,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 365</name>
+	<description>Créée le 15-Dec-2019 17:44:05
+ par Chris
+ #Valeurs =1
+ mean=-117.00dBm
+ min=-117dBm
+ max=-117dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6879525577,45.2067103711,1.0000000000
+		5.6879525252,45.2068003511,1.0000000000
+		5.6880798121,45.2068003740,1.0000000000
+		5.6880798444,45.2067103940,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 366</name>
+	<description>Créée le 15-Dec-2019 17:44:21
+ par Chris
+ #Valeurs =1
+ mean=-119.00dBm
+ min=-119dBm
+ max=-119dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6907534824,45.2047312823,1.0000000000
+		5.6907534543,45.2048212623,1.0000000000
+		5.6908807368,45.2048212821,1.0000000000
+		5.6908807647,45.2047313021,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 367</name>
+	<description>Créée le 15-Dec-2019 17:44:29
+ par Chris
+ #Valeurs =1
+ mean=-121.00dBm
+ min=-121dBm
+ max=-121dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6930450281,45.2030219962,1.0000000000
+		5.6930450037,45.2031119762,1.0000000000
+		5.6931722823,45.2031119935,1.0000000000
+		5.6931723066,45.2030220134,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 368</name>
+	<description>Créée le 15-Dec-2019 17:44:37
+ par Chris
+ #Valeurs =1
+ mean=-119.00dBm
+ min=-119dBm
+ max=-119dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6931723309,45.2029320334,1.0000000000
+		5.6931723066,45.2030220134,1.0000000000
+		5.6932995851,45.2030220305,1.0000000000
+		5.6932996091,45.2029320505,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 369</name>
+	<description>Créée le 15-Dec-2019 17:44:03
+ par Chris
+ #Valeurs =1
+ mean=-120.00dBm
+ min=-120dBm
+ max=-120dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6896077030,45.2054509379,1.0000000000
+		5.6896076731,45.2055409179,1.0000000000
+		5.6897349571,45.2055409390,1.0000000000
+		5.6897349868,45.2054509590,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
