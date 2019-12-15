@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :05-Dec-2019 12:00:00 
 		 EUI :c0ee40ffff296bff 
-		 #Cells :115 
-		 #Pkts :3562 
+		 #Cells :116 
+		 #Pkts :3573 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -3871,7 +3871,7 @@
  std=6.19dBm 
 
  	</description>
-	<styleUrl>#Color20-highlight</styleUrl>
+	<styleUrl>#Color20</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -3898,7 +3898,7 @@
  std=3.21dBm 
 
  	</description>
-	<styleUrl>#Color18-highlight</styleUrl>
+	<styleUrl>#Color18</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -3925,7 +3925,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color12-highlight</styleUrl>
+	<styleUrl>#Color12</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -3952,7 +3952,7 @@
  std=3.46dBm 
 
  	</description>
-	<styleUrl>#Color15-highlight</styleUrl>
+	<styleUrl>#Color15</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -3979,7 +3979,7 @@
  std=2.83dBm 
 
  	</description>
-	<styleUrl>#Color16-highlight</styleUrl>
+	<styleUrl>#Color16</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -4006,7 +4006,7 @@
  std=4.58dBm 
 
  	</description>
-	<styleUrl>#Color19-highlight</styleUrl>
+	<styleUrl>#Color19</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -4449,6 +4449,33 @@
 		5.7384569182,45.1523601553,1.0000000000
 		5.7390927462,45.1523599871,1.0000000000
 		5.7390925059,45.1519100832,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 116</name>
+	<description>Créée le 15-Dec-2019 16:48:53
+ par Nico
+ #Valeurs =11
+ mean=-118.91dBm
+ min=-121dBm
+ max=-117dBm
+ std=1.30dBm 
+
+ 	</description>
+	<styleUrl>#Color6-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7371870647,45.1559597117,1.0000000000
+		5.7371872900,45.1564096154,1.0000000000
+		5.7378231630,45.1564094543,1.0000000000
+		5.7378229327,45.1559595506,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
