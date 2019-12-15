@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff294218 
-		 #Cells :3931 
-		 #Pkts :62719 
+		 #Cells :3932 
+		 #Pkts :62731 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -70527,11 +70527,11 @@
 	<name>Cell 2563</name>
 	<description>Créée le 28-Nov-2019 02:26:52
  par Florian
- #Valeurs =18
- mean=-117.44dBm
+ #Valeurs =19
+ mean=-117.51dBm
  min=-121dBm
  max=-113dBm
- std=2.01dBm 
+ std=1.97dBm 
 
  	</description>
 	<styleUrl>#Color6</styleUrl>
@@ -107463,14 +107463,14 @@
 	<name>Cell 3931</name>
 	<description>Créée le 15-Dec-2019 01:23:33
  par Florian
- #Valeurs =5
- mean=-116.37dBm
- min=-121dBm
+ #Valeurs =10
+ mean=-118.14dBm
+ min=-125dBm
  max=-111dBm
- std=4.28dBm 
+ std=3.60dBm 
 
  	</description>
-	<styleUrl>#Color6-highlight</styleUrl>
+	<styleUrl>#Color1-highlight</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -107481,6 +107481,33 @@
 		5.7626584021,45.1946420948,1.0000000000
 		5.7632947006,45.1946417917,1.0000000000
 		5.7632942694,45.1941918910,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 3932</name>
+	<description>Créée le 15-Dec-2019 01:25:55
+ par Florian
+ #Valeurs =6
+ mean=-109.30dBm
+ min=-121dBm
+ max=-102dBm
+ std=7.16dBm 
+
+ 	</description>
+	<styleUrl>#Color6-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7620216825,45.1941924936,1.0000000000
+		5.7620221036,45.1946423943,1.0000000000
+		5.7626584021,45.1946420948,1.0000000000
+		5.7626579760,45.1941921940,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
