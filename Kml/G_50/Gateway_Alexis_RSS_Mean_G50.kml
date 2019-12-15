@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :04-Dec-2019 17:00:00 
 		 EUI :c0ee40ffff296bbe 
-		 #Cells :142 
-		 #Pkts :443 
+		 #Cells :143 
+		 #Pkts :444 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -5178,6 +5178,33 @@
 		5.7365514170,45.1564097729,1.0000000000
 		5.7371872900,45.1564096154,1.0000000000
 		5.7371870647,45.1559597117,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 143</name>
+	<description>Créée le 15-Dec-2019 18:00:12
+ par Nico
+ #Valeurs =1
+ mean=-117.00dBm
+ min=-117dBm
+ max=-117dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color7-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7371870647,45.1559597117,1.0000000000
+		5.7371872900,45.1564096154,1.0000000000
+		5.7378231630,45.1564094543,1.0000000000
+		5.7378229327,45.1559595506,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
