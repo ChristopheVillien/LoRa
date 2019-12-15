@@ -186,8 +186,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff294218 
-		 #Cells :4061 
-		 #Pkts :64565 
+		 #Cells :4062 
+		 #Pkts :64605 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -103117,7 +103117,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color2-highlight</styleUrl>
+	<styleUrl>#Color2</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -103171,7 +103171,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color2-highlight</styleUrl>
+	<styleUrl>#Color2</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -109833,11 +109833,11 @@
 	<name>Cell 4061</name>
 	<description>Créée le 15-Dec-2019 16:48:53
  par Nico
- #Valeurs =25
- mean=-105.78dBm
+ #Valeurs =34
+ mean=-107.04dBm
  min=-121dBm
  max=-92dBm
- std=5.76dBm 
+ std=4.95dBm 
 
  	</description>
 	<styleUrl>#Color3-highlight</styleUrl>
@@ -109851,6 +109851,33 @@
 		5.7371872900,45.1564096154,1.0000000000
 		5.7378231630,45.1564094543,1.0000000000
 		5.7378229327,45.1559595506,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 4062</name>
+	<description>Créée le 15-Dec-2019 16:51:39
+ par Nico
+ #Valeurs =31
+ mean=-115.76dBm
+ min=-123dBm
+ max=-104dBm
+ std=3.55dBm 
+
+ 	</description>
+	<styleUrl>#Color3-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7365511967,45.1559598692,1.0000000000
+		5.7365514170,45.1564097729,1.0000000000
+		5.7371872900,45.1564096154,1.0000000000
+		5.7371870647,45.1559597117,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
