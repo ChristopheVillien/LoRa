@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :04-Dec-2019 17:00:00 
 		 EUI :c0ee40ffff296bbe 
-		 #Cells :140 
-		 #Pkts :441 
+		 #Cells :141 
+		 #Pkts :442 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -5124,6 +5124,33 @@
 		5.7333847509,45.1856541804,1.0000000000
 		5.7340209496,45.1856540405,1.0000000000
 		5.7340207491,45.1852041389,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 141</name>
+	<description>Créée le 15-Dec-2019 13:21:14
+ par Chris
+ #Valeurs =1
+ mean=-117.00dBm
+ min=-117dBm
+ max=-117dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color5-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6417363531,45.2162305467,1.0000000000
+		5.6417358263,45.2166804455,1.0000000000
+		5.6423723703,45.2166808162,1.0000000000
+		5.6423728921,45.2162309174,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
