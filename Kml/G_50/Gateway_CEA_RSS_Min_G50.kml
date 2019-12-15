@@ -1327,7 +1327,7 @@
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff294218 
 		 #Cells :3921 
-		 #Pkts :62642 
+		 #Pkts :62646 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -60078,11 +60078,11 @@
 	<name>Cell 2176</name>
 	<description>Créée le 30-Nov-2019 09:50:14
  par Benoit
- #Valeurs =1
- mean=-120.00dBm
+ #Valeurs =3
+ mean=-116.88dBm
  min=-120dBm
- max=-120dBm
- std=0.00dBm 
+ max=-115dBm
+ std=2.52dBm 
 
  	</description>
 	<styleUrl>#Color8</styleUrl>
@@ -107193,14 +107193,14 @@
 	<name>Cell 3921</name>
 	<description>Créée le 15-Dec-2019 00:56:34
  par Florian
- #Valeurs =1
- mean=-113.00dBm
- min=-113dBm
+ #Valeurs =3
+ mean=-114.12dBm
+ min=-118dBm
  max=-113dBm
- std=0.00dBm 
+ std=2.89dBm 
 
  	</description>
-	<styleUrl>#Color18-highlight</styleUrl>
+	<styleUrl>#Color10-highlight</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
