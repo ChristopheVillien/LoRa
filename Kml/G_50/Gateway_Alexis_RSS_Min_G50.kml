@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :04-Dec-2019 17:00:00 
 		 EUI :c0ee40ffff296bbe 
-		 #Cells :160 
-		 #Pkts :602 
+		 #Cells :162 
+		 #Pkts :604 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -5664,6 +5664,60 @@
 		5.7251128648,45.1811566600,1.0000000000
 		5.7257490134,45.1811565661,1.0000000000
 		5.7257488781,45.1807066641,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 161</name>
+	<description>Créée le 16-Dec-2019 18:34:58
+ par Serge B.
+ #Valeurs =1
+ mean=-115.00dBm
+ min=-115dBm
+ max=-115dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color15-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7206591580,45.1780079036,1.0000000000
+		5.7206592532,45.1784578058,1.0000000000
+		5.7212953718,45.1784577367,1.0000000000
+		5.7212952715,45.1780078345,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 162</name>
+	<description>Créée le 16-Dec-2019 18:35:52
+ par Serge B.
+ #Valeurs =1
+ mean=-112.00dBm
+ min=-112dBm
+ max=-112dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color19-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7225670577,45.1762080767,1.0000000000
+		5.7225671679,45.1766579790,1.0000000000
+		5.7232032665,45.1766578993,1.0000000000
+		5.7232031512,45.1762079970,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>

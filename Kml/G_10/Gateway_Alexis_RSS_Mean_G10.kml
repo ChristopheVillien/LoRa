@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :04-Dec-2019 17:00:00 
 		 EUI :c0ee40ffff296bbe 
-		 #Cells :392 
-		 #Pkts :602 
+		 #Cells :393 
+		 #Pkts :603 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -11928,6 +11928,33 @@
 		5.7251128648,45.1811566600,1.0000000000
 		5.7252400945,45.1811566415,1.0000000000
 		5.7252400683,45.1810666611,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 393</name>
+	<description>Créée le 16-Dec-2019 18:34:58
+ par Serge B.
+ #Valeurs =1
+ mean=-115.00dBm
+ min=-115dBm
+ max=-115dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color9-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7210408458,45.1780978430,1.0000000000
+		5.7210408654,45.1781878234,1.0000000000
+		5.7211680885,45.1781878095,1.0000000000
+		5.7211680687,45.1780978290,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
