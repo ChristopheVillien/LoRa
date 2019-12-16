@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :04-Dec-2019 17:00:00 
 		 EUI :c0ee40ffff296bbe 
-		 #Cells :321 
-		 #Pkts :473 
+		 #Cells :322 
+		 #Pkts :474 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -10011,6 +10011,33 @@
 		5.6734482458,45.1963591230,1.0000000000
 		5.6735755094,45.1963591621,1.0000000000
 		5.6735755646,45.1962691820,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 322</name>
+	<description>Créée le 16-Dec-2019 09:40:21
+ par Christophe C.
+ #Valeurs =1
+ mean=-117.00dBm
+ min=-117dBm
+ max=-117dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6941932312,45.1923145104,1.0000000000
+		5.6941932086,45.1924044907,1.0000000000
+		5.6943204634,45.1924045066,1.0000000000
+		5.6943204858,45.1923145264,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
