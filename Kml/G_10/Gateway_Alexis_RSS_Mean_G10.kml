@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :04-Dec-2019 17:00:00 
 		 EUI :c0ee40ffff296bbe 
-		 #Cells :408 
-		 #Pkts :620 
+		 #Cells :409 
+		 #Pkts :621 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -12360,6 +12360,33 @@
 		5.7235861318,45.1812468513,1.0000000000
 		5.7237133617,45.1812468345,1.0000000000
 		5.7237133379,45.1811568541,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 409</name>
+	<description>Créée le 16-Dec-2019 18:45:13
+ par Serge B.
+ #Valeurs =1
+ mean=-120.00dBm
+ min=-120dBm
+ max=-120dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color5-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7417716402,45.1668461333,1.0000000000
+		5.7417716924,45.1669361139,1.0000000000
+		5.7418988905,45.1669360769,1.0000000000
+		5.7418988380,45.1668460963,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
