@@ -266,8 +266,8 @@
 	<description> 
 		 Installed :04-Dec-2019 17:00:00 
 		 EUI :c0ee40ffff296bbe 
-		 #Cells :275 
-		 #Pkts :536 
+		 #Cells :276 
+		 #Pkts :540 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -7709,6 +7709,33 @@
 		5.7319852245,45.1859244169,1.0000000000
 		5.7322397052,45.1859243644,1.0000000000
 		5.7322396306,45.1857444038,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 276</name>
+	<description>Créée le 16-Dec-2019 18:09:07
+ par Alexis F.
+ #Valeurs =4
+ mean=-24.58dBm
+ min=-27dBm
+ max=-24dBm
+ std=1.50dBm 
+
+ 	</description>
+	<styleUrl>#Color11-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7312197842,45.1808856712,1.0000000000
+		5.7312198556,45.1810656319,1.0000000000
+		5.7314743146,45.1810655812,1.0000000000
+		5.7314742424,45.1808856204,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
