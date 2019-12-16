@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff296193 
-		 #Cells :3358 
-		 #Pkts :15299 
+		 #Cells :3359 
+		 #Pkts :15300 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -92010,6 +92010,33 @@
 		5.6734481351,45.1965390833,1.0000000000
 		5.6737026631,45.1965391613,1.0000000000
 		5.6737027730,45.1963592010,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 3359</name>
+	<description>Créée le 16-Dec-2019 20:07:38
+ par Aleksandra
+ #Valeurs =1
+ mean=-117.00dBm
+ min=-117dBm
+ max=-117dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color4-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7017044233,45.1659509458,1.0000000000
+		5.7017044016,45.1661309070,1.0000000000
+		5.7019587942,45.1661309220,1.0000000000
+		5.7019588150,45.1659509608,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
