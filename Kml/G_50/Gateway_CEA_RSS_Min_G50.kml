@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff294218 
-		 #Cells :4285 
-		 #Pkts :67806 
+		 #Cells :4286 
+		 #Pkts :67829 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -23547,11 +23547,11 @@
 	<name>Cell 823</name>
 	<description>Créée le 19-Nov-2019 20:47:20
  par Chris
- #Valeurs =4
- mean=-119.02dBm
+ #Valeurs =5
+ mean=-117.86dBm
  min=-123dBm
- max=-117dBm
- std=2.52dBm 
+ max=-115dBm
+ std=2.97dBm 
 
  	</description>
 	<styleUrl>#Color3</styleUrl>
@@ -27084,11 +27084,11 @@
 	<name>Cell 954</name>
 	<description>Créée le 22-Nov-2019 00:14:14
  par Chris
- #Valeurs =2
- mean=-118.25dBm
+ #Valeurs =4
+ mean=-118.12dBm
  min=-120dBm
  max=-117dBm
- std=2.12dBm 
+ std=1.26dBm 
 
  	</description>
 	<styleUrl>#Color8</styleUrl>
@@ -27192,11 +27192,11 @@
 	<name>Cell 958</name>
 	<description>Créée le 22-Nov-2019 00:15:18
  par Chris
- #Valeurs =26
- mean=-113.29dBm
+ #Valeurs =27
+ mean=-113.32dBm
  min=-121dBm
  max=-105dBm
- std=4.26dBm 
+ std=4.19dBm 
 
  	</description>
 	<styleUrl>#Color6</styleUrl>
@@ -39666,7 +39666,7 @@
 	<name>Cell 1420</name>
 	<description>Créée le 13-Nov-2019 20:20:19
  par Florian
- #Valeurs =1629
+ #Valeurs =1630
  mean=-110.84dBm
  min=-125dBm
  max=-84dBm
@@ -47604,11 +47604,11 @@
 	<name>Cell 1714</name>
 	<description>Créée le 17-Nov-2019 16:47:08
  par Chris
- #Valeurs =4
- mean=-104.85dBm
+ #Valeurs =5
+ mean=-105.74dBm
  min=-118dBm
  max=-102dBm
- std=8.46dBm 
+ std=7.92dBm 
 
  	</description>
 	<styleUrl>#Color10</styleUrl>
@@ -53706,14 +53706,14 @@
 	<name>Cell 1940</name>
 	<description>Créée le 30-Nov-2019 12:03:39
  par Simon
- #Valeurs =2
- mean=-119.00dBm
- min=-119dBm
- max=-119dBm
- std=0.00dBm 
+ #Valeurs =6
+ mean=-117.99dBm
+ min=-120dBm
+ max=-115dBm
+ std=1.75dBm 
 
  	</description>
-	<styleUrl>#Color9</styleUrl>
+	<styleUrl>#Color8</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -53733,14 +53733,14 @@
 	<name>Cell 1941</name>
 	<description>Créée le 30-Nov-2019 12:04:04
  par Simon
- #Valeurs =4
- mean=-116.40dBm
- min=-119dBm
- max=-115dBm
- std=2.06dBm 
+ #Valeurs =11
+ mean=-115.02dBm
+ min=-123dBm
+ max=-110dBm
+ std=3.88dBm 
 
  	</description>
-	<styleUrl>#Color9</styleUrl>
+	<styleUrl>#Color3</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -60645,11 +60645,11 @@
 	<name>Cell 2197</name>
 	<description>Créée le 19-Nov-2019 18:24:21
  par Simon
- #Valeurs =6
- mean=-118.92dBm
+ #Valeurs =7
+ mean=-115.97dBm
  min=-120dBm
- max=-118dBm
- std=0.89dBm 
+ max=-110dBm
+ std=3.50dBm 
 
  	</description>
 	<styleUrl>#Color8</styleUrl>
@@ -60753,11 +60753,11 @@
 	<name>Cell 2201</name>
 	<description>Créée le 19-Nov-2019 18:28:38
  par Simon
- #Valeurs =6
- mean=-116.77dBm
+ #Valeurs =8
+ mean=-117.27dBm
  min=-121dBm
  max=-112dBm
- std=3.22dBm 
+ std=2.92dBm 
 
  	</description>
 	<styleUrl>#Color6</styleUrl>
@@ -63426,11 +63426,11 @@
 	<name>Cell 2300</name>
 	<description>Créée le 22-Nov-2019 00:14:26
  par Chris
- #Valeurs =3
- mean=-120.31dBm
+ #Valeurs =5
+ mean=-116.70dBm
  min=-121dBm
- max=-120dBm
- std=0.58dBm 
+ max=-112dBm
+ std=3.63dBm 
 
  	</description>
 	<styleUrl>#Color6</styleUrl>
@@ -117039,6 +117039,33 @@
 		5.7187456088,45.1487643788,1.0000000000
 		5.7193813969,45.1487643204,1.0000000000
 		5.7193813118,45.1483144161,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 4286</name>
+	<description>Créée le 16-Dec-2019 18:30:08
+ par Serge B.
+ #Valeurs =1
+ mean=-117.00dBm
+ min=-117dBm
+ max=-117dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color12-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7168433235,45.1838569694,1.0000000000
+		5.7168433886,45.1843068711,1.0000000000
+		5.7174795724,45.1843068233,1.0000000000
+		5.7174795022,45.1838569215,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
