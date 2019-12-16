@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff296193 
-		 #Cells :3357 
-		 #Pkts :15298 
+		 #Cells :3358 
+		 #Pkts :15299 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -91983,6 +91983,33 @@
 		5.7073004079,45.1943849533,1.0000000000
 		5.7075549264,45.1943849558,1.0000000000
 		5.7075549296,45.1942049955,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 3358</name>
+	<description>Créée le 16-Dec-2019 19:09:05
+ par Christophe C.
+ #Valeurs =1
+ mean=-112.00dBm
+ min=-112dBm
+ max=-112dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color19-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6734482458,45.1963591230,1.0000000000
+		5.6734481351,45.1965390833,1.0000000000
+		5.6737026631,45.1965391613,1.0000000000
+		5.6737027730,45.1963592010,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>

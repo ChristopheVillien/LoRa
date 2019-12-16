@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :04-Dec-2019 17:00:00 
 		 EUI :c0ee40ffff296bbe 
-		 #Cells :307 
-		 #Pkts :622 
+		 #Cells :308 
+		 #Pkts :623 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -9633,6 +9633,33 @@
 		5.7274049877,45.1871849883,1.0000000000
 		5.7276594740,45.1871849460,1.0000000000
 		5.7276594138,45.1870049854,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 308</name>
+	<description>Créée le 16-Dec-2019 19:11:43
+ par Christophe C.
+ #Valeurs =1
+ mean=-115.00dBm
+ min=-115dBm
+ max=-115dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color7-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6678487775,45.1961773034,1.0000000000
+		5.6678486491,45.1963572637,1.0000000000
+		5.6681031762,45.1963573541,1.0000000000
+		5.6681033038,45.1961773939,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
