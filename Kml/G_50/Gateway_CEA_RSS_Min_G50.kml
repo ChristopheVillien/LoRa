@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff294218 
-		 #Cells :4194 
-		 #Pkts :66386 
+		 #Cells :4196 
+		 #Pkts :66388 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -114582,6 +114582,60 @@
 		5.7327470287,45.1820551032,1.0000000000
 		5.7333831872,45.1820549667,1.0000000000
 		5.7333829918,45.1816050649,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 4195</name>
+	<description>Créée le 16-Dec-2019 08:01:08
+ par Simon
+ #Valeurs =1
+ mean=-119.00dBm
+ min=-119dBm
+ max=-119dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color9-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7372005896,45.1829538774,1.0000000000
+		5.7372008151,45.1834037791,1.0000000000
+		5.7378369886,45.1834036179,1.0000000000
+		5.7378367581,45.1829537162,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 4196</name>
+	<description>Créée le 16-Dec-2019 08:02:38
+ par Simon
+ #Valeurs =1
+ mean=-118.00dBm
+ min=-118dBm
+ max=-118dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color10-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7416550723,45.1852021827,1.0000000000
+		5.7416553329,45.1856520843,1.0000000000
+		5.7422915315,45.1856518982,1.0000000000
+		5.7422912658,45.1852019966,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
