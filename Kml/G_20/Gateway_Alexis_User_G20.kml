@@ -266,8 +266,8 @@
 	<description> 
 		 Installed :04-Dec-2019 17:00:00 
 		 EUI :c0ee40ffff296bbe 
-		 #Cells :276 
-		 #Pkts :540 
+		 #Cells :280 
+		 #Pkts :558 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -7718,11 +7718,11 @@
 	<name>Cell 276</name>
 	<description>Créée le 16-Dec-2019 18:09:07
  par Alexis F.
- #Valeurs =4
- mean=-24.58dBm
- min=-27dBm
+ #Valeurs =6
+ mean=-24.88dBm
+ min=-28dBm
  max=-24dBm
- std=1.50dBm 
+ std=1.83dBm 
 
  	</description>
 	<styleUrl>#Color11-highlight</styleUrl>
@@ -7736,6 +7736,114 @@
 		5.7312198556,45.1810656319,1.0000000000
 		5.7314743146,45.1810655812,1.0000000000
 		5.7314742424,45.1808856204,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 277</name>
+	<description>Créée le 16-Dec-2019 18:09:52
+ par Alexis F.
+ #Valeurs =5
+ mean=-25.69dBm
+ min=-31dBm
+ max=-23dBm
+ std=2.97dBm 
+
+ 	</description>
+	<styleUrl>#Color11-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7314742424,45.1808856204,1.0000000000
+		5.7314743146,45.1810655812,1.0000000000
+		5.7317287736,45.1810655299,1.0000000000
+		5.7317287007,45.1808855691,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 278</name>
+	<description>Créée le 16-Dec-2019 18:10:16
+ par Alexis F.
+ #Valeurs =2
+ mean=-25.25dBm
+ min=-27dBm
+ max=-24dBm
+ std=2.12dBm 
+
+ 	</description>
+	<styleUrl>#Color11-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7312198556,45.1810656319,1.0000000000
+		5.7312199269,45.1812455927,1.0000000000
+		5.7314743868,45.1812455420,1.0000000000
+		5.7314743146,45.1810655812,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 279</name>
+	<description>Créée le 16-Dec-2019 18:10:32
+ par Alexis F.
+ #Valeurs =5
+ mean=-25.05dBm
+ min=-27dBm
+ max=-24dBm
+ std=1.30dBm 
+
+ 	</description>
+	<styleUrl>#Color11-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7314743146,45.1810655812,1.0000000000
+		5.7314743868,45.1812455420,1.0000000000
+		5.7317288466,45.1812454907,1.0000000000
+		5.7317287736,45.1810655299,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 280</name>
+	<description>Créée le 16-Dec-2019 18:11:29
+ par Alexis F.
+ #Valeurs =4
+ mean=-23.03dBm
+ min=-47dBm
+ max=-18dBm
+ std=13.94dBm 
+
+ 	</description>
+	<styleUrl>#Color11-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7317287007,45.1808855691,1.0000000000
+		5.7317287736,45.1810655299,1.0000000000
+		5.7319832327,45.1810654780,1.0000000000
+		5.7319831589,45.1808855172,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
