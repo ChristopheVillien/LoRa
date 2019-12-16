@@ -186,8 +186,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff294218 
-		 #Cells :4197 
-		 #Pkts :66390 
+		 #Cells :4198 
+		 #Pkts :66392 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -113523,6 +113523,33 @@
 		5.7473826484,45.1878997894,1.0000000000
 		5.7480188720,45.1878995714,1.0000000000
 		5.7480185612,45.1874496700,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 4198</name>
+	<description>Créée le 16-Dec-2019 08:13:12
+ par Simon
+ #Valeurs =2
+ mean=-119.00dBm
+ min=-119dBm
+ max=-119dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color5-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7702905787,45.1914889182,1.0000000000
+		5.7702910650,45.1919388191,1.0000000000
+		5.7709273332,45.1919384735,1.0000000000
+		5.7709268419,45.1914885726,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
