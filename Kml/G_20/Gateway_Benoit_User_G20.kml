@@ -266,8 +266,8 @@
 	<description> 
 		 Installed :01-Dec-2019 00:00:00 
 		 EUI :c0ee40ffff296937 
-		 #Cells :251 
-		 #Pkts :797 
+		 #Cells :254 
+		 #Pkts :834 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -1724,11 +1724,11 @@
 	<name>Cell 54</name>
 	<description>Créée le 16-Dec-2019 15:56:37
  par Simon
- #Valeurs =7
- mean=-91.23dBm
+ #Valeurs =10
+ mean=-92.37dBm
  min=-117dBm
  max=-87dBm
- std=11.17dBm 
+ std=9.70dBm 
 
  	</description>
 	<styleUrl>#Color5-highlight</styleUrl>
@@ -1967,11 +1967,11 @@
 	<name>Cell 63</name>
 	<description>Créée le 04-Dec-2019 08:32:49
  par Benoit
- #Valeurs =15
- mean=-109.01dBm
- min=-115dBm
+ #Valeurs =22
+ mean=-110.11dBm
+ min=-117dBm
  max=-103dBm
- std=3.58dBm 
+ std=3.65dBm 
 
  	</description>
 	<styleUrl>#Color4</styleUrl>
@@ -2021,11 +2021,11 @@
 	<name>Cell 65</name>
 	<description>Créée le 04-Dec-2019 08:34:58
  par Benoit
- #Valeurs =28
- mean=-35.86dBm
+ #Valeurs =33
+ mean=-36.57dBm
  min=-119dBm
  max=-26dBm
- std=26.04dBm 
+ std=24.65dBm 
 
  	</description>
 	<styleUrl>#Color4</styleUrl>
@@ -2237,11 +2237,11 @@
 	<name>Cell 73</name>
 	<description>Créée le 04-Dec-2019 08:39:48
  par Benoit
- #Valeurs =13
- mean=-89.20dBm
+ #Valeurs =18
+ mean=-88.83dBm
  min=-119dBm
- max=-83dBm
- std=13.14dBm 
+ max=-82dBm
+ std=13.28dBm 
 
  	</description>
 	<styleUrl>#Color4</styleUrl>
@@ -2642,11 +2642,11 @@
 	<name>Cell 88</name>
 	<description>Créée le 05-Dec-2019 17:17:33
  par Benoit
- #Valeurs =6
- mean=-86.55dBm
- min=-111dBm
+ #Valeurs =9
+ mean=-88.29dBm
+ min=-112dBm
  max=-79dBm
- std=11.95dBm 
+ std=10.97dBm 
 
  	</description>
 	<styleUrl>#Color4</styleUrl>
@@ -2831,11 +2831,11 @@
 	<name>Cell 95</name>
 	<description>Créée le 06-Dec-2019 08:32:35
  par Benoit
- #Valeurs =6
- mean=-112.48dBm
- min=-117dBm
+ #Valeurs =9
+ mean=-113.16dBm
+ min=-119dBm
  max=-111dBm
- std=2.14dBm 
+ std=2.93dBm 
 
  	</description>
 	<styleUrl>#Color4</styleUrl>
@@ -5531,11 +5531,11 @@
 	<name>Cell 195</name>
 	<description>Créée le 12-Dec-2019 08:29:26
  par Benoit
- #Valeurs =1
- mean=-115.00dBm
- min=-115dBm
+ #Valeurs =4
+ mean=-116.52dBm
+ min=-120dBm
  max=-115dBm
- std=0.00dBm 
+ std=2.45dBm 
 
  	</description>
 	<styleUrl>#Color4</styleUrl>
@@ -7061,6 +7061,87 @@
 		5.7246040217,45.1814266737,1.0000000000
 		5.7248584823,45.1814266377,1.0000000000
 		5.7248584310,45.1812466770,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 252</name>
+	<description>Créée le 17-Dec-2019 13:37:04
+ par Benoit
+ #Valeurs =3
+ mean=-113.88dBm
+ min=-117dBm
+ max=-112dBm
+ std=2.52dBm 
+
+ 	</description>
+	<styleUrl>#Color4-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7261316708,45.1843058208,1.0000000000
+		5.7261317261,45.1844857815,1.0000000000
+		5.7263862004,45.1844857421,1.0000000000
+		5.7263861443,45.1843057814,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 253</name>
+	<description>Créée le 17-Dec-2019 13:38:14
+ par Benoit
+ #Valeurs =4
+ mean=-117.84dBm
+ min=-120dBm
+ max=-117dBm
+ std=1.41dBm 
+
+ 	</description>
+	<styleUrl>#Color4-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7276586921,45.1848454579,1.0000000000
+		5.7276587522,45.1850254185,1.0000000000
+		5.7279132289,45.1850253757,1.0000000000
+		5.7279131679,45.1848454151,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 254</name>
+	<description>Créée le 17-Dec-2019 13:38:52
+ par Benoit
+ #Valeurs =1
+ mean=-119.00dBm
+ min=-119dBm
+ max=-119dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color4-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7284221197,45.1848453278,1.0000000000
+		5.7284221822,45.1850252884,1.0000000000
+		5.7286766589,45.1850252439,1.0000000000
+		5.7286765956,45.1848452832,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
