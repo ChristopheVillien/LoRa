@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff294218 
-		 #Cells :4517 
-		 #Pkts :70733 
+		 #Cells :4518 
+		 #Pkts :70743 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -28893,11 +28893,11 @@
 	<name>Cell 1021</name>
 	<description>Créée le 23-Nov-2019 11:12:28
  par Chris
- #Valeurs =3
- mean=-107.58dBm
+ #Valeurs =6
+ mean=-109.79dBm
  min=-120dBm
  max=-103dBm
- std=9.54dBm 
+ std=6.85dBm 
 
  	</description>
 	<styleUrl>#Color14</styleUrl>
@@ -60132,11 +60132,11 @@
 	<name>Cell 2178</name>
 	<description>Créée le 22-Nov-2019 19:09:02
  par Simon
- #Valeurs =2
- mean=-109.55dBm
- min=-112dBm
+ #Valeurs =4
+ mean=-112.04dBm
+ min=-119dBm
  max=-108dBm
- std=2.83dBm 
+ std=5.19dBm 
 
  	</description>
 	<styleUrl>#Color11</styleUrl>
@@ -63912,14 +63912,14 @@
 	<name>Cell 2318</name>
 	<description>Créée le 09-Dec-2019 08:26:36
  par Simon
- #Valeurs =1
- mean=-120.00dBm
- min=-120dBm
- max=-120dBm
- std=0.00dBm 
+ #Valeurs =4
+ mean=-118.06dBm
+ min=-123dBm
+ max=-115dBm
+ std=3.37dBm 
 
  	</description>
-	<styleUrl>#Color4</styleUrl>
+	<styleUrl>#Color7</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -123303,6 +123303,33 @@
 		5.7123904333,45.1892560236,1.0000000000
 		5.7130266721,45.1892560005,1.0000000000
 		5.7130266371,45.1888060992,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 4518</name>
+	<description>Créée le 17-Dec-2019 19:47:56
+ par Hugo L.
+ #Valeurs =2
+ mean=-117.47dBm
+ min=-118dBm
+ max=-117dBm
+ std=0.71dBm 
+
+ 	</description>
+	<styleUrl>#Color5-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7123898619,45.1807078919,1.0000000000
+		5.7123898920,45.1811577939,1.0000000000
+		5.7130260406,45.1811577708,1.0000000000
+		5.7130260056,45.1807078689,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
