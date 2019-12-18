@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :04-Dec-2019 17:00:00 
 		 EUI :c0ee40ffff296bbe 
-		 #Cells :193 
-		 #Pkts :714 
+		 #Cells :194 
+		 #Pkts :718 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -4107,11 +4107,11 @@
 	<name>Cell 103</name>
 	<description>Créée le 06-Dec-2019 07:23:20
  par Florian
- #Valeurs =3
- mean=-116.18dBm
+ #Valeurs =6
+ mean=-117.08dBm
  min=-119dBm
  max=-114dBm
- std=2.52dBm 
+ std=1.97dBm 
 
  	</description>
 	<styleUrl>#Color9</styleUrl>
@@ -6220,7 +6220,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color9-highlight</styleUrl>
+	<styleUrl>#Color9</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -6247,7 +6247,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color12-highlight</styleUrl>
+	<styleUrl>#Color12</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -6555,6 +6555,33 @@
 		5.7314772375,45.1883539880,1.0000000000
 		5.7321134663,45.1883538586,1.0000000000
 		5.7321132808,45.1879039572,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 194</name>
+	<description>Créée le 18-Dec-2019 14:00:56
+ par Aleksandra
+ #Valeurs =1
+ mean=-115.00dBm
+ min=-115dBm
+ max=-115dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color15-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7270233454,45.1874549915,1.0000000000
+		5.7270234908,45.1879048929,1.0000000000
+		5.7276597146,45.1879047883,1.0000000000
+		5.7276595642,45.1874548869,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
