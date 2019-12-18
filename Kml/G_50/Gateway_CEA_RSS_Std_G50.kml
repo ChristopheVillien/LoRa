@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff294218 
-		 #Cells :4712 
-		 #Pkts :73887 
+		 #Cells :4713 
+		 #Pkts :73888 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -128568,6 +128568,33 @@
 		5.6595679467,45.2063417993,1.0000000000
 		5.6602043757,45.2063420706,1.0000000000
 		5.6602047569,45.2058921707,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 4713</name>
+	<description>Créée le 18-Dec-2019 21:12:21
+ par Hugo L.
+ #Valeurs =1
+ mean=-101.00dBm
+ min=-101dBm
+ max=-101dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7263874073,45.1883548953,1.0000000000
+		5.7263875477,45.1888047967,1.0000000000
+		5.7270237815,45.1888046957,1.0000000000
+		5.7270236361,45.1883547943,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
