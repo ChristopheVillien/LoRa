@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff296193 
-		 #Cells :5935 
-		 #Pkts :15540 
+		 #Cells :5936 
+		 #Pkts :15541 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -161589,6 +161589,33 @@
 		5.6969944560,45.1843065836,1.0000000000
 		5.6971216927,45.1843065965,1.0000000000
 		5.6971217108,45.1842166161,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 5936</name>
+	<description>Créée le 18-Dec-2019 07:43:17
+ par Florian
+ #Valeurs =1
+ mean=-117.00dBm
+ min=-117dBm
+ max=-117dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color5-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7153173446,45.1910554933,1.0000000000
+		5.7153173553,45.1911454736,1.0000000000
+		5.7154446072,45.1911454660,1.0000000000
+		5.7154445964,45.1910554857,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
