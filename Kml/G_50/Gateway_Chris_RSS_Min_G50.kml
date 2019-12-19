@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff296193 
-		 #Cells :1848 
-		 #Pkts :16489 
+		 #Cells :1849 
+		 #Pkts :16496 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -18282,11 +18282,11 @@
 	<name>Cell 628</name>
 	<description>Créée le 15-Dec-2019 13:09:24
  par Chris
- #Valeurs =18
- mean=-115.60dBm
+ #Valeurs =19
+ mean=-115.57dBm
  min=-120dBm
  max=-109dBm
- std=2.50dBm 
+ std=2.46dBm 
 
  	</description>
 	<styleUrl>#Color8</styleUrl>
@@ -40449,11 +40449,11 @@
 	<name>Cell 1449</name>
 	<description>Créée le 13-Dec-2019 19:59:29
  par Christophe C.
- #Valeurs =9
- mean=-116.12dBm
+ #Valeurs =11
+ mean=-116.27dBm
  min=-120dBm
  max=-113dBm
- std=2.29dBm 
+ std=2.05dBm 
 
  	</description>
 	<styleUrl>#Color8</styleUrl>
@@ -41259,11 +41259,11 @@
 	<name>Cell 1479</name>
 	<description>Créée le 16-Dec-2019 09:34:21
  par Christophe C.
- #Valeurs =5
- mean=-115.31dBm
+ #Valeurs =6
+ mean=-115.26dBm
  min=-119dBm
  max=-112dBm
- std=2.65dBm 
+ std=2.40dBm 
 
  	</description>
 	<styleUrl>#Color9</styleUrl>
@@ -41313,14 +41313,14 @@
 	<name>Cell 1481</name>
 	<description>Créée le 16-Dec-2019 09:37:07
  par Christophe C.
- #Valeurs =1
- mean=-115.00dBm
- min=-115dBm
+ #Valeurs =2
+ mean=-115.89dBm
+ min=-117dBm
  max=-115dBm
- std=0.00dBm 
+ std=1.41dBm 
 
  	</description>
-	<styleUrl>#Color15</styleUrl>
+	<styleUrl>#Color12</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -50979,11 +50979,11 @@
 	<name>Cell 1839</name>
 	<description>Créée le 18-Dec-2019 19:05:35
  par Christophe C.
- #Valeurs =1
- mean=-117.00dBm
+ #Valeurs =2
+ mean=-112.22dBm
  min=-117dBm
- max=-117dBm
- std=0.00dBm 
+ max=-110dBm
+ std=4.95dBm 
 
  	</description>
 	<styleUrl>#Color12-highlight</styleUrl>
@@ -51240,6 +51240,33 @@
 		5.6716662069,45.1968984420,1.0000000000
 		5.6723025308,45.1968986458,1.0000000000
 		5.6723028166,45.1964487452,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 1849</name>
+	<description>Créée le 19-Dec-2019 08:01:33
+ par Christophe C.
+ #Valeurs =1
+ mean=-119.00dBm
+ min=-119dBm
+ max=-119dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color9-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6888486631,45.1919537916,1.0000000000
+		5.6888485077,45.1924036927,1.0000000000
+		5.6894847816,45.1924038008,1.0000000000
+		5.6894849320,45.1919538997,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
