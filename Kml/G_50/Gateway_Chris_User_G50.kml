@@ -306,8 +306,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff296193 
-		 #Cells :1929 
-		 #Pkts :17681 
+		 #Cells :1930 
+		 #Pkts :17682 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -49885,7 +49885,7 @@
  std=0.96dBm 
 
  	</description>
-	<styleUrl>#Color7-highlight</styleUrl>
+	<styleUrl>#Color7</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -49912,7 +49912,7 @@
  std=1.41dBm 
 
  	</description>
-	<styleUrl>#Color7-highlight</styleUrl>
+	<styleUrl>#Color7</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -49939,7 +49939,7 @@
  std=5.66dBm 
 
  	</description>
-	<styleUrl>#Color7-highlight</styleUrl>
+	<styleUrl>#Color7</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -49966,7 +49966,7 @@
  std=4.95dBm 
 
  	</description>
-	<styleUrl>#Color7-highlight</styleUrl>
+	<styleUrl>#Color7</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -49993,7 +49993,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color7-highlight</styleUrl>
+	<styleUrl>#Color7</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -50020,7 +50020,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color12-highlight</styleUrl>
+	<styleUrl>#Color12</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -50047,7 +50047,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color12-highlight</styleUrl>
+	<styleUrl>#Color12</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -50074,7 +50074,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color12-highlight</styleUrl>
+	<styleUrl>#Color12</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -50101,7 +50101,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color7-highlight</styleUrl>
+	<styleUrl>#Color7</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -50128,7 +50128,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color7-highlight</styleUrl>
+	<styleUrl>#Color7</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -50155,7 +50155,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color12-highlight</styleUrl>
+	<styleUrl>#Color12</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -52407,6 +52407,33 @@
 		5.6773904191,45.2018490542,1.0000000000
 		5.6780267981,45.2018492262,1.0000000000
 		5.6780270389,45.2013993259,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 1930</name>
+	<description>Créée le 19-Dec-2019 18:51:43
+ par Valerian M.
+ #Valeurs =1
+ mean=-115.00dBm
+ min=-115dBm
+ max=-115dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color12-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6589311266,45.2067914242,1.0000000000
+		5.6589307353,45.2072413240,1.0000000000
+		5.6595671743,45.2072415988,1.0000000000
+		5.6595675605,45.2067916991,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
