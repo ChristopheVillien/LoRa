@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff294218 
-		 #Cells :5133 
-		 #Pkts :81880 
+		 #Cells :5134 
+		 #Pkts :81902 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -63399,14 +63399,14 @@
 	<name>Cell 2299</name>
 	<description>Créée le 30-Nov-2019 12:05:27
  par Simon
- #Valeurs =3
- mean=-117.64dBm
+ #Valeurs =7
+ mean=-117.18dBm
  min=-120dBm
- max=-115dBm
- std=2.89dBm 
+ max=-114dBm
+ std=2.54dBm 
 
  	</description>
-	<styleUrl>#Color10</styleUrl>
+	<styleUrl>#Color9</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -98499,14 +98499,14 @@
 	<name>Cell 3599</name>
 	<description>Créée le 25-Nov-2019 12:55:52
  par Nico
- #Valeurs =1
- mean=-114.00dBm
+ #Valeurs =4
+ mean=-108.51dBm
  min=-114dBm
- max=-114dBm
- std=0.00dBm 
+ max=-104dBm
+ std=4.43dBm 
 
  	</description>
-	<styleUrl>#Color1</styleUrl>
+	<styleUrl>#Color15</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -123123,14 +123123,14 @@
 	<name>Cell 4511</name>
 	<description>Créée le 17-Dec-2019 18:53:03
  par Hugo L.
- #Valeurs =5
- mean=-117.11dBm
+ #Valeurs =12
+ mean=-113.93dBm
  min=-120dBm
- max=-114dBm
- std=2.19dBm 
+ max=-106dBm
+ std=3.82dBm 
 
  	</description>
-	<styleUrl>#Color8</styleUrl>
+	<styleUrl>#Color13</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -139917,14 +139917,14 @@
 	<name>Cell 5133</name>
 	<description>Créée le 20-Dec-2019 22:37:02
  par Hugo L.
- #Valeurs =1
- mean=-113.00dBm
- min=-113dBm
- max=-113dBm
- std=0.00dBm 
+ #Valeurs =8
+ mean=-114.79dBm
+ min=-120dBm
+ max=-110dBm
+ std=3.30dBm 
 
  	</description>
-	<styleUrl>#Color1-highlight</styleUrl>
+	<styleUrl>#Color11-highlight</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -139935,6 +139935,33 @@
 		5.7123900423,45.1834073032,1.0000000000
 		5.7130262160,45.1834072802,1.0000000000
 		5.7130261810,45.1829573784,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 5134</name>
+	<description>Créée le 20-Dec-2019 22:40:26
+ par Hugo L.
+ #Valeurs =1
+ mean=-118.00dBm
+ min=-118dBm
+ max=-118dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7130261810,45.1829573784,1.0000000000
+		5.7130262160,45.1834072802,1.0000000000
+		5.7136623898,45.1834072536,1.0000000000
+		5.7136623497,45.1829573518,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>

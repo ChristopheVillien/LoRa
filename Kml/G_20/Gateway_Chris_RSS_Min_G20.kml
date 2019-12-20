@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff296193 
-		 #Cells :4431 
-		 #Pkts :19501 
+		 #Cells :4432 
+		 #Pkts :19502 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -120981,6 +120981,33 @@
 		5.6989060534,45.1663106656,1.0000000000
 		5.6991604467,45.1663106869,1.0000000000
 		5.6991604764,45.1661307257,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 4432</name>
+	<description>Créée le 20-Dec-2019 22:40:03
+ par Hugo L.
+ #Valeurs =1
+ mean=-108.00dBm
+ min=-108dBm
+ max=-108dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color25-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7128989268,45.1826874422,1.0000000000
+		5.7128989404,45.1828674029,1.0000000000
+		5.7131534075,45.1828673930,1.0000000000
+		5.7131533931,45.1826874323,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
