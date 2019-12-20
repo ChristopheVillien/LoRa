@@ -1327,7 +1327,7 @@
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff294218 
 		 #Cells :5066 
-		 #Pkts :80808 
+		 #Pkts :80823 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -138081,11 +138081,11 @@
 	<name>Cell 5065</name>
 	<description>Créée le 20-Dec-2019 16:18:56
  par Valerian M.
- #Valeurs =2
- mean=-114.00dBm
- min=-114dBm
+ #Valeurs =4
+ mean=-116.04dBm
+ min=-120dBm
  max=-114dBm
- std=0.00dBm 
+ std=3.46dBm 
 
  	</description>
 	<styleUrl>#Color7-highlight</styleUrl>
@@ -138108,14 +138108,14 @@
 	<name>Cell 5066</name>
 	<description>Créée le 20-Dec-2019 16:19:11
  par Valerian M.
- #Valeurs =5
- mean=-119.09dBm
+ #Valeurs =18
+ mean=-117.11dBm
  min=-121dBm
- max=-117dBm
- std=1.82dBm 
+ max=-111dBm
+ std=2.72dBm 
 
  	</description>
-	<styleUrl>#Color5-highlight</styleUrl>
+	<styleUrl>#Color9-highlight</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
