@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff296193 
-		 #Cells :2080 
-		 #Pkts :19457 
+		 #Cells :2081 
+		 #Pkts :19458 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -52120,7 +52120,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color6-highlight</styleUrl>
+	<styleUrl>#Color6</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -53038,7 +53038,7 @@
  std=1.41dBm 
 
  	</description>
-	<styleUrl>#Color8-highlight</styleUrl>
+	<styleUrl>#Color8</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -57504,6 +57504,33 @@
 		5.7136627105,45.1870064668,1.0000000000
 		5.7142989243,45.1870064367,1.0000000000
 		5.7142988792,45.1865565352,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2081</name>
+	<description>Créée le 20-Dec-2019 17:57:54
+ par David D.
+ #Valeurs =1
+ mean=-117.00dBm
+ min=-117dBm
+ max=-117dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color7-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7136626303,45.1861066637,1.0000000000
+		5.7136626704,45.1865565653,1.0000000000
+		5.7142988792,45.1865565352,1.0000000000
+		5.7142988341,45.1861066336,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
