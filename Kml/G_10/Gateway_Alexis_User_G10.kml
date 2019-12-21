@@ -326,8 +326,8 @@
 	<description> 
 		 Installed :04-Dec-2019 17:00:00 
 		 EUI :c0ee40ffff296bbe 
-		 #Cells :527 
-		 #Pkts :851 
+		 #Cells :530 
+		 #Pkts :856 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -1541,11 +1541,11 @@
 	<name>Cell 45</name>
 	<description>Créée le 06-Dec-2019 17:29:30
  par Simon
- #Valeurs =1
- mean=-111.00dBm
- min=-111dBm
+ #Valeurs =2
+ mean=-113.37dBm
+ min=-119dBm
  max=-111dBm
- std=0.00dBm 
+ std=5.66dBm 
 
  	</description>
 	<styleUrl>#Color5</styleUrl>
@@ -4457,11 +4457,11 @@
 	<name>Cell 153</name>
 	<description>Créée le 07-Dec-2019 18:41:20
  par Benoit
- #Valeurs =1
- mean=-119.00dBm
+ #Valeurs =2
+ mean=-117.89dBm
  min=-119dBm
- max=-119dBm
- std=0.00dBm 
+ max=-117dBm
+ std=1.41dBm 
 
  	</description>
 	<styleUrl>#Color4</styleUrl>
@@ -14573,6 +14573,87 @@
 		5.6758667692,45.1954600396,1.0000000000
 		5.6759940307,45.1954600760,1.0000000000
 		5.6759940821,45.1953700958,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 528</name>
+	<description>Créée le 21-Dec-2019 11:23:33
+ par Hugo L.
+ #Valeurs =1
+ mean=-120.00dBm
+ min=-120dBm
+ max=-120dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color13-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7270216885,45.1823261126,1.0000000000
+		5.7270217175,45.1824160930,1.0000000000
+		5.7271489501,45.1824160724,1.0000000000
+		5.7271489208,45.1823260920,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 529</name>
+	<description>Créée le 21-Dec-2019 11:24:28
+ par Hugo L.
+ #Valeurs =1
+ mean=-115.00dBm
+ min=-115dBm
+ max=-115dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color13-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7296936338,45.1825056105,1.0000000000
+		5.7296936671,45.1825955909,1.0000000000
+		5.7298209000,45.1825955673,1.0000000000
+		5.7298208665,45.1825055869,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 530</name>
+	<description>Créée le 21-Dec-2019 11:24:36
+ par Hugo L.
+ #Valeurs =1
+ mean=-120.00dBm
+ min=-120dBm
+ max=-120dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color13-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7298208665,45.1825055869,1.0000000000
+		5.7298209000,45.1825955673,1.0000000000
+		5.7299481329,45.1825955435,1.0000000000
+		5.7299480993,45.1825055632,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
