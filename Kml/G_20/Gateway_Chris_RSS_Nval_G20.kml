@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff296193 
-		 #Cells :4433 
-		 #Pkts :19503 
+		 #Cells :4435 
+		 #Pkts :19510 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -85188,14 +85188,14 @@
 	<name>Cell 3106</name>
 	<description>Créée le 17-Dec-2019 08:05:48
  par Christophe C.
- #Valeurs =6
- mean=-115.65dBm
+ #Valeurs =7
+ mean=-115.82dBm
  min=-120dBm
  max=-113dBm
- std=2.40dBm 
+ std=2.21dBm 
 
  	</description>
-	<styleUrl>#Color20</styleUrl>
+	<styleUrl>#Color23</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -113673,14 +113673,14 @@
 	<name>Cell 4161</name>
 	<description>Créée le 20-Dec-2019 08:24:31
  par Christophe C.
- #Valeurs =1
- mean=-115.00dBm
- min=-115dBm
+ #Valeurs =2
+ mean=-116.55dBm
+ min=-119dBm
  max=-115dBm
- std=0.00dBm 
+ std=2.83dBm 
 
  	</description>
-	<styleUrl>#Color4</styleUrl>
+	<styleUrl>#Color7</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -113700,14 +113700,14 @@
 	<name>Cell 4162</name>
 	<description>Créée le 20-Dec-2019 08:24:40
  par Christophe C.
- #Valeurs =5
- mean=-115.94dBm
+ #Valeurs =7
+ mean=-116.11dBm
  min=-119dBm
  max=-115dBm
- std=1.79dBm 
+ std=1.90dBm 
 
  	</description>
-	<styleUrl>#Color17</styleUrl>
+	<styleUrl>#Color23</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -113727,14 +113727,14 @@
 	<name>Cell 4163</name>
 	<description>Créée le 20-Dec-2019 08:25:44
  par Christophe C.
- #Valeurs =3
- mean=-111.55dBm
+ #Valeurs =4
+ mean=-112.40dBm
  min=-117dBm
  max=-108dBm
- std=4.73dBm 
+ std=4.27dBm 
 
  	</description>
-	<styleUrl>#Color10</styleUrl>
+	<styleUrl>#Color13</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -115111,7 +115111,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color4-highlight</styleUrl>
+	<styleUrl>#Color4</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -115138,7 +115138,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color4-highlight</styleUrl>
+	<styleUrl>#Color4</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -115165,7 +115165,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color4-highlight</styleUrl>
+	<styleUrl>#Color4</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -115192,7 +115192,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color4-highlight</styleUrl>
+	<styleUrl>#Color4</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -115219,7 +115219,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color4-highlight</styleUrl>
+	<styleUrl>#Color4</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -115246,7 +115246,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color4-highlight</styleUrl>
+	<styleUrl>#Color4</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -121035,6 +121035,60 @@
 		5.6716666722,45.1961786009,1.0000000000
 		5.6719211985,45.1961786829,1.0000000000
 		5.6719213141,45.1959987226,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 4434</name>
+	<description>Créée le 21-Dec-2019 12:05:04
+ par Christophe C.
+ #Valeurs =1
+ mean=-115.00dBm
+ min=-115dBm
+ max=-115dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color4-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6716666722,45.1961786009,1.0000000000
+		5.6716665559,45.1963585612,1.0000000000
+		5.6719210830,45.1963586432,1.0000000000
+		5.6719211985,45.1961786829,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 4435</name>
+	<description>Créée le 21-Dec-2019 12:05:12
+ par Christophe C.
+ #Valeurs =1
+ mean=-115.00dBm
+ min=-115dBm
+ max=-115dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color4-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6719211985,45.1961786829,1.0000000000
+		5.6719210830,45.1963586432,1.0000000000
+		5.6721756102,45.1963587246,1.0000000000
+		5.6721757249,45.1961787643,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>

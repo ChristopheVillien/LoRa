@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff296193 
-		 #Cells :2089 
-		 #Pkts :19506 
+		 #Cells :2090 
+		 #Pkts :19510 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -51222,11 +51222,11 @@
 	<name>Cell 1848</name>
 	<description>Créée le 19-Dec-2019 07:57:24
  par Christophe C.
- #Valeurs =3
- mean=-117.00dBm
- min=-117dBm
+ #Valeurs =4
+ mean=-117.42dBm
+ min=-119dBm
  max=-117dBm
- std=0.00dBm 
+ std=1.00dBm 
 
  	</description>
 	<styleUrl>#Color5</styleUrl>
@@ -54678,11 +54678,11 @@
 	<name>Cell 1976</name>
 	<description>Créée le 20-Dec-2019 08:24:40
  par Christophe C.
- #Valeurs =15
- mean=-114.66dBm
+ #Valeurs =16
+ mean=-114.77dBm
  min=-119dBm
  max=-108dBm
- std=2.76dBm 
+ std=2.69dBm 
 
  	</description>
 	<styleUrl>#Color11</styleUrl>
@@ -55252,7 +55252,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color4-highlight</styleUrl>
+	<styleUrl>#Color4</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -55279,7 +55279,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color8-highlight</styleUrl>
+	<styleUrl>#Color8</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -55306,7 +55306,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color4-highlight</styleUrl>
+	<styleUrl>#Color4</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -57747,6 +57747,33 @@
 		5.7130261810,45.1829573784,1.0000000000
 		5.7136623497,45.1829573518,1.0000000000
 		5.7136623096,45.1825074500,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2090</name>
+	<description>Créée le 21-Dec-2019 12:07:40
+ par Christophe C.
+ #Valeurs =2
+ mean=-116.55dBm
+ min=-119dBm
+ max=-115dBm
+ std=2.83dBm 
+
+ 	</description>
+	<styleUrl>#Color7-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6716662069,45.1968984420,1.0000000000
+		5.6716659161,45.1973483426,1.0000000000
+		5.6723022450,45.1973485465,1.0000000000
+		5.6723025308,45.1968986458,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
