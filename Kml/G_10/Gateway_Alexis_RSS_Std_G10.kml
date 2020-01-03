@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :04-Dec-2019 17:00:00 
 		 EUI :c0ee40ffff296bbe 
-		 #Cells :619 
-		 #Pkts :1001 
+		 #Cells :620 
+		 #Pkts :1002 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -18057,6 +18057,33 @@
 		5.6693734025,45.1998670222,1.0000000000
 		5.6695006739,45.1998670658,1.0000000000
 		5.6695007355,45.1997770857,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 620</name>
+	<description>Créée le 03-Jan-2020 17:57:38
+ par Chris
+ #Valeurs =1
+ mean=-119.00dBm
+ min=-119dBm
+ max=-119dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7019571686,45.1801678816,1.0000000000
+		5.7019571582,45.1802578620,1.0000000000
+		5.7020843859,45.1802578693,1.0000000000
+		5.7020843961,45.1801678889,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
