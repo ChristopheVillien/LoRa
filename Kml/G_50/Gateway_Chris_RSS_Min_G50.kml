@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff296193 
-		 #Cells :2330 
-		 #Pkts :21370 
+		 #Cells :2331 
+		 #Pkts :21371 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -64254,6 +64254,33 @@
 		5.6971280041,45.1528133955,1.0000000000
 		5.6977638372,45.1528134574,1.0000000000
 		5.6977639223,45.1523635534,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2331</name>
+	<description>Créée le 03-Jan-2020 17:46:25
+ par Chris
+ #Valeurs =1
+ mean=-111.00dBm
+ min=-111dBm
+ max=-111dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color20-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6971286349,45.1496640669,1.0000000000
+		5.6971285448,45.1501139710,1.0000000000
+		5.6977643478,45.1501140330,1.0000000000
+		5.6977644329,45.1496641288,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
