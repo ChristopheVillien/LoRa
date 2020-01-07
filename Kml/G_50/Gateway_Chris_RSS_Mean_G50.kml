@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff296193 
-		 #Cells :2422 
-		 #Pkts :22649 
+		 #Cells :2425 
+		 #Pkts :22654 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -15474,11 +15474,11 @@
 	<name>Cell 524</name>
 	<description>Créée le 05-Dec-2019 00:10:58
  par Chris
- #Valeurs =5
- mean=-114.50dBm
+ #Valeurs =6
+ mean=-114.58dBm
  min=-119dBm
  max=-112dBm
- std=2.86dBm 
+ std=2.56dBm 
 
  	</description>
 	<styleUrl>#Color9</styleUrl>
@@ -61239,14 +61239,14 @@
 	<name>Cell 2219</name>
 	<description>Créée le 22-Dec-2019 11:16:29
  par Hugo L.
- #Valeurs =5
- mean=-116.93dBm
+ #Valeurs =6
+ mean=-114.21dBm
  min=-120dBm
- max=-115dBm
- std=1.79dBm 
+ max=-109dBm
+ std=3.71dBm 
 
  	</description>
-	<styleUrl>#Color7</styleUrl>
+	<styleUrl>#Color10</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -66511,7 +66511,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color14-highlight</styleUrl>
+	<styleUrl>#Color14</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -66738,6 +66738,87 @@
 		5.6729368890,45.2000481498,1.0000000000
 		5.6735732480,45.2000483466,1.0000000000
 		5.6735735238,45.1995984462,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2423</name>
+	<description>Créée le 07-Jan-2020 18:57:39
+ par Hugo L.
+ #Valeurs =1
+ mean=-115.00dBm
+ min=-115dBm
+ max=-115dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color9-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7092092138,45.1870065785,1.0000000000
+		5.7092092188,45.1874564800,1.0000000000
+		5.7098454377,45.1874564747,1.0000000000
+		5.7098454276,45.1870065732,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2424</name>
+	<description>Créée le 07-Jan-2020 18:58:11
+ par Hugo L.
+ #Valeurs =1
+ mean=-117.00dBm
+ min=-117dBm
+ max=-117dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color7-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7098453875,45.1852069668,1.0000000000
+		5.7098453976,45.1856568685,1.0000000000
+		5.7104815963,45.1856568596,1.0000000000
+		5.7104815813,45.1852069580,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2425</name>
+	<description>Créée le 07-Jan-2020 18:59:00
+ par Hugo L.
+ #Valeurs =1
+ mean=-117.00dBm
+ min=-117dBm
+ max=-117dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color7-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7098453575,45.1838572617,1.0000000000
+		5.7098453675,45.1843071634,1.0000000000
+		5.7104815512,45.1843071546,1.0000000000
+		5.7104815362,45.1838572528,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
