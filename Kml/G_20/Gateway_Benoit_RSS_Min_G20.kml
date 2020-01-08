@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Dec-2019 00:00:00 
 		 EUI :c0ee40ffff296937 
-		 #Cells :371 
-		 #Pkts :3336 
+		 #Cells :372 
+		 #Pkts :3360 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -2811,11 +2811,11 @@
 	<name>Cell 55</name>
 	<description>Créée le 16-Dec-2019 15:56:50
  par Simon
- #Valeurs =85
- mean=-33.95dBm
+ #Valeurs =89
+ mean=-34.15dBm
  min=-105dBm
  max=-25dBm
- std=29.05dBm 
+ std=28.89dBm 
 
  	</description>
 	<styleUrl>#Color29</styleUrl>
@@ -3081,11 +3081,11 @@
 	<name>Cell 65</name>
 	<description>Créée le 04-Dec-2019 08:34:58
  par Benoit
- #Valeurs =58
- mean=-39.02dBm
+ #Valeurs =65
+ mean=-39.52dBm
  min=-119dBm
  max=-26dBm
- std=19.94dBm 
+ std=19.02dBm 
 
  	</description>
 	<styleUrl>#Color9</styleUrl>
@@ -3108,11 +3108,11 @@
 	<name>Cell 66</name>
 	<description>Créée le 04-Dec-2019 08:35:22
  par Benoit
- #Valeurs =74
- mean=-34.46dBm
+ #Valeurs =77
+ mean=-34.63dBm
  min=-107dBm
  max=-28dBm
- std=26.19dBm 
+ std=25.82dBm 
 
  	</description>
 	<styleUrl>#Color26</styleUrl>
@@ -3243,11 +3243,11 @@
 	<name>Cell 71</name>
 	<description>Créée le 04-Dec-2019 08:38:11
  par Benoit
- #Valeurs =57
- mean=-32.94dBm
+ #Valeurs =59
+ mean=-33.09dBm
  min=-109dBm
  max=-26dBm
- std=29.70dBm 
+ std=29.62dBm 
 
  	</description>
 	<styleUrl>#Color23</styleUrl>
@@ -3297,11 +3297,11 @@
 	<name>Cell 73</name>
 	<description>Créée le 04-Dec-2019 08:39:48
  par Benoit
- #Valeurs =27
- mean=-86.89dBm
+ #Valeurs =29
+ mean=-85.06dBm
  min=-119dBm
- max=-77dBm
- std=12.70dBm 
+ max=-76dBm
+ std=13.22dBm 
 
  	</description>
 	<styleUrl>#Color9</styleUrl>
@@ -3432,11 +3432,11 @@
 	<name>Cell 78</name>
 	<description>Créée le 05-Dec-2019 08:27:57
  par Benoit
- #Valeurs =19
- mean=-35.75dBm
+ #Valeurs =23
+ mean=-36.58dBm
  min=-107dBm
  max=-29dBm
- std=30.14dBm 
+ std=27.37dBm 
 
  	</description>
 	<styleUrl>#Color26</styleUrl>
@@ -11361,6 +11361,33 @@
 		5.7251135684,45.1835861300,1.0000000000
 		5.7253680387,45.1835860929,1.0000000000
 		5.7253679858,45.1834061322,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 372</name>
+	<description>Créée le 08-Jan-2020 17:53:22
+ par Benoit
+ #Valeurs =2
+ mean=-81.90dBm
+ min=-95dBm
+ max=-79dBm
+ std=11.31dBm 
+
+ 	</description>
+	<styleUrl>#Color43-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7256225627,45.1837660159,1.0000000000
+		5.7256226164,45.1839459766,1.0000000000
+		5.7258770883,45.1839459383,1.0000000000
+		5.7258770338,45.1837659776,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
