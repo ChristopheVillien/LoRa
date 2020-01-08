@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Dec-2019 00:00:00 
 		 EUI :c0ee40ffff296904 
-		 #Cells :0 
-		 #Pkts :0 
+		 #Cells :4 
+		 #Pkts :22 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -1349,5 +1349,113 @@
 	<coordinates>0.0000000000,0.0000000000,0</coordinates>
 	</Point>
 	</Placemark>
+<Placemark>
+	<name>Cell 1</name>
+	<description>Créée le 08-Jan-2020 15:18:59
+ par Valerian M.
+ #Valeurs =5
+ mean=-114.39dBm
+ min=-118dBm
+ max=-112dBm
+ std=2.17dBm 
+
+ 	</description>
+	<styleUrl>#Color10-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7047549651,45.1982540433,1.0000000000
+		5.7047549350,45.1987039439,1.0000000000
+		5.7053912792,45.1987039634,1.0000000000
+		5.7053913043,45.1982540628,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2</name>
+	<description>Créée le 08-Jan-2020 15:19:58
+ par Valerian M.
+ #Valeurs =8
+ mean=-114.48dBm
+ min=-118dBm
+ max=-112dBm
+ std=1.67dBm 
+
+ 	</description>
+	<styleUrl>#Color9-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7047549952,45.1978041427,1.0000000000
+		5.7047549651,45.1982540433,1.0000000000
+		5.7053913043,45.1982540628,1.0000000000
+		5.7053913293,45.1978041622,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 3</name>
+	<description>Créée le 08-Jan-2020 15:21:02
+ par Valerian M.
+ #Valeurs =5
+ mean=-115.46dBm
+ min=-118dBm
+ max=-115dBm
+ std=1.34dBm 
+
+ 	</description>
+	<styleUrl>#Color9-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7053913293,45.1978041622,1.0000000000
+		5.7053913043,45.1982540628,1.0000000000
+		5.7060276434,45.1982540788,1.0000000000
+		5.7060276635,45.1978041781,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 4</name>
+	<description>Créée le 08-Jan-2020 15:21:19
+ par Valerian M.
+ #Valeurs =4
+ mean=-115.12dBm
+ min=-117dBm
+ max=-114dBm
+ std=1.26dBm 
+
+ 	</description>
+	<styleUrl>#Color9-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7053913043,45.1982540628,1.0000000000
+		5.7053912792,45.1987039634,1.0000000000
+		5.7060276233,45.1987039794,1.0000000000
+		5.7060276434,45.1982540788,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
 </Document>
 </kml>

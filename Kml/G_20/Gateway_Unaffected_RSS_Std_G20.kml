@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Dec-2019 00:00:00 
 		 EUI :c0ee40ffff296904 
-		 #Cells :0 
-		 #Pkts :0 
+		 #Cells :1 
+		 #Pkts :15 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -1349,5 +1349,32 @@
 	<coordinates>0.0000000000,0.0000000000,0</coordinates>
 	</Point>
 	</Placemark>
+<Placemark>
+	<name>Cell 1</name>
+	<description>Créée le 08-Jan-2020 15:18:59
+ par Valerian M.
+ #Valeurs =15
+ mean=-114.65dBm
+ min=-118dBm
+ max=-112dBm
+ std=1.85dBm 
+
+ 	</description>
+	<styleUrl>#Color6-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7052640416,45.1981640791,1.0000000000
+		5.7052640312,45.1983440393,1.0000000000
+		5.7055185673,45.1983440464,1.0000000000
+		5.7055185769,45.1981640862,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
 </Document>
 </kml>
