@@ -326,8 +326,8 @@
 	<description> 
 		 Installed :04-Dec-2019 17:00:00 
 		 EUI :c0ee40ffff296bbe 
-		 #Cells :534 
-		 #Pkts :1205 
+		 #Cells :535 
+		 #Pkts :1207 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -14762,6 +14762,33 @@
 		5.7271495062,45.1841256991,1.0000000000
 		5.7274039788,45.1841256574,1.0000000000
 		5.7274039195,45.1839456967,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 535</name>
+	<description>Créée le 08-Jan-2020 12:24:58
+ par Nico
+ #Valeurs =2
+ mean=-119.47dBm
+ min=-120dBm
+ max=-119dBm
+ std=0.71dBm 
+
+ 	</description>
+	<styleUrl>#Color3-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7073003999,45.1947448740,1.0000000000
+		5.7073003959,45.1949248344,1.0000000000
+		5.7075549167,45.1949248369,1.0000000000
+		5.7075549199,45.1947448766,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
