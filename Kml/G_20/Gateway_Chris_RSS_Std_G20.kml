@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff296193 
-		 #Cells :5181 
-		 #Pkts :23860 
+		 #Cells :5182 
+		 #Pkts :23899 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -79410,14 +79410,14 @@
 	<name>Cell 2892</name>
 	<description>Créée le 05-Dec-2019 17:21:16
  par Nico
- #Valeurs =14
- mean=-114.09dBm
- min=-117dBm
+ #Valeurs =16
+ mean=-114.33dBm
+ min=-119dBm
  max=-109dBm
- std=2.83dBm 
+ std=2.80dBm 
 
  	</description>
-	<styleUrl>#Color10</styleUrl>
+	<styleUrl>#Color9</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -79437,11 +79437,11 @@
 	<name>Cell 2893</name>
 	<description>Créée le 05-Dec-2019 17:22:40
  par Nico
- #Valeurs =79
- mean=-113.98dBm
+ #Valeurs =91
+ mean=-114.16dBm
  min=-120dBm
  max=-107dBm
- std=3.16dBm 
+ std=3.15dBm 
 
  	</description>
 	<styleUrl>#Color11</styleUrl>
@@ -103926,11 +103926,11 @@
 	<name>Cell 3800</name>
 	<description>Créée le 18-Dec-2019 13:07:32
  par David D.
- #Valeurs =30
- mean=-114.80dBm
+ #Valeurs =32
+ mean=-114.98dBm
  min=-123dBm
  max=-108dBm
- std=3.40dBm 
+ std=3.39dBm 
 
  	</description>
 	<styleUrl>#Color11</styleUrl>
@@ -107112,11 +107112,11 @@
 	<name>Cell 3918</name>
 	<description>Créée le 19-Dec-2019 08:50:53
  par Valerian M.
- #Valeurs =410
- mean=-114.02dBm
+ #Valeurs =421
+ mean=-114.04dBm
  min=-125dBm
  max=-96dBm
- std=3.00dBm 
+ std=2.99dBm 
 
  	</description>
 	<styleUrl>#Color10</styleUrl>
@@ -109326,11 +109326,11 @@
 	<name>Cell 4000</name>
 	<description>Créée le 19-Dec-2019 14:03:03
  par Nico
- #Valeurs =7
- mean=-117.10dBm
+ #Valeurs =8
+ mean=-117.08dBm
  min=-119dBm
  max=-115dBm
- std=1.38dBm 
+ std=1.28dBm 
 
  	</description>
 	<styleUrl>#Color5</styleUrl>
@@ -114753,8 +114753,8 @@
 	<name>Cell 4201</name>
 	<description>Créée le 20-Dec-2019 08:51:08
  par Valerian M.
- #Valeurs =231
- mean=-114.83dBm
+ #Valeurs =234
+ mean=-114.84dBm
  min=-121dBm
  max=-107dBm
  std=2.76dBm 
@@ -141186,11 +141186,11 @@
 	<name>Cell 5180</name>
 	<description>Créée le 08-Jan-2020 09:28:04
  par Valerian M.
- #Valeurs =12
- mean=-116.06dBm
+ #Valeurs =18
+ mean=-116.59dBm
  min=-119dBm
  max=-113dBm
- std=1.83dBm 
+ std=1.76dBm 
 
  	</description>
 	<styleUrl>#Color6-highlight</styleUrl>
@@ -141231,6 +141231,33 @@
 		5.7057731033,45.1983440529,1.0000000000
 		5.7060276394,45.1983440589,1.0000000000
 		5.7060276474,45.1981640986,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 5182</name>
+	<description>Créée le 08-Jan-2020 11:21:36
+ par Valerian M.
+ #Valeurs =2
+ mean=-117.00dBm
+ min=-117dBm
+ max=-117dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color1-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7047549832,45.1979841029,1.0000000000
+		5.7047549711,45.1981640632,1.0000000000
+		5.7050095064,45.1981640714,1.0000000000
+		5.7050095176,45.1979841111,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
