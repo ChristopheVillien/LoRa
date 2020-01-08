@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff296193 
-		 #Cells :5237 
-		 #Pkts :25769 
+		 #Cells :5238 
+		 #Pkts :25781 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -142743,6 +142743,33 @@
 		5.7149362210,45.1967242675,1.0000000000
 		5.7151907498,45.1967242530,1.0000000000
 		5.7151907290,45.1965442927,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 5238</name>
+	<description>Créée le 08-Jan-2020 20:13:18
+ par Christophe C.
+ #Valeurs =12
+ mean=-115.09dBm
+ min=-119dBm
+ max=-111dBm
+ std=2.76dBm 
+
+ 	</description>
+	<styleUrl>#Color9-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6731927151,45.1979786867,1.0000000000
+		5.6731926036,45.1981586470,1.0000000000
+		5.6734471387,45.1981587255,1.0000000000
+		5.6734472494,45.1979787653,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
