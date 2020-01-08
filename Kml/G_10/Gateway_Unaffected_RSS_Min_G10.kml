@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Dec-2019 00:00:00 
 		 EUI :c0ee40ffff296904 
-		 #Cells :15 
-		 #Pkts :143 
+		 #Cells :16 
+		 #Pkts :188 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -1380,11 +1380,11 @@
 	<name>Cell 2</name>
 	<description>Créée le 08-Jan-2020 15:19:58
  par Valerian M.
- #Valeurs =30
- mean=-113.25dBm
+ #Valeurs =42
+ mean=-113.92dBm
  min=-126dBm
  max=-105dBm
- std=3.29dBm 
+ std=3.10dBm 
 
  	</description>
 	<styleUrl>#Color1-highlight</styleUrl>
@@ -1407,11 +1407,11 @@
 	<name>Cell 3</name>
 	<description>Créée le 08-Jan-2020 15:21:02
  par Valerian M.
- #Valeurs =26
- mean=-113.21dBm
+ #Valeurs =37
+ mean=-113.83dBm
  min=-120dBm
  max=-107dBm
- std=3.24dBm 
+ std=3.20dBm 
 
  	</description>
 	<styleUrl>#Color8-highlight</styleUrl>
@@ -1434,11 +1434,11 @@
 	<name>Cell 4</name>
 	<description>Créée le 08-Jan-2020 15:21:19
  par Valerian M.
- #Valeurs =17
- mean=-114.55dBm
+ #Valeurs =18
+ mean=-114.68dBm
  min=-119dBm
  max=-107dBm
- std=2.91dBm 
+ std=2.87dBm 
 
  	</description>
 	<styleUrl>#Color9-highlight</styleUrl>
@@ -1569,14 +1569,14 @@
 	<name>Cell 9</name>
 	<description>Créée le 08-Jan-2020 15:24:57
  par Valerian M.
- #Valeurs =1
- mean=-115.00dBm
- min=-115dBm
+ #Valeurs =11
+ mean=-117.08dBm
+ min=-119dBm
  max=-115dBm
- std=0.00dBm 
+ std=1.35dBm 
 
  	</description>
-	<styleUrl>#Color15-highlight</styleUrl>
+	<styleUrl>#Color9-highlight</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -1704,14 +1704,14 @@
 	<name>Cell 14</name>
 	<description>Créée le 08-Jan-2020 15:37:01
  par Valerian M.
- #Valeurs =1
- mean=-115.00dBm
- min=-115dBm
- max=-115dBm
- std=0.00dBm 
+ #Valeurs =8
+ mean=-116.64dBm
+ min=-119dBm
+ max=-114dBm
+ std=2.17dBm 
 
  	</description>
-	<styleUrl>#Color15-highlight</styleUrl>
+	<styleUrl>#Color9-highlight</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -1749,6 +1749,33 @@
 		5.7053912942,45.1984340231,1.0000000000
 		5.7055185625,45.1984340265,1.0000000000
 		5.7055185673,45.1983440464,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 16</name>
+	<description>Créée le 08-Jan-2020 15:41:57
+ par Valerian M.
+ #Valeurs =4
+ mean=-118.17dBm
+ min=-119dBm
+ max=-117dBm
+ std=0.96dBm 
+
+ 	</description>
+	<styleUrl>#Color9-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7055185721,45.1982540663,1.0000000000
+		5.7055185673,45.1983440464,1.0000000000
+		5.7056458353,45.1983440497,1.0000000000
+		5.7056458399,45.1982540696,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
