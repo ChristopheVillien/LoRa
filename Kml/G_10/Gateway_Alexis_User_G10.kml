@@ -326,8 +326,8 @@
 	<description> 
 		 Installed :04-Dec-2019 17:00:00 
 		 EUI :c0ee40ffff296bbe 
-		 #Cells :740 
-		 #Pkts :1208 
+		 #Cells :741 
+		 #Pkts :1213 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -9587,11 +9587,11 @@
 	<name>Cell 343</name>
 	<description>Créée le 16-Dec-2019 17:18:35
  par Nico
- #Valeurs =3
- mean=-116.48dBm
+ #Valeurs =4
+ mean=-116.82dBm
  min=-118dBm
  max=-115dBm
- std=1.53dBm 
+ std=1.41dBm 
 
  	</description>
 	<styleUrl>#Color3</styleUrl>
@@ -20324,6 +20324,33 @@
 		5.7074276581,45.1948348556,1.0000000000
 		5.7075549183,45.1948348568,1.0000000000
 		5.7075549199,45.1947448766,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 741</name>
+	<description>Créée le 08-Jan-2020 12:34:07
+ par Nico
+ #Valeurs =4
+ mean=-115.53dBm
+ min=-120dBm
+ max=-111dBm
+ std=4.36dBm 
+
+ 	</description>
+	<styleUrl>#Color3-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7078094412,45.1946548984,1.0000000000
+		5.7078094400,45.1947448786,1.0000000000
+		5.7079367000,45.1947448793,1.0000000000
+		5.7079367010,45.1946548992,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
