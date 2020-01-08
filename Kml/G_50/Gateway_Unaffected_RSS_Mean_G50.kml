@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Dec-2019 00:00:00 
 		 EUI :c0ee40ffff296904 
-		 #Cells :28 
-		 #Pkts :265 
+		 #Cells :32 
+		 #Pkts :275 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -2100,6 +2100,114 @@
 		5.7155730616,45.2009532957,1.0000000000
 		5.7162094308,45.2009532550,1.0000000000
 		5.7162093706,45.2005033545,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 29</name>
+	<description>Créée le 08-Jan-2020 20:08:08
+ par Florian
+ #Valeurs =1
+ mean=-115.00dBm
+ min=-115dBm
+ max=-115dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color9-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7149361909,45.1964543271,1.0000000000
+		5.7149362410,45.1969042278,1.0000000000
+		5.7155725651,45.1969041906,1.0000000000
+		5.7155725100,45.1964542898,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 30</name>
+	<description>Créée le 08-Jan-2020 20:09:44
+ par Florian
+ #Valeurs =1
+ mean=-115.00dBm
+ min=-115dBm
+ max=-115dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color9-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7206623005,45.1928546572,1.0000000000
+		5.7206623958,45.1933045582,1.0000000000
+		5.7212986797,45.1933044891,1.0000000000
+		5.7212985795,45.1928545880,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 31</name>
+	<description>Créée le 08-Jan-2020 20:12:54
+ par Christophe C.
+ #Valeurs =1
+ mean=-115.00dBm
+ min=-115dBm
+ max=-115dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color9-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6729380123,45.1982485479,1.0000000000
+		5.6729377315,45.1986984485,1.0000000000
+		5.6735740754,45.1986986452,1.0000000000
+		5.6735743512,45.1982487447,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 32</name>
+	<description>Créée le 08-Jan-2020 20:13:18
+ par Christophe C.
+ #Valeurs =7
+ mean=-116.47dBm
+ min=-119dBm
+ max=-115dBm
+ std=2.04dBm 
+
+ 	</description>
+	<styleUrl>#Color8-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6729382930,45.1977986474,1.0000000000
+		5.6729380123,45.1982485479,1.0000000000
+		5.6735743512,45.1982487447,1.0000000000
+		5.6735746269,45.1977988441,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
