@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Dec-2019 00:00:00 
 		 EUI :c0ee40ffff296937 
-		 #Cells :646 
-		 #Pkts :3272 
+		 #Cells :651 
+		 #Pkts :3280 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -9102,11 +9102,11 @@
 	<name>Cell 288</name>
 	<description>Créée le 12-Dec-2019 08:29:01
  par Benoit
- #Valeurs =2
- mean=-109.82dBm
- min=-113dBm
+ #Valeurs =3
+ mean=-110.82dBm
+ min=-114dBm
  max=-108dBm
- std=3.54dBm 
+ std=3.21dBm 
 
  	</description>
 	<styleUrl>#Color13</styleUrl>
@@ -15582,14 +15582,14 @@
 	<name>Cell 528</name>
 	<description>Créée le 04-Jan-2020 09:56:59
  par Benoit
- #Valeurs =4
- mean=-111.62dBm
+ #Valeurs =6
+ mean=-112.48dBm
  min=-117dBm
  max=-109dBm
- std=3.42dBm 
+ std=2.94dBm 
 
  	</description>
-	<styleUrl>#Color12</styleUrl>
+	<styleUrl>#Color11</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -18786,6 +18786,141 @@
 		5.7266405324,45.1840358004,1.0000000000
 		5.7267677685,45.1840357802,1.0000000000
 		5.7267677398,45.1839457999,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 647</name>
+	<description>Créée le 08-Jan-2020 08:33:24
+ par Benoit
+ #Valeurs =1
+ mean=-111.00dBm
+ min=-111dBm
+ max=-111dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color12-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7260042693,45.1837659582,1.0000000000
+		5.7260042968,45.1838559386,1.0000000000
+		5.7261315325,45.1838559191,1.0000000000
+		5.7261315048,45.1837659387,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 648</name>
+	<description>Créée le 08-Jan-2020 08:33:32
+ par Benoit
+ #Valeurs =1
+ mean=-112.00dBm
+ min=-112dBm
+ max=-112dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color12-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7257499877,45.1843958592,1.0000000000
+		5.7257500147,45.1844858395,1.0000000000
+		5.7258772519,45.1844858203,1.0000000000
+		5.7258772246,45.1843958400,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 649</name>
+	<description>Créée le 08-Jan-2020 08:34:04
+ par Benoit
+ #Valeurs =1
+ mean=-115.00dBm
+ min=-115dBm
+ max=-115dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color9-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7254956738,45.1849357792,1.0000000000
+		5.7254957004,45.1850257595,1.0000000000
+		5.7256229388,45.1850257406,1.0000000000
+		5.7256229119,45.1849357603,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 650</name>
+	<description>Créée le 08-Jan-2020 08:34:12
+ par Benoit
+ #Valeurs =1
+ mean=-117.00dBm
+ min=-117dBm
+ max=-117dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color7-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7253684356,45.1849357980,1.0000000000
+		5.7253684621,45.1850257783,1.0000000000
+		5.7254957004,45.1850257595,1.0000000000
+		5.7254956738,45.1849357792,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 651</name>
+	<description>Créée le 08-Jan-2020 08:34:27
+ par Benoit
+ #Valeurs =1
+ mean=-114.00dBm
+ min=-114dBm
+ max=-114dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color10-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7247325250,45.1859256733,1.0000000000
+		5.7247325504,45.1860156536,1.0000000000
+		5.7248597910,45.1860156356,1.0000000000
+		5.7248597653,45.1859256552,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
