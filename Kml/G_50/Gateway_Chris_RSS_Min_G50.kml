@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff296193 
-		 #Cells :2441 
-		 #Pkts :25688 
+		 #Cells :2444 
+		 #Pkts :25699 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -5889,11 +5889,11 @@
 	<name>Cell 169</name>
 	<description>Créée le 13-Nov-2019 09:26:44
  par Chris
- #Valeurs =11
- mean=-115.45dBm
+ #Valeurs =12
+ mean=-115.56dBm
  min=-120dBm
  max=-113dBm
- std=2.37dBm 
+ std=2.27dBm 
 
  	</description>
 	<styleUrl>#Color8</styleUrl>
@@ -8670,14 +8670,14 @@
 	<name>Cell 272</name>
 	<description>Créée le 15-Nov-2019 14:30:06
  par Chris
- #Valeurs =3
- mean=-117.00dBm
- min=-117dBm
- max=-117dBm
- std=0.00dBm 
+ #Valeurs =5
+ mean=-116.68dBm
+ min=-118dBm
+ max=-115dBm
+ std=1.10dBm 
 
  	</description>
-	<styleUrl>#Color12</styleUrl>
+	<styleUrl>#Color10</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -38127,14 +38127,14 @@
 	<name>Cell 1363</name>
 	<description>Créée le 25-Nov-2019 12:41:24
  par Nico
- #Valeurs =1
- mean=-110.00dBm
- min=-110dBm
+ #Valeurs =2
+ mean=-111.82dBm
+ min=-115dBm
  max=-110dBm
- std=0.00dBm 
+ std=3.54dBm 
 
  	</description>
-	<styleUrl>#Color22</styleUrl>
+	<styleUrl>#Color15</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -49386,11 +49386,11 @@
 	<name>Cell 1780</name>
 	<description>Créée le 17-Dec-2019 18:46:46
  par Hugo L.
- #Valeurs =3
- mean=-117.31dBm
+ #Valeurs =4
+ mean=-116.61dBm
  min=-118dBm
- max=-117dBm
- std=0.58dBm 
+ max=-115dBm
+ std=1.26dBm 
 
  	</description>
 	<styleUrl>#Color10</styleUrl>
@@ -61347,11 +61347,11 @@
 	<name>Cell 2223</name>
 	<description>Créée le 24-Dec-2019 19:03:54
  par Hugo L.
- #Valeurs =2
- mean=-116.55dBm
+ #Valeurs =4
+ mean=-116.21dBm
  min=-119dBm
  max=-115dBm
- std=2.83dBm 
+ std=1.91dBm 
 
  	</description>
 	<styleUrl>#Color9</styleUrl>
@@ -66781,7 +66781,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color12-highlight</styleUrl>
+	<styleUrl>#Color12</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -66808,7 +66808,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color12-highlight</styleUrl>
+	<styleUrl>#Color12</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -66835,7 +66835,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color9-highlight</styleUrl>
+	<styleUrl>#Color9</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -67251,6 +67251,87 @@
 		5.7041186260,45.1982540203,1.0000000000
 		5.7047549651,45.1982540433,1.0000000000
 		5.7047549952,45.1978041427,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2442</name>
+	<description>Créée le 08-Jan-2020 19:02:25
+ par Hugo L.
+ #Valeurs =2
+ mean=-110.82dBm
+ min=-114dBm
+ max=-109dBm
+ std=3.54dBm 
+
+ 	</description>
+	<styleUrl>#Color16-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7079367661,45.1888061843,1.0000000000
+		5.7079367611,45.1892560856,1.0000000000
+		5.7085730000,45.1892560874,1.0000000000
+		5.7085730000,45.1888061860,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2443</name>
+	<description>Créée le 08-Jan-2020 19:03:27
+ par Hugo L.
+ #Valeurs =1
+ mean=-118.00dBm
+ min=-118dBm
+ max=-118dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color10-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7098454276,45.1870065732,1.0000000000
+		5.7098454377,45.1874564747,1.0000000000
+		5.7104816565,45.1874564658,1.0000000000
+		5.7104816415,45.1870065643,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 2444</name>
+	<description>Créée le 08-Jan-2020 19:04:07
+ par Hugo L.
+ #Valeurs =1
+ mean=-114.00dBm
+ min=-114dBm
+ max=-114dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color16-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7104816264,45.1865566628,1.0000000000
+		5.7104816415,45.1870065643,1.0000000000
+		5.7111178553,45.1870065519,1.0000000000
+		5.7111178352,45.1865566504,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
