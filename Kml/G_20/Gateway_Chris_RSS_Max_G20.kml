@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff296193 
-		 #Cells :5151 
-		 #Pkts :22875 
+		 #Cells :5152 
+		 #Pkts :22879 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -42798,11 +42798,11 @@
 	<name>Cell 1536</name>
 	<description>Créée le 16-Dec-2019 15:56:02
  par Simon
- #Valeurs =1
- mean=-118.00dBm
+ #Valeurs =2
+ mean=-117.47dBm
  min=-118dBm
- max=-118dBm
- std=0.00dBm 
+ max=-117dBm
+ std=0.71dBm 
 
  	</description>
 	<styleUrl>#Color5</styleUrl>
@@ -42852,14 +42852,14 @@
 	<name>Cell 1538</name>
 	<description>Créée le 16-Dec-2019 15:56:37
  par Simon
- #Valeurs =3
- mean=-115.97dBm
+ #Valeurs =4
+ mean=-115.02dBm
  min=-119dBm
- max=-115dBm
- std=2.31dBm 
+ max=-113dBm
+ std=2.52dBm 
 
  	</description>
-	<styleUrl>#Color7</styleUrl>
+	<styleUrl>#Color8</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -52842,11 +52842,11 @@
 	<name>Cell 1908</name>
 	<description>Créée le 17-Dec-2019 08:37:39
  par Benoit
- #Valeurs =2
- mean=-110.25dBm
- min=-112dBm
+ #Valeurs =3
+ mean=-110.99dBm
+ min=-113dBm
  max=-109dBm
- std=2.12dBm 
+ std=2.08dBm 
 
  	</description>
 	<styleUrl>#Color10</styleUrl>
@@ -137980,7 +137980,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color11-highlight</styleUrl>
+	<styleUrl>#Color11</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -138007,7 +138007,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color5-highlight</styleUrl>
+	<styleUrl>#Color5</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -138034,7 +138034,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color5-highlight</styleUrl>
+	<styleUrl>#Color5</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -138061,7 +138061,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color4-highlight</styleUrl>
+	<styleUrl>#Color4</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -138547,7 +138547,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color10-highlight</styleUrl>
+	<styleUrl>#Color10</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -140421,6 +140421,33 @@
 		5.7085730000,45.1920454750,1.0000000000
 		5.7088275080,45.1920454747,1.0000000000
 		5.7088275072,45.1918655143,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 5152</name>
+	<description>Créée le 08-Jan-2020 08:34:04
+ par Benoit
+ #Valeurs =1
+ mean=-117.00dBm
+ min=-117dBm
+ max=-117dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color5-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7253684092,45.1848458176,1.0000000000
+		5.7253684621,45.1850257783,1.0000000000
+		5.7256229388,45.1850257406,1.0000000000
+		5.7256228850,45.1848457799,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
