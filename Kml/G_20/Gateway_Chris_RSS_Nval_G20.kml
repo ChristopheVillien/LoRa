@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff296193 
-		 #Cells :5238 
-		 #Pkts :25801 
+		 #Cells :5239 
+		 #Pkts :25820 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -142752,11 +142752,11 @@
 	<name>Cell 5238</name>
 	<description>Créée le 08-Jan-2020 20:13:18
  par Christophe C.
- #Valeurs =32
- mean=-114.63dBm
+ #Valeurs =38
+ mean=-114.74dBm
  min=-120dBm
  max=-107dBm
- std=3.34dBm 
+ std=3.21dBm 
 
  	</description>
 	<styleUrl>#Color64-highlight</styleUrl>
@@ -142770,6 +142770,33 @@
 		5.6731926036,45.1981586470,1.0000000000
 		5.6734471387,45.1981587255,1.0000000000
 		5.6734472494,45.1979787653,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 5239</name>
+	<description>Créée le 08-Jan-2020 20:28:27
+ par Christophe C.
+ #Valeurs =13
+ mean=-117.28dBm
+ min=-120dBm
+ max=-115dBm
+ std=1.56dBm 
+
+ 	</description>
+	<styleUrl>#Color42-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6729381807,45.1979786076,1.0000000000
+		5.6729380684,45.1981585678,1.0000000000
+		5.6731926036,45.1981586470,1.0000000000
+		5.6731927151,45.1979786867,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
