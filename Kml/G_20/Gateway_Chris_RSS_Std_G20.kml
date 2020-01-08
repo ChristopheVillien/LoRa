@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff296193 
-		 #Cells :5179 
-		 #Pkts :23192 
+		 #Cells :5180 
+		 #Pkts :23240 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -79437,14 +79437,14 @@
 	<name>Cell 2893</name>
 	<description>Créée le 05-Dec-2019 17:22:40
  par Nico
- #Valeurs =22
- mean=-114.96dBm
+ #Valeurs =33
+ mean=-113.40dBm
  min=-119dBm
- max=-109dBm
- std=2.30dBm 
+ max=-107dBm
+ std=3.31dBm 
 
  	</description>
-	<styleUrl>#Color8</styleUrl>
+	<styleUrl>#Color11</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -107112,14 +107112,14 @@
 	<name>Cell 3918</name>
 	<description>Créée le 19-Dec-2019 08:50:53
  par Valerian M.
- #Valeurs =111
- mean=-114.79dBm
+ #Valeurs =125
+ mean=-114.92dBm
  min=-120dBm
  max=-106dBm
- std=2.83dBm 
+ std=2.75dBm 
 
  	</description>
-	<styleUrl>#Color10</styleUrl>
+	<styleUrl>#Color9</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -109326,14 +109326,14 @@
 	<name>Cell 4000</name>
 	<description>Créée le 19-Dec-2019 14:03:03
  par Nico
- #Valeurs =3
- mean=-116.70dBm
+ #Valeurs =5
+ mean=-116.82dBm
  min=-119dBm
  max=-115dBm
- std=2.00dBm 
+ std=1.41dBm 
 
  	</description>
-	<styleUrl>#Color7</styleUrl>
+	<styleUrl>#Color5</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -114753,11 +114753,11 @@
 	<name>Cell 4201</name>
 	<description>Créée le 20-Dec-2019 08:51:08
  par Valerian M.
- #Valeurs =44
- mean=-113.78dBm
+ #Valeurs =63
+ mean=-113.96dBm
  min=-121dBm
  max=-107dBm
- std=3.59dBm 
+ std=3.58dBm 
 
  	</description>
 	<styleUrl>#Color12</styleUrl>
@@ -141177,6 +141177,33 @@
 		5.7055185673,45.1983440464,1.0000000000
 		5.7057731033,45.1983440529,1.0000000000
 		5.7057731122,45.1981640927,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 5180</name>
+	<description>Créée le 08-Jan-2020 09:28:04
+ par Valerian M.
+ #Valeurs =2
+ mean=-114.82dBm
+ min=-118dBm
+ max=-113dBm
+ std=3.54dBm 
+
+ 	</description>
+	<styleUrl>#Color12-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7055185673,45.1983440464,1.0000000000
+		5.7055185576,45.1985240067,1.0000000000
+		5.7057730945,45.1985240132,1.0000000000
+		5.7057731033,45.1983440529,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
