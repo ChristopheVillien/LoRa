@@ -326,8 +326,8 @@
 	<description> 
 		 Installed :01-Dec-2019 00:00:00 
 		 EUI :c0ee40ffff296904 
-		 #Cells :47 
-		 #Pkts :573 
+		 #Cells :48 
+		 #Pkts :575 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -1613,6 +1613,33 @@
 		5.6729380684,45.1981585678,1.0000000000
 		5.6731926036,45.1981586470,1.0000000000
 		5.6731927151,45.1979786867,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 48</name>
+	<description>Créée le 08-Jan-2020 21:15:12
+ par Christophe C.
+ #Valeurs =2
+ mean=-115.25dBm
+ min=-117dBm
+ max=-114dBm
+ std=2.12dBm 
+
+ 	</description>
+	<styleUrl>#Color7-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6678487775,45.1961773034,1.0000000000
+		5.6678486491,45.1963572637,1.0000000000
+		5.6681031762,45.1963573541,1.0000000000
+		5.6681033038,45.1961773939,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
