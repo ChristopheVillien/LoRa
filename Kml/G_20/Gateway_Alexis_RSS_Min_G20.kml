@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :04-Dec-2019 17:00:00 
 		 EUI :c0ee40ffff296bbe 
-		 #Cells :541 
-		 #Pkts :1366 
+		 #Cells :542 
+		 #Pkts :1367 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -15951,6 +15951,33 @@
 		5.6729380684,45.1981585678,1.0000000000
 		5.6731926036,45.1981586470,1.0000000000
 		5.6731927151,45.1979786867,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 542</name>
+	<description>Créée le 09-Jan-2020 08:15:48
+ par Christophe C.
+ #Valeurs =1
+ mean=-118.00dBm
+ min=-118dBm
+ max=-118dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color10-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6706489255,45.1956383865,1.0000000000
+		5.6706488060,45.1958183468,1.0000000000
+		5.6709033307,45.1958184310,1.0000000000
+		5.6709034494,45.1956384708,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
