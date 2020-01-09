@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :04-Dec-2019 17:00:00 
 		 EUI :c0ee40ffff296bbe 
-		 #Cells :751 
-		 #Pkts :1370 
+		 #Cells :752 
+		 #Pkts :1374 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -18309,14 +18309,14 @@
 	<name>Cell 629</name>
 	<description>Créée le 06-Jan-2020 08:24:35
  par Benoit
- #Valeurs =1
- mean=-119.00dBm
+ #Valeurs =2
+ mean=-117.89dBm
  min=-119dBm
- max=-119dBm
- std=0.00dBm 
+ max=-117dBm
+ std=1.41dBm 
 
  	</description>
-	<styleUrl>#Color4</styleUrl>
+	<styleUrl>#Color7</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -21259,7 +21259,7 @@
  std=0.00dBm 
 
  	</description>
-	<styleUrl>#Color4-highlight</styleUrl>
+	<styleUrl>#Color4</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -21621,6 +21621,33 @@
 		5.6945749729,45.1924045381,1.0000000000
 		5.6947022277,45.1924045536,1.0000000000
 		5.6947022496,45.1923145734,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 752</name>
+	<description>Créée le 09-Jan-2020 08:26:47
+ par Benoit
+ #Valeurs =3
+ mean=-119.64dBm
+ min=-120dBm
+ max=-119dBm
+ std=0.58dBm 
+
+ 	</description>
+	<styleUrl>#Color10-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7262587682,45.1838558995,1.0000000000
+		5.7262587961,45.1839458798,1.0000000000
+		5.7263860320,45.1839458600,1.0000000000
+		5.7263860040,45.1838558797,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
