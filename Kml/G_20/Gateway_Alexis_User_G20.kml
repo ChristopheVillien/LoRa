@@ -326,8 +326,8 @@
 	<description> 
 		 Installed :04-Dec-2019 17:00:00 
 		 EUI :c0ee40ffff296bbe 
-		 #Cells :542 
-		 #Pkts :1367 
+		 #Cells :544 
+		 #Pkts :1370 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -14420,11 +14420,11 @@
 	<name>Cell 522</name>
 	<description>Créée le 07-Jan-2020 08:23:49
  par Christophe C.
- #Valeurs =2
- mean=-117.89dBm
+ #Valeurs =3
+ mean=-118.23dBm
  min=-119dBm
  max=-117dBm
- std=1.41dBm 
+ std=1.15dBm 
 
  	</description>
 	<styleUrl>#Color7</styleUrl>
@@ -14978,6 +14978,60 @@
 		5.6706488060,45.1958183468,1.0000000000
 		5.6709033307,45.1958184310,1.0000000000
 		5.6709034494,45.1956384708,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 543</name>
+	<description>Créée le 09-Jan-2020 08:20:30
+ par Christophe C.
+ #Valeurs =1
+ mean=-119.00dBm
+ min=-119dBm
+ max=-119dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color7-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6894849019,45.1920438799,1.0000000000
+		5.6894848418,45.1922238404,1.0000000000
+		5.6897393505,45.1922238826,1.0000000000
+		5.6897394099,45.1920439222,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 544</name>
+	<description>Créée le 09-Jan-2020 08:21:02
+ par Christophe C.
+ #Valeurs =1
+ mean=-119.00dBm
+ min=-119dBm
+ max=-119dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color7-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.6927934557,45.1922243454,1.0000000000
+		5.6927934059,45.1924043058,1.0000000000
+		5.6930479155,45.1924043407,1.0000000000
+		5.6930479644,45.1922243803,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
