@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Dec-2019 00:00:00 
 		 EUI :c0ee40ffff296937 
-		 #Cells :705 
-		 #Pkts :4054 
+		 #Cells :706 
+		 #Pkts :4103 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -3378,11 +3378,11 @@
 	<name>Cell 76</name>
 	<description>Créée le 04-Dec-2019 08:37:09
  par Benoit
- #Valeurs =38
- mean=-31.82dBm
+ #Valeurs =39
+ mean=-31.72dBm
  min=-100dBm
  max=-28dBm
- std=17.74dBm 
+ std=17.60dBm 
 
  	</description>
 	<styleUrl>#Color36</styleUrl>
@@ -3459,11 +3459,11 @@
 	<name>Cell 79</name>
 	<description>Créée le 04-Dec-2019 08:38:11
  par Benoit
- #Valeurs =14
- mean=-32.85dBm
+ #Valeurs =15
+ mean=-32.59dBm
  min=-90dBm
  max=-29dBm
- std=25.22dBm 
+ std=24.80dBm 
 
  	</description>
 	<styleUrl>#Color50</styleUrl>
@@ -5646,11 +5646,11 @@
 	<name>Cell 160</name>
 	<description>Créée le 07-Dec-2019 11:33:22
  par Benoit
- #Valeurs =28
- mean=-33.61dBm
+ #Valeurs =33
+ mean=-32.70dBm
  min=-95dBm
  max=-28dBm
- std=24.32dBm 
+ std=23.62dBm 
 
  	</description>
 	<styleUrl>#Color43</styleUrl>
@@ -5700,11 +5700,11 @@
 	<name>Cell 162</name>
 	<description>Créée le 07-Dec-2019 11:33:45
  par Benoit
- #Valeurs =12
- mean=-28.94dBm
+ #Valeurs =13
+ mean=-28.95dBm
  min=-108dBm
  max=-26dBm
- std=33.58dBm 
+ std=32.52dBm 
 
  	</description>
 	<styleUrl>#Color25</styleUrl>
@@ -9264,11 +9264,11 @@
 	<name>Cell 294</name>
 	<description>Créée le 12-Dec-2019 18:07:05
  par Benoit
- #Valeurs =30
- mean=-33.45dBm
+ #Valeurs =35
+ mean=-32.69dBm
  min=-83dBm
  max=-28dBm
- std=18.42dBm 
+ std=17.79dBm 
 
  	</description>
 	<styleUrl>#Color60</styleUrl>
@@ -12045,11 +12045,11 @@
 	<name>Cell 397</name>
 	<description>Créée le 20-Dec-2019 09:48:59
  par Benoit
- #Valeurs =55
- mean=-30.55dBm
+ #Valeurs =67
+ mean=-30.38dBm
  min=-53dBm
  max=-28dBm
- std=6.67dBm 
+ std=6.16dBm 
 
  	</description>
 	<styleUrl>#Color64</styleUrl>
@@ -12072,11 +12072,11 @@
 	<name>Cell 398</name>
 	<description>Créée le 20-Dec-2019 09:50:51
  par Benoit
- #Valeurs =72
- mean=-30.44dBm
+ #Valeurs =75
+ mean=-30.37dBm
  min=-53dBm
  max=-28dBm
- std=6.07dBm 
+ std=5.98dBm 
 
  	</description>
 	<styleUrl>#Color64</styleUrl>
@@ -12342,11 +12342,11 @@
 	<name>Cell 408</name>
 	<description>Créée le 20-Dec-2019 10:14:05
  par Benoit
- #Valeurs =20
- mean=-30.14dBm
+ #Valeurs =22
+ mean=-30.02dBm
  min=-53dBm
  max=-28dBm
- std=5.89dBm 
+ std=5.65dBm 
 
  	</description>
 	<styleUrl>#Color64</styleUrl>
@@ -12693,11 +12693,11 @@
 	<name>Cell 421</name>
 	<description>Créée le 20-Dec-2019 10:27:19
  par Benoit
- #Valeurs =47
- mean=-31.38dBm
+ #Valeurs =55
+ mean=-30.98dBm
  min=-53dBm
  max=-27dBm
- std=6.72dBm 
+ std=6.42dBm 
 
  	</description>
 	<styleUrl>#Color64</styleUrl>
@@ -12720,11 +12720,11 @@
 	<name>Cell 422</name>
 	<description>Créée le 20-Dec-2019 10:31:26
  par Benoit
- #Valeurs =25
- mean=-31.93dBm
+ #Valeurs =32
+ mean=-31.22dBm
  min=-90dBm
  max=-28dBm
- std=16.72dBm 
+ std=15.25dBm 
 
  	</description>
 	<styleUrl>#Color50</styleUrl>
@@ -13422,11 +13422,11 @@
 	<name>Cell 448</name>
 	<description>Créée le 20-Dec-2019 11:13:38
  par Benoit
- #Valeurs =17
- mean=-30.80dBm
+ #Valeurs =20
+ mean=-30.61dBm
  min=-53dBm
  max=-29dBm
- std=7.75dBm 
+ std=7.24dBm 
 
  	</description>
 	<styleUrl>#Color64</styleUrl>
@@ -20379,6 +20379,33 @@
 		5.7256224552,45.1834060945,1.0000000000
 		5.7257496900,45.1834060754,1.0000000000
 		5.7257496629,45.1833160950,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 706</name>
+	<description>Créée le 10-Jan-2020 09:39:08
+ par Benoit
+ #Valeurs =1
+ mean=-29.00dBm
+ min=-29dBm
+ max=-29dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color64-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7263857794,45.1831360369,1.0000000000
+		5.7263858075,45.1832260172,1.0000000000
+		5.7265130418,45.1832259973,1.0000000000
+		5.7265130136,45.1831360170,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
