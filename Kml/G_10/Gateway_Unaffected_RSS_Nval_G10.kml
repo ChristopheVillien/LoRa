@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Dec-2019 00:00:00 
 		 EUI :c0ee40ffff296904 
-		 #Cells :631 
-		 #Pkts :1601 
+		 #Cells :634 
+		 #Pkts :1605 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -18381,6 +18381,87 @@
 		5.7047549471,45.1985239837,1.0000000000
 		5.7048822155,45.1985239879,1.0000000000
 		5.7048822213,45.1984340077,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 632</name>
+	<description>Créée le 14-Jan-2020 17:10:04
+ par Simon
+ #Valeurs =2
+ mean=-112.47dBm
+ min=-113dBm
+ max=-112dBm
+ std=0.71dBm 
+
+ 	</description>
+	<styleUrl>#Color7-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7061552351,45.1906057657,1.0000000000
+		5.7061552313,45.1906957459,1.0000000000
+		5.7062824823,45.1906957485,1.0000000000
+		5.7062824859,45.1906057683,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 633</name>
+	<description>Créée le 14-Jan-2020 17:10:28
+ par Simon
+ #Valeurs =1
+ mean=-117.00dBm
+ min=-117dBm
+ max=-117dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color4-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7059007462,45.1903358192,1.0000000000
+		5.7059007420,45.1904257995,1.0000000000
+		5.7060279924,45.1904258024,1.0000000000
+		5.7060279964,45.1903358221,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 634</name>
+	<description>Créée le 14-Jan-2020 17:10:52
+ par Simon
+ #Valeurs =1
+ mean=-115.00dBm
+ min=-115dBm
+ max=-115dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color4-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7048827971,45.1895259686,1.0000000000
+		5.7048827912,45.1896159488,1.0000000000
+		5.7050100398,45.1896159529,1.0000000000
+		5.7050100454,45.1895259726,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>

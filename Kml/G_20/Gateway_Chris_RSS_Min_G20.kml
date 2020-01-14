@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Nov-2019 00:00:00 
 		 EUI :c0ee40ffff296193 
-		 #Cells :5538 
-		 #Pkts :27654 
+		 #Cells :5541 
+		 #Pkts :27660 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -43662,7 +43662,7 @@
 	<name>Cell 1568</name>
 	<description>Créée le 19-Nov-2019 19:36:55
  par Benoit
- #Valeurs =1
+ #Valeurs =2
  mean=-119.00dBm
  min=-119dBm
  max=-119dBm
@@ -54462,14 +54462,14 @@
 	<name>Cell 1968</name>
 	<description>Créée le 21-Nov-2019 08:40:07
  par Chris
- #Valeurs =1
- mean=-108.00dBm
- min=-108dBm
+ #Valeurs =2
+ mean=-110.37dBm
+ min=-116dBm
  max=-108dBm
- std=0.00dBm 
+ std=5.66dBm 
 
  	</description>
-	<styleUrl>#Color25</styleUrl>
+	<styleUrl>#Color13</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -75900,11 +75900,11 @@
 	<name>Cell 2762</name>
 	<description>Créée le 28-Nov-2019 11:59:25
  par Nico
- #Valeurs =2
- mean=-115.25dBm
+ #Valeurs =3
+ mean=-115.76dBm
  min=-117dBm
  max=-114dBm
- std=2.12dBm 
+ std=1.73dBm 
 
  	</description>
 	<styleUrl>#Color12</styleUrl>
@@ -150870,6 +150870,87 @@
 		5.6996630303,45.2060820250,1.0000000000
 		5.6999176009,45.2060820446,1.0000000000
 		5.6999176282,45.2059020846,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 5539</name>
+	<description>Créée le 14-Jan-2020 17:10:40
+ par Simon
+ #Valeurs =1
+ mean=-115.00dBm
+ min=-115dBm
+ max=-115dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color15-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7055190197,45.1898859084,1.0000000000
+		5.7055190101,45.1900658689,1.0000000000
+		5.7057735092,45.1900658754,1.0000000000
+		5.7057735181,45.1898859149,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 5540</name>
+	<description>Créée le 14-Jan-2020 17:10:52
+ par Simon
+ #Valeurs =1
+ mean=-110.00dBm
+ min=-110dBm
+ max=-110dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color22-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7047555487,45.1895259644,1.0000000000
+		5.7047555367,45.1897059249,1.0000000000
+		5.7050100342,45.1897059331,1.0000000000
+		5.7050100454,45.1895259726,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 5541</name>
+	<description>Créée le 14-Jan-2020 17:11:28
+ par Simon
+ #Valeurs =1
+ mean=-120.00dBm
+ min=-120dBm
+ max=-120dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color8-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7055191256,45.1879063424,1.0000000000
+		5.7055191159,45.1880863029,1.0000000000
+		5.7057736063,45.1880863095,1.0000000000
+		5.7057736151,45.1879063489,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
