@@ -1326,8 +1326,8 @@
 	<description> 
 		 Installed :01-Dec-2019 00:00:00 
 		 EUI :c0ee40ffff296904 
-		 #Cells :634 
-		 #Pkts :1605 
+		 #Cells :640 
+		 #Pkts :1614 
 	</description>
 	<Camera>
 		<gx:ViewerOptions>
@@ -16095,14 +16095,14 @@
 	<name>Cell 547</name>
 	<description>Créée le 13-Jan-2020 09:13:29
  par Hugo L.
- #Valeurs =1
- mean=-108.00dBm
+ #Valeurs =3
+ mean=-101.86dBm
  min=-108dBm
- max=-108dBm
- std=0.00dBm 
+ max=-100dBm
+ std=4.36dBm 
 
  	</description>
-	<styleUrl>#Color4</styleUrl>
+	<styleUrl>#Color10</styleUrl>
 	<Polygon>
 		<tessellate>1</tessellate>
 		<altitudeMode>relativeToGround</altitudeMode>
@@ -18462,6 +18462,168 @@
 		5.7048827912,45.1896159488,1.0000000000
 		5.7050100398,45.1896159529,1.0000000000
 		5.7050100454,45.1895259726,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 635</name>
+	<description>Créée le 14-Jan-2020 17:20:35
+ par Serge B.
+ #Valeurs =1
+ mean=-101.00dBm
+ min=-101dBm
+ max=-101dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color4-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7103545503,45.1918655007,1.0000000000
+		5.7103545531,45.1919554809,1.0000000000
+		5.7104818069,45.1919554788,1.0000000000
+		5.7104818039,45.1918654986,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 636</name>
+	<description>Créée le 14-Jan-2020 17:20:59
+ par Serge B.
+ #Valeurs =1
+ mean=-111.00dBm
+ min=-111dBm
+ max=-111dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color4-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7120088036,45.1911456210,1.0000000000
+		5.7120088091,45.1912356013,1.0000000000
+		5.7121360612,45.1912355974,1.0000000000
+		5.7121360556,45.1911456171,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 637</name>
+	<description>Créée le 14-Jan-2020 17:21:07
+ par Serge B.
+ #Valeurs =1
+ mean=-111.00dBm
+ min=-111dBm
+ max=-111dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color4-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7120087982,45.1910556408,1.0000000000
+		5.7120088036,45.1911456210,1.0000000000
+		5.7121360556,45.1911456171,1.0000000000
+		5.7121360500,45.1910556369,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 638</name>
+	<description>Créée le 14-Jan-2020 17:21:14
+ par Serge B.
+ #Valeurs =2
+ mean=-111.55dBm
+ min=-114dBm
+ max=-110dBm
+ std=2.83dBm 
+
+ 	</description>
+	<styleUrl>#Color7-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7120087928,45.1909656605,1.0000000000
+		5.7120087982,45.1910556408,1.0000000000
+		5.7121360500,45.1910556369,1.0000000000
+		5.7121360444,45.1909656566,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 639</name>
+	<description>Créée le 14-Jan-2020 17:21:30
+ par Serge B.
+ #Valeurs =1
+ mean=-111.00dBm
+ min=-111dBm
+ max=-111dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color4-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7127722031,45.1896159312,1.0000000000
+		5.7127722097,45.1897059115,1.0000000000
+		5.7128994585,45.1897059068,1.0000000000
+		5.7128994516,45.1896159265,1.0000000000
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Cell 640</name>
+	<description>Créée le 14-Jan-2020 17:21:38
+ par Serge B.
+ #Valeurs =1
+ mean=-109.00dBm
+ min=-109dBm
+ max=-109dBm
+ std=0.00dBm 
+
+ 	</description>
+	<styleUrl>#Color4-highlight</styleUrl>
+	<Polygon>
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+		5.7127721964,45.1895259510,1.0000000000
+		5.7127722031,45.1896159312,1.0000000000
+		5.7128994516,45.1896159265,1.0000000000
+		5.7128994448,45.1895259462,1.0000000000
 			</coordinates>
 			</LinearRing>
 		</outerBoundaryIs>
